@@ -156,7 +156,7 @@ by their team's remaining regular-season games to get their projected
 entry's current actual touchdowns, then rounded **up** to a whole
 number for display. The emoji is just a quick read on that number
 relative to 21 (😴 way under, 😬 needs work, 😊 good pace, 🎯 right on
-target, 😅 getting risky, 🤯 way past).
+target, 🤯 projected bust — anything over 21).
 
 Before any games are played, this means the projected total is simply
 the sum of the 4 players' `projectedTds` — a useful sanity check.
