@@ -1,12 +1,12 @@
 [
   {
-    "name": "Example Entry — edit or remove me",
-    "owner": "Your name here",
+    "name": "MikeP",
+    "owner": "MikeP",
     "players": [
-      { "name": "Jonathan Taylor", "team": "Indianapolis Colts" },
-      { "name": "Jahmyr Gibbs", "team": "Detroit Lions" },
-      { "name": "Christian McCaffrey", "team": "San Francisco 49ers" },
-      { "name": "Davante Adams", "team": "Los Angeles Rams" }
+      { "name": "Kimani Vidal", "team": "Los Angeles Chargers" },
+      { "name": "Tommy Tremble", "team": "Carolina Panthers" },
+      { "name": "Andrei Iosivas", "team": "Cincinnati Bengals" },
+      { "name": "Amon-Ra St. Brown", "team": "Detroit Lions" }
     ]
   }
 ]
