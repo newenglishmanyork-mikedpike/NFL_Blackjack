@@ -295,6 +295,12 @@ body {
     div.textContent = str == null ? '' : String(str);
     return div.innerHTML;
   }
+  // Every NFL team's nickname is a single word, so the last word of the
+  // full name is the nickname — drops the city to save space in cards.
+  function shortTeamName(fullName) {
+    const parts = (fullName || '').trim().split(/\s+/);
+    return parts[parts.length - 1] || fullName;
+  }
   function timeAgo(ts) {
     if (!ts) return null;
     const diff = Date.now() - new Date(ts).getTime();
@@ -510,7 +516,7 @@ body {
       <div class="nflbj-player-row">
         <div class="nflbj-player-name ${g > 0 ? 'scored' : ''}">
           <span class="dot"></span><span class="nm">${escapeHtml(p.name)}</span>
-          ${p.team ? `<span class="nflbj-team-tag">${escapeHtml(p.team)}</span>` : ''}
+          ${p.team ? `<span class="nflbj-team-tag">${escapeHtml(shortTeamName(p.team))}</span>` : ''}
         </div>
         <div class="nflbj-player-goals">${g} 🏈</div>
       </div>
