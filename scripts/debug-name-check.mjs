@@ -51,6 +51,7 @@ for (const teamName of uniqueTeams) {
 }
 
 console.log('\n=== Match results ===');
+const misses = [];
 for (const d of drafted) {
   const roster = rosterByTeam[d.team] || [];
   const norm = normalizeName(d.name);
@@ -58,9 +59,28 @@ for (const d of drafted) {
   if (exact) {
     console.log(`OK    ${d.entry.padEnd(24)} ${d.name.padEnd(22)} -> matches "${exact.displayName}" on ${d.team}`);
   } else {
-    // look for a close match anywhere on that roster (same normalized last name)
     const lastName = normalizeName(d.name.trim().split(/\s+/).pop());
     const close = roster.filter(a => normalizeName(a.displayName).includes(lastName));
-    console.log(`MISS  ${d.entry.padEnd(24)} ${d.name.padEnd(22)} on ${d.team} -- NOT FOUND on roster. Close matches: ${close.map(a => a.displayName).join(', ') || 'none'}`);
+    console.log(`MISS  ${d.entry.padEnd(24)} ${d.name.padEnd(22)} on ${d.team} -- NOT FOUND on active roster. Close matches: ${close.map(a => a.displayName).join(', ') || 'none'}`);
+    misses.push(d);
+  }
+}
+
+// Roster listings often only include the active 53-man group, so a miss
+// there doesn't prove a misspelling. Cross-check misses against ESPN's
+// site-wide player search, which isn't scoped to a team's active roster.
+console.log('\n=== Site-wide search for misses (roster-independent check) ===');
+for (const d of misses) {
+  const url = `https://site.web.api.espn.com/apis/search/v2?query=${encodeURIComponent(d.name)}&type=player&sport=football`;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) { console.log(`${d.name}: search failed (${res.status})`); continue; }
+    const data = await res.json();
+    const results = (data.results || []).flatMap(g => g.contents || []);
+    const nflResults = results.filter(r => /nfl/i.test(r.uid || '') || /nfl/i.test(r.league || ''));
+    const pool = nflResults.length ? nflResults : results;
+    console.log(`${d.name}: ${pool.map(r => r.displayName).join(', ') || 'no results'}`);
+  } catch (err) {
+    console.log(`${d.name}: search error - ${err.message}`);
   }
 }
