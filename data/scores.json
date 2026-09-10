@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T01:58:57.617Z",
+  "updatedAt": "2026-09-10T02:01:58.229Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 51,
@@ -238,14 +238,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "uchennanwosu": {
+      "name": "Uchenna Nwosu",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "nehemiahpritchett": {
       "name": "Nehemiah Pritchett",
       "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "uchennanwosu": {
-      "name": "Uchenna Nwosu",
+    "drakethomas": {
+      "name": "Drake Thomas",
       "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -268,26 +274,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "drakethomas": {
-      "name": "Drake Thomas",
-      "team": "SEA",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "ryliemills": {
       "name": "Rylie Mills",
       "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "devonwitherspoon": {
-      "name": "Devon Witherspoon",
+    "demarcuslawrence": {
+      "name": "DeMarcus Lawrence",
       "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "demarcuslawrence": {
-      "name": "DeMarcus Lawrence",
+    "devonwitherspoon": {
+      "name": "Devon Witherspoon",
       "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
