@@ -5,42 +5,47 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>NFL Blackjack</title>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
 * { box-sizing: border-box; }
 body {
   margin: 0;
-  font-family: 'Inter', sans-serif;
-  background: #05140f;
+  font-family: 'Inter', -apple-system, Helvetica, Arial, sans-serif;
+  background: #eef0f2;
   min-height: 100vh;
   padding: 24px 16px 60px;
 }
 
 .nflbj {
-  --felt: #0b3d2e;
-  --felt-dark: #072a20;
-  --felt-line: rgba(245, 241, 230, 0.14);
-  --chalk: #f5f1e6;
-  --gold: #d4af37;
-  --gold-soft: rgba(212, 175, 55, 0.18);
-  --card-red: #b3282d;
-  --card-red-soft: rgba(179, 40, 45, 0.16);
-  --steel: #9fb3ab;
-  --charcoal: #0e1512;
+  --ink: #14171a;
+  --ink-soft: #444b52;
+  --muted: #6b7280;
+  --faint: #9aa1ab;
+  --line: #e3e6ea;
+  --zebra: #f6f7f9;
+  --panel: #ffffff;
+  --green: #0a7a3d;
+  --green-soft: #e5f3ea;
+  --blue: #0a5fae;
+  --red: #c0242c;
+  --red-soft: #fbe9ea;
+  --gray-badge: #eef0f2;
 
-  font-family: 'Inter', sans-serif;
-  color: var(--chalk);
-  background:
-    radial-gradient(ellipse at top left, rgba(255,255,255,0.05), transparent 55%),
-    repeating-linear-gradient(90deg, rgba(255,255,255,0.025) 0 2px, transparent 2px 160px),
-    var(--felt);
-  border-radius: 18px;
-  padding: 28px 24px 32px;
+  font-family: 'Inter', -apple-system, Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0 0 28px;
   max-width: 980px;
   margin: 0 auto;
   box-sizing: border-box;
+  box-shadow: 0 1px 3px rgba(16,24,32,0.06);
+  overflow: hidden;
 }
 .nflbj * { box-sizing: border-box; }
+.nflbj-topbar { height: 5px; background: linear-gradient(90deg, var(--green), #17a862); }
+.nflbj-inner { padding: 22px 22px 0; }
 
 /* ---------- header ---------- */
 .nflbj-header {
@@ -49,26 +54,27 @@ body {
   align-items: flex-end;
   flex-wrap: wrap;
   gap: 14px;
-  padding-bottom: 18px;
-  margin-bottom: 22px;
-  border-bottom: 2px solid var(--gold);
+  padding-bottom: 16px;
+  margin-bottom: 18px;
+  border-bottom: 1px solid var(--line);
 }
-.nflbj-title-block { display: flex; flex-direction: column; gap: 2px; }
+.nflbj-title-block { display: flex; flex-direction: column; gap: 3px; }
 .nflbj-eyebrow {
-  font-family: 'IBM Plex Mono', monospace;
   font-size: 11px;
-  letter-spacing: 0.22em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--gold);
+  color: var(--green);
 }
 .nflbj-title {
-  font-family: 'Bebas Neue', sans-serif;
-  font-size: clamp(30px, 5vw, 44px);
-  letter-spacing: 0.03em;
-  line-height: 1;
-  margin: 2px 0;
+  font-size: clamp(24px, 4vw, 30px);
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+  margin: 1px 0;
+  color: var(--ink);
 }
-.nflbj-sub { font-size: 13px; color: var(--steel); }
+.nflbj-sub { font-size: 13px; color: var(--muted); }
 
 /* ---------- touchdowns ticker ---------- */
 .nflbj-ticker {
@@ -83,21 +89,21 @@ body {
   display: flex;
   flex-direction: column;
   gap: 3px;
-  background: var(--felt-dark);
-  border: 1px solid var(--felt-line);
-  border-left: 3px solid var(--gold);
-  border-radius: 8px;
+  background: var(--zebra);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--green);
+  border-radius: 6px;
   padding: 8px 12px;
 }
 .nflbj-ticker-name-row { display: flex; align-items: baseline; gap: 5px; min-width: 0; }
 .nflbj-ticker-item .ball { flex-shrink: 0; font-size: 12px; }
 .nflbj-ticker-player {
-  font-weight: 700; color: var(--chalk); font-size: 13px;
+  font-weight: 700; color: var(--ink); font-size: 13px;
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
-.nflbj-ticker-multi { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--gold); flex-shrink: 0; }
+.nflbj-ticker-multi { font-weight: 700; font-size: 11px; color: var(--blue); flex-shrink: 0; }
 .nflbj-ticker-detail {
-  color: var(--steel); font-size: 11.5px;
+  color: var(--muted); font-size: 11.5px;
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
 @media (max-width: 640px) {
@@ -105,176 +111,177 @@ body {
 }
 
 .nflbj-status-banner {
-  font-size: 12.5px; padding: 8px 12px; border-radius: 7px; margin-bottom: 12px; line-height: 1.5;
+  font-size: 12.5px; padding: 8px 12px; border-radius: 6px; margin-bottom: 12px; line-height: 1.5;
 }
-.nflbj-status-banner.err { background: var(--card-red-soft); color: #e8a2a5; }
+.nflbj-status-banner.err { background: var(--red-soft); color: var(--red); }
 
 .nflbj-empty {
   text-align: center;
-  color: var(--steel);
+  color: var(--muted);
   font-size: 14px;
   padding: 40px 20px;
-  border: 1px dashed var(--felt-line);
-  border-radius: 12px;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
 }
 
-/* ---------- leaderboard ---------- */
+/* ---------- full-detail cards ---------- */
 .nflbj-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 16px;
+  gap: 14px;
 }
 .nflbj-card {
-  background: linear-gradient(160deg, rgba(255,255,255,0.04), rgba(0,0,0,0.12)), var(--felt-dark);
-  border: 1px solid var(--felt-line);
-  border-radius: 14px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
   padding: 16px 16px 14px;
   position: relative;
   overflow: hidden;
 }
-.nflbj-card.is-leader { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold-soft), 0 8px 24px rgba(212,175,55,0.12); }
-.nflbj-card.is-bust { border-color: rgba(179,40,45,0.5); }
+.nflbj-card.is-leader { border-color: var(--green); box-shadow: 0 0 0 1px var(--green-soft); }
+.nflbj-card.is-bust { border-color: #eecbcd; }
 .nflbj-rank-tag {
   position: absolute; top: 0; left: 0;
-  font-family: 'IBM Plex Mono', monospace;
   font-size: 11px;
-  background: var(--gold);
-  color: var(--felt-dark);
+  background: var(--green);
+  color: #fff;
   padding: 3px 10px 3px 8px;
   border-radius: 0 0 8px 0;
-  font-weight: 600;
+  font-weight: 700;
 }
 .nflbj-card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; margin-bottom: 10px; margin-top: 6px; }
-.nflbj-entry-name { font-family: 'Bebas Neue', sans-serif; font-size: 21px; letter-spacing: 0.02em; line-height: 1.1; }
-.nflbj-owner { font-size: 11.5px; color: var(--steel); margin-top: 2px; }
+.nflbj-card-id { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.nflbj-entry-name { font-size: 16px; font-weight: 700; letter-spacing: -0.01em; line-height: 1.2; }
+.nflbj-owner { font-size: 11.5px; color: var(--muted); margin-top: 2px; }
 .nflbj-status {
-  font-family: 'IBM Plex Mono', monospace;
   font-size: 10.5px;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   padding: 4px 8px;
   border-radius: 5px;
   white-space: nowrap;
-  font-weight: 600;
+  font-weight: 700;
+  flex-shrink: 0;
 }
-.nflbj-status.leading { background: var(--gold-soft); color: var(--gold); }
-.nflbj-status.inplay { background: rgba(159,179,171,0.15); color: var(--steel); }
-.nflbj-status.notqualified { background: rgba(159,179,171,0.1); color: var(--steel); }
-.nflbj-status.bust { background: var(--card-red-soft); color: #e8a2a5; }
-.nflbj-status.blackjack { background: var(--gold); color: var(--felt-dark); }
+.nflbj-status.leading { background: var(--green-soft); color: var(--green); }
+.nflbj-status.inplay { background: var(--gray-badge); color: var(--muted); }
+.nflbj-status.notqualified { background: var(--gray-badge); color: var(--muted); }
+.nflbj-status.bust { background: var(--red-soft); color: var(--red); }
+.nflbj-status.blackjack { background: var(--green); color: #fff; }
 
-.nflbj-score-row { display: flex; align-items: baseline; gap: 10px; margin-bottom: 12px; }
-.nflbj-flip { display: flex; gap: 3px; }
-.nflbj-digit {
-  font-family: 'IBM Plex Mono', monospace;
-  font-weight: 600;
-  font-size: 26px;
-  background: var(--charcoal);
-  border: 1px solid rgba(245,241,230,0.12);
-  border-radius: 5px;
-  width: 30px;
-  height: 38px;
-  display: flex; align-items: center; justify-content: center;
-  color: var(--chalk);
-  box-shadow: inset 0 -3px 0 rgba(0,0,0,0.35), inset 0 2px 0 rgba(255,255,255,0.05);
-}
-.nflbj-card.is-leader .nflbj-digit { color: var(--gold); }
-.nflbj-card.is-bust .nflbj-digit { color: #e8a2a5; }
-.nflbj-of21 { font-size: 12px; color: var(--steel); font-family: 'IBM Plex Mono', monospace; }
+.nflbj-score-row { display: flex; align-items: baseline; gap: 8px; margin-bottom: 12px; }
+.nflbj-score-num { font-size: 30px; font-weight: 800; line-height: 1; color: var(--ink); }
+.nflbj-card.is-leader .nflbj-score-num { color: var(--green); }
+.nflbj-card.is-bust .nflbj-score-num { color: var(--red); }
+.nflbj-of21 { font-size: 12.5px; color: var(--muted); font-weight: 500; }
 
-.nflbj-bar-track { height: 5px; background: rgba(245,241,230,0.08); border-radius: 3px; overflow: hidden; margin-bottom: 14px; }
-.nflbj-bar-fill { height: 100%; border-radius: 3px; background: var(--gold); transition: width 0.3s ease; }
-.nflbj-card.is-bust .nflbj-bar-fill { background: var(--card-red); }
+.nflbj-bar-track { height: 5px; background: var(--gray-badge); border-radius: 3px; overflow: hidden; margin-bottom: 14px; }
+.nflbj-bar-fill { height: 100%; border-radius: 3px; background: var(--green); transition: width 0.3s ease; }
+.nflbj-card.is-bust .nflbj-bar-fill { background: var(--red); }
 
 .nflbj-players { display: flex; flex-direction: column; gap: 6px; }
 .nflbj-player-row {
   display: flex; align-items: center; justify-content: space-between; gap: 8px;
-  font-size: 13px; padding: 5px 0; border-bottom: 1px solid rgba(245,241,230,0.06);
+  font-size: 13px; padding: 5px 0; border-bottom: 1px solid var(--line);
 }
 .nflbj-player-row:last-child { border-bottom: none; }
 .nflbj-player-name { display: flex; align-items: center; gap: 6px; overflow: hidden; min-width: 0; }
-.nflbj-player-name .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; background: var(--steel); }
-.nflbj-player-name.scored .dot { background: var(--gold); }
-.nflbj-player-name .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.nflbj-player-name .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; background: var(--faint); }
+.nflbj-player-name.scored .dot { background: var(--green); }
+.nflbj-player-name .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--ink-soft); }
 .nflbj-team-tag {
-  font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.03em;
-  color: var(--steel); background: rgba(245,241,230,0.07); border-radius: 4px; padding: 1px 5px; flex-shrink: 0;
+  font-size: 9.5px; font-weight: 600; letter-spacing: 0.02em;
+  color: var(--muted); background: var(--gray-badge); border-radius: 4px; padding: 1px 5px; flex-shrink: 0;
 }
-.nflbj-player-goals { font-family: 'IBM Plex Mono', monospace; font-weight: 600; flex-shrink: 0; }
+.nflbj-player-goals { font-weight: 700; flex-shrink: 0; color: var(--ink); }
 
-.nflbj-foot-note { text-align: center; font-size: 11.5px; color: var(--steel); margin-top: 22px; }
-.nflbj-loading { text-align: center; padding: 60px 20px; color: var(--steel); font-size: 14px; }
+.nflbj-foot-note { text-align: center; font-size: 11.5px; color: var(--muted); margin-top: 22px; padding: 0 22px; }
+.nflbj-loading { text-align: center; padding: 60px 20px; color: var(--muted); font-size: 14px; }
+
+/* ---------- avatars ---------- */
+.nflbj-avatar {
+  flex-shrink: 0;
+  width: 22px; height: 22px;
+  border-radius: 50%;
+  display: inline-flex; align-items: center; justify-content: center;
+  font-size: 9.5px; font-weight: 700; color: #fff;
+  letter-spacing: -0.02em;
+}
 
 /* ---------- leaderboard summary table ---------- */
 .nflbj-section-heading {
-  font-family: 'Bebas Neue', sans-serif;
-  font-size: 20px;
-  letter-spacing: 0.03em;
-  color: var(--gold);
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--ink);
   margin: 4px 0 12px;
   padding-top: 6px;
-  border-top: 1px solid var(--felt-line);
 }
 .nflbj-lb-wrap {
   overflow-x: auto;
-  border: 1px solid var(--felt-line);
-  border-radius: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
   margin-bottom: 22px;
 }
 .nflbj-lb-table { width: 100%; border-collapse: collapse; font-size: 13.5px; table-layout: fixed; }
 .nflbj-lb-table th {
-  font-family: 'IBM Plex Mono', monospace;
   font-size: 10.5px;
-  letter-spacing: 0.05em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: var(--steel);
+  color: var(--muted);
   text-align: left;
   padding: 10px 14px;
-  background: var(--felt-dark);
-  border-bottom: 1px solid var(--felt-line);
+  background: var(--zebra);
+  border-bottom: 1px solid var(--line);
   white-space: nowrap;
 }
 .nflbj-lb-table th.nflbj-lb-num, .nflbj-lb-table td.nflbj-lb-num { text-align: right; }
 .nflbj-lb-table th:first-child, .nflbj-lb-table td:first-child { width: 28px; }
+.nflbj-lb-table th:nth-child(2), .nflbj-lb-table td:nth-child(2) { width: 42%; }
 .nflbj-lb-table td {
-  padding: 10px 14px;
-  border-bottom: 1px solid rgba(245,241,230,0.06);
+  padding: 9px 14px;
+  border-bottom: 1px solid var(--line);
   vertical-align: middle;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+.nflbj-lb-table tbody tr:nth-child(even) td { background: var(--zebra); }
 @media (max-width: 480px) {
   .nflbj-lb-table { font-size: 12px; }
   .nflbj-lb-table th, .nflbj-lb-table td { padding: 8px 6px; }
-  .nflbj-lb-name { font-size: 15px; }
+  .nflbj-lb-name-txt { font-size: 13px; }
 }
 .nflbj-lb-table tr:last-child td { border-bottom: none; }
-.nflbj-lb-table tr.is-leader td { background: var(--gold-soft); }
-.nflbj-lb-table tr.is-bust td { background: var(--card-red-soft); }
-.nflbj-lb-rank { font-family: 'IBM Plex Mono', monospace; color: var(--steel); }
-.nflbj-lb-name { font-family: 'Bebas Neue', sans-serif; font-size: 17px; letter-spacing: 0.02em; }
-.nflbj-lb-goals { font-family: 'IBM Plex Mono', monospace; font-weight: 600; font-size: 15px; }
-.nflbj-lb-valid { font-family: 'IBM Plex Mono', monospace; color: var(--steel); }
-.nflbj-lb-valid.all-valid { color: var(--gold); }
-.nflbj-lb-projected { font-family: 'IBM Plex Mono', monospace; color: var(--steel); white-space: nowrap; }
+.nflbj-lb-table tr.is-leader td { background: var(--green-soft); }
+.nflbj-lb-table tr.is-bust td { background: var(--red-soft); }
+.nflbj-lb-rank { color: var(--faint); font-weight: 600; }
+.nflbj-lb-name-inner { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.nflbj-lb-name-txt { font-weight: 700; color: var(--blue); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; flex: 1; }
+.nflbj-lb-goals { font-weight: 700; font-size: 14px; color: var(--ink); }
+.nflbj-lb-valid { color: var(--muted); font-weight: 600; }
+.nflbj-lb-valid.all-valid { color: var(--green); }
+.nflbj-lb-projected { color: var(--muted); white-space: nowrap; font-weight: 600; }
 </style>
 </head>
 <body>
 <div class="nflbj" id="nflbj-root">
-  <div class="nflbj-header">
-    <div class="nflbj-title-block">
-      <span class="nflbj-eyebrow">Fantasy Pool &middot; Race to 21</span>
-      <div class="nflbj-title">NFL Blackjack</div>
-      <div class="nflbj-sub" id="nflbj-subtitle">Loading entries&hellip;</div>
+  <div class="nflbj-topbar"></div>
+  <div class="nflbj-inner">
+    <div class="nflbj-header">
+      <div class="nflbj-title-block">
+        <span class="nflbj-eyebrow">Fantasy Pool &middot; Race to 21</span>
+        <div class="nflbj-title">NFL Blackjack</div>
+        <div class="nflbj-sub" id="nflbj-subtitle">Loading entries&hellip;</div>
+      </div>
     </div>
-  </div>
 
-  <div id="nflbj-ticker-slot"></div>
-  <div id="nflbj-status-slot"></div>
-  <div id="nflbj-leaderboard-slot"></div>
-  <div class="nflbj-section-heading">Full Details</div>
-  <div id="nflbj-board"><div class="nflbj-loading">Loading entries&hellip;</div></div>
+    <div id="nflbj-ticker-slot"></div>
+    <div id="nflbj-status-slot"></div>
+    <div id="nflbj-leaderboard-slot"></div>
+    <div class="nflbj-section-heading">Full Details</div>
+    <div id="nflbj-board"><div class="nflbj-loading">Loading entries&hellip;</div></div>
+  </div>
   <div class="nflbj-foot-note">Each entry needs all 4 players to score a touchdown at least once to be Valid. 21 exactly wins the round; over 21 busts. Touchdowns update automatically from ESPN's live NFL data — every 5 minutes during Sunday's main game window, every 6 hours the rest of the week.</div>
 </div>
 
@@ -310,6 +317,23 @@ body {
     const hrs = Math.round(mins / 60);
     if (hrs < 24) return `${hrs}h ago`;
     return `${Math.round(hrs / 24)}d ago`;
+  }
+  // Stand-in for a team logo: a small colored circle with initials, colored
+  // consistently per entry name (no real logo assets to work with).
+  function hashHue(str) {
+    let h = 0;
+    for (let i = 0; i < str.length; i++) h = (h * 31 + str.charCodeAt(i)) >>> 0;
+    return h % 360;
+  }
+  function initials(name) {
+    const parts = (name || '').trim().split(/\s+/).filter(Boolean);
+    if (!parts.length) return '?';
+    if (parts.length === 1) return parts[0].slice(0, 2).toUpperCase();
+    return (parts[0][0] + parts[parts.length - 1][0]).toUpperCase();
+  }
+  function avatarHtml(name) {
+    const hue = hashHue(name || '');
+    return `<span class="nflbj-avatar" style="background:hsl(${hue},58%,42%)">${escapeHtml(initials(name))}</span>`;
   }
   function ordinalDate(iso) {
     const d = new Date(iso);
@@ -404,9 +428,6 @@ body {
     if (!stats.qualified) return { text: 'Not Valid', cls: 'notqualified' };
     return { text: 'In play', cls: 'inplay' };
   }
-  function digitBoxes(total) {
-    return String(total).padStart(2, '0').split('').map(d => `<div class="nflbj-digit">${d}</div>`).join('');
-  }
 
   /* ---------------- render ---------------- */
   function render() {
@@ -449,7 +470,7 @@ body {
       return `
         <tr class="${rowCls}">
           <td class="nflbj-lb-rank">${idx + 1}</td>
-          <td class="nflbj-lb-name">${escapeHtml(r.entry.name)}</td>
+          <td class="nflbj-lb-name"><span class="nflbj-lb-name-inner">${avatarHtml(r.entry.name)}<span class="nflbj-lb-name-txt">${escapeHtml(r.entry.name)}</span></span></td>
           <td class="nflbj-lb-num nflbj-lb-goals">${r.stats.total}</td>
           <td class="nflbj-lb-num nflbj-lb-valid ${validCls}">${validCount}/${r.entry.players.length}</td>
           <td class="nflbj-lb-num nflbj-lb-projected" title="Projected season total, based on each player's current touchdowns-per-game rate and their team's remaining games">${projectedRounded} ${projectionEmoji(projectedRounded)}</td>
@@ -527,14 +548,17 @@ body {
       <div class="nflbj-card ${isLeader ? 'is-leader' : ''} ${stats.bust ? 'is-bust' : ''}">
         ${rankTag}
         <div class="nflbj-card-top">
-          <div>
-            <div class="nflbj-entry-name">${escapeHtml(entry.name)}</div>
-            ${entry.owner ? `<div class="nflbj-owner">${escapeHtml(entry.owner)}</div>` : ''}
+          <div class="nflbj-card-id">
+            ${avatarHtml(entry.name)}
+            <div>
+              <div class="nflbj-entry-name">${escapeHtml(entry.name)}</div>
+              ${entry.owner ? `<div class="nflbj-owner">${escapeHtml(entry.owner)}</div>` : ''}
+            </div>
           </div>
           <div class="nflbj-status ${status.cls}">${status.text}</div>
         </div>
         <div class="nflbj-score-row">
-          <div class="nflbj-flip">${digitBoxes(stats.total)}</div>
+          <div class="nflbj-score-num">${stats.total}</div>
           <div class="nflbj-of21">/ 21 TDs</div>
         </div>
         <div class="nflbj-bar-track"><div class="nflbj-bar-fill" style="width:${pct}%"></div></div>
