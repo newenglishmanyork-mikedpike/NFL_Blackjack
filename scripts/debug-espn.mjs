@@ -24,15 +24,15 @@ if (scoreboard) {
   }
 }
 
-// 2. Pull a guaranteed-real completed game id from 2025 week 1 (fully in the
-// past), rather than guessing an event id from memory.
-const pastWeek = await getJson('https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=1&year=2025&seasontype=2');
+// 2. Use whatever event is currently live/finished from today's real
+// scoreboard (rather than a guessed or possibly-stale historical id).
 let eventId = null;
-if (pastWeek) {
-  console.log('2025 week1 event count:', pastWeek.events?.length);
-  const finished = pastWeek.events?.find(e => e.status?.type?.state === 'post');
-  console.log('first finished event:', finished?.id, finished?.name, JSON.stringify(finished?.status?.type));
-  eventId = finished?.id;
+if (scoreboard) {
+  const candidate = scoreboard.events?.find(e => e.status?.type?.state === 'post')
+    || scoreboard.events?.find(e => e.status?.type?.state === 'in')
+    || scoreboard.events?.[0];
+  console.log('chosen event:', candidate?.id, candidate?.name, JSON.stringify(candidate?.status?.type));
+  eventId = candidate?.id;
 }
 
 const summary = eventId
@@ -49,9 +49,23 @@ if (summary) {
 
   console.log('\n--- boxscore ---');
   console.log('boxscore keys:', Object.keys(summary.boxscore || {}));
-  const teamPlayers = summary.boxscore?.players?.[0];
-  console.log('boxscore.players[0] team:', JSON.stringify(teamPlayers?.team?.displayName));
-  console.log('boxscore.players[0] statistics categories:', teamPlayers?.statistics?.map(s => s.name));
-  const cat = teamPlayers?.statistics?.find(s => s.name === 'passing') || teamPlayers?.statistics?.[0];
-  console.log('one statistics category full shape:', JSON.stringify(cat, null, 2));
+  console.log('competitors abbreviations:', summary.header?.competitions?.[0]?.competitors?.map(c => [c.team?.abbreviation, c.homeAway, c.score]));
+  for (const teamPlayers of summary.boxscore?.players || []) {
+    console.log('\nteam:', teamPlayers?.team?.displayName, teamPlayers?.team?.abbreviation);
+    console.log('statistics categories:', teamPlayers?.statistics?.map(s => ({ name: s.name, labels: s.labels, keys: s.keys })));
+    const cat = teamPlayers?.statistics?.find(s => s.name === 'passing') || teamPlayers?.statistics?.[0];
+    console.log('one full category:', JSON.stringify(cat, null, 2));
+  }
+}
+
+// 3. Sanity-check whether the scoreboard supports querying a fully-past
+// week (needed to build season-cumulative totals), and what shape a
+// finished event's status takes there.
+const pastWeek = await getJson('https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=1&year=2025&seasontype=2');
+if (pastWeek) {
+  console.log('\n2025 week1 event count:', pastWeek.events?.length);
+  const first = pastWeek.events?.[0];
+  console.log('2025 week1 first event id/name:', first?.id, first?.name);
+  console.log('2025 week1 first event raw status:', JSON.stringify(first?.status));
+  console.log('2025 week1 first event competitions[0].status:', JSON.stringify(first?.competitions?.[0]?.status));
 }
