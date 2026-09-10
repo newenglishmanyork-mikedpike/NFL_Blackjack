@@ -18,9 +18,10 @@ if (scoreboard) {
   console.log('season:', JSON.stringify(scoreboard.season));
   console.log('week:', JSON.stringify(scoreboard.week));
   console.log('event count:', scoreboard.events?.length);
-  const ev = scoreboard.events?.[0];
-  if (ev) {
-    console.log('first event id/name/status:', ev.id, ev.name, JSON.stringify(ev.status));
+  for (const ev of scoreboard.events || []) {
+    const comps = ev.competitions?.[0]?.competitors || [];
+    const abbrs = comps.map(c => `${c.team?.abbreviation}(${c.homeAway})`);
+    console.log(ev.id, ev.name, '|', abbrs.join(' vs '), '|', JSON.stringify(ev.status?.type));
   }
 }
 
