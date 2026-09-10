@@ -2,7 +2,13 @@ name: Refresh stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    # Sundays 1pm-11pm EST (fixed UTC-5, not DST-adjusted — see README), every 5 min:
+    # 1pm-7:55pm EST -> 18:00-23:55 UTC
+    - cron: '*/5 18-23 * * 0'
+    # 8pm-11:55pm EST (Sunday local) -> 00:00-04:55 UTC Monday
+    - cron: '*/5 0-4 * * 1'
+    # Rest of the week (Mon-Sat), every 6 hours
+    - cron: '0 */6 * * 1-6'
   workflow_dispatch: {}
 
 permissions:

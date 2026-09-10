@@ -18,10 +18,26 @@ same idea, same architecture, different sport.
   a login or a database.
 - `data/scores.json` — generated automatically. Don't edit it by hand.
 - `.github/workflows/refresh-stats.yml` — a GitHub Actions workflow that
-  runs every 6 hours (and can be run manually), downloads the free public
-  CSV data published by [nflverse-data](https://github.com/nflverse/nflverse-data)
-  (player weekly stats + schedules), and commits the result to
-  `data/scores.json`.
+  downloads the free public CSV data published by
+  [nflverse-data](https://github.com/nflverse/nflverse-data) (player weekly
+  stats + schedules) and commits the result to `data/scores.json`. It can
+  always be run manually, and otherwise runs on a schedule matched to when
+  games actually happen:
+  - **Sundays, 1pm-11pm EST**: every 5 minutes, to catch the bulk of each
+    week's games as they happen.
+  - **The rest of the week** (Monday-Saturday, covering Thursday Night
+    Football, Monday Night Football, and any other game days): every 6
+    hours.
+
+  Note: the Sunday window is a fixed UTC-5 offset (true EST), not adjusted
+  for daylight saving. For most of the season (before the November DST
+  change), Eastern clocks are on EDT (UTC-4), so the window actually lands
+  1 hour later on local clocks (2pm-12am Eastern) until the fall-back,
+  after which it lines up with 1pm-11pm exactly. Since nflverse's stats
+  file itself only refreshes nightly anyway (see "A note on data freshness"
+  below), this doesn't meaningfully affect when new touchdowns actually
+  show up — it only changes which 5-minute checks are "wasted" polling for
+  data that isn't published yet.
 
 **No API key needed.** Unlike the Premier League tracker, nflverse-data
 publishes its stats and schedules as plain CSV files on public GitHub
@@ -46,10 +62,24 @@ Releases — no registration, no token, no rate limit to worry about.
 
 ## Refreshing stats on demand
 
-The page itself has no refresh/trigger button — the automatic 6-hourly
-schedule keeps `data/scores.json` current, and if you want it sooner,
-trigger it directly from GitHub: Actions tab → "Refresh stats" → Run
-workflow. The page always shows whatever is currently committed.
+The page itself has no refresh/trigger button — the automatic schedule
+described above keeps `data/scores.json` current, and if you want it
+sooner, trigger it directly from GitHub: Actions tab → "Refresh stats" →
+Run workflow. The page always shows whatever is currently committed.
+
+### A note on data freshness
+
+Polling more often doesn't make new touchdowns show up any faster than
+nflverse itself publishes them. Per
+[nflverse's own update schedule](https://nflreadr.nflverse.com/articles/nflverse_data_schedule.html),
+player stats are computed **nightly after each game day** (with some
+extra runs at specific points during game days), not continuously — and
+the NFL issues official stat corrections through Monday-Wednesday, so a
+Thursday refresh is the "clean" version of the previous week's numbers.
+The 5-minute Sunday cadence exists so that whenever nflverse *does* push
+a same-day update, this site picks it up quickly rather than waiting up
+to 6 hours — but most Sunday afternoon polls will simply find nothing
+new until that night's batch runs.
 
 ## Adding entries
 
