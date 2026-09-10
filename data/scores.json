@@ -1,9 +1,316 @@
 {
-  "updatedAt": "2026-09-10T01:29:12.836Z",
+  "updatedAt": "2026-09-10T01:58:57.617Z",
   "season": "2026",
-  "statsPublished": false,
-  "playersReturned": 0,
-  "players": {},
+  "statsPublished": true,
+  "playersReturned": 51,
+  "players": {
+    "drakemaye": {
+      "name": "Drake Maye",
+      "team": "NE",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "rhamondrestevenson": {
+      "name": "Rhamondre Stevenson",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "coreykiner": {
+      "name": "Corey Kiner",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ajbrown": {
+      "name": "A.J. Brown",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "hunterhenry": {
+      "name": "Hunter Henry",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "lanlarison": {
+      "name": "Lan Larison",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "demariodouglas": {
+      "name": "DeMario Douglas",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "mackhollins": {
+      "name": "Mack Hollins",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "eliraridon": {
+      "name": "Eli Raridon",
+      "team": "NE",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "robertspillane": {
+      "name": "Robert Spillane",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "craigwoodson": {
+      "name": "Craig Woodson",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kevinbyard": {
+      "name": "Kevin Byard",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "christiangonzalez": {
+      "name": "Christian Gonzalez",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "carltondavisiii": {
+      "name": "Carlton Davis III",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "marcusjones": {
+      "name": "Marcus Jones",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "christianelliss": {
+      "name": "Christian Elliss",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "corydurden": {
+      "name": "Cory Durden",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "dremontjones": {
+      "name": "Dre'Mont Jones",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "gabejacas": {
+      "name": "Gabe Jacas",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "charleswoods": {
+      "name": "Charles Woods",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "christianbarmore": {
+      "name": "Christian Barmore",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "dellpettus": {
+      "name": "Dell Pettus",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "namdiobiazor": {
+      "name": "Namdi Obiazor",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "miltonwilliams": {
+      "name": "Milton Williams",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "elijahponder": {
+      "name": "Elijah Ponder",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kylewilliams": {
+      "name": "Kyle Williams",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "andyborregales": {
+      "name": "Andy Borregales",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "mitchwishnowsky": {
+      "name": "Mitch Wishnowsky",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "drewlock": {
+      "name": "Drew Lock",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "samdarnold": {
+      "name": "Sam Darnold",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jadarianprice": {
+      "name": "Jadarian Price",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "georgeholani": {
+      "name": "George Holani",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "emanuelwilson": {
+      "name": "Emanuel Wilson",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jaxonsmithnjigba": {
+      "name": "Jaxon Smith-Njigba",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "bradyrussell": {
+      "name": "Brady Russell",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ajbarner": {
+      "name": "AJ Barner",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "cooperkupp": {
+      "name": "Cooper Kupp",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "rashidshaheed": {
+      "name": "Rashid Shaheed",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ernestjonesiv": {
+      "name": "Ernest Jones IV",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nehemiahpritchett": {
+      "name": "Nehemiah Pritchett",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "uchennanwosu": {
+      "name": "Uchenna Nwosu",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "julianlove": {
+      "name": "Julian Love",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "leonardwilliams": {
+      "name": "Leonard Williams",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "joshjobe": {
+      "name": "Josh Jobe",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "drakethomas": {
+      "name": "Drake Thomas",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ryliemills": {
+      "name": "Rylie Mills",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "devonwitherspoon": {
+      "name": "Devon Witherspoon",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "demarcuslawrence": {
+      "name": "DeMarcus Lawrence",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "byronmurphyii": {
+      "name": "Byron Murphy II",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "montoriefosterjr": {
+      "name": "Montorie Foster Jr.",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "michaeldickson": {
+      "name": "Michael Dickson",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    }
+  },
   "teams": {
     "ARI": {
       "name": "Arizona Cardinals",
@@ -85,13 +392,13 @@
       "playedGames": 0,
       "gamesRemaining": 17
     },
-    "LA": {
-      "name": "Los Angeles Rams",
+    "LAC": {
+      "name": "Los Angeles Chargers",
       "playedGames": 0,
       "gamesRemaining": 17
     },
-    "LAC": {
-      "name": "Los Angeles Chargers",
+    "LAR": {
+      "name": "Los Angeles Rams",
       "playedGames": 0,
       "gamesRemaining": 17
     },
@@ -160,7 +467,7 @@
       "playedGames": 0,
       "gamesRemaining": 17
     },
-    "WAS": {
+    "WSH": {
       "name": "Washington Commanders",
       "playedGames": 0,
       "gamesRemaining": 17
