@@ -79,13 +79,10 @@ name nflverse currently has stats for.
 
 ## What counts as a touchdown
 
-Only touchdowns the player themselves scored: rushing, receiving,
-special-teams (kick/punt return), and defensive touchdowns. **Passing
-touchdowns are excluded on purpose** — a QB who throws a touchdown pass
-didn't score it, the same way an assist doesn't count as a goal in the
-Premier League tracker. This means a rushing/receiving quarterback still
-accumulates touchdowns normally; it's specifically the pass itself that
-doesn't count.
+Every touchdown credited to the player: rushing, receiving, passing,
+special-teams (kick/punt return), and defensive touchdowns. A quarterback
+racks up touchdowns from their passing stats just like a receiver does
+from catches — there's no exclusion here.
 
 Regular season only (`REG`) — playoff touchdowns aren't counted, matching
 the Premier League tracker's league-only scope. The season runs 17 games

@@ -120,10 +120,9 @@ if (!statsAvailable) {
   console.log(`No stats file published yet for the ${season} season at ${statsUrl} — writing an empty player set for now.`);
 }
 
-// One row per player per week; aggregate regular-season touchdowns scored
-// BY that player (rushing + receiving + special-teams + defensive). Passing
-// touchdowns are excluded on purpose — the QB threw it, but didn't score it,
-// same way an assist doesn't count as a goal in the Premier League tracker.
+// One row per player per week; aggregate all regular-season touchdowns
+// credited to that player: rushing, receiving, passing, special-teams, and
+// defensive.
 const players = {};
 for (const row of statRows) {
   if (row.season_type !== 'REG') continue;
@@ -131,6 +130,7 @@ for (const row of statRows) {
   if (!displayName) continue;
   const key = normalizeName(displayName);
   const tds = (Number(row.rushing_tds) || 0) + (Number(row.receiving_tds) || 0)
+    + (Number(row.passing_tds) || 0)
     + (Number(row.special_teams_tds) || 0) + (Number(row.def_tds) || 0);
   if (!players[key]) {
     players[key] = { name: displayName, touchdowns: 0, gamesPlayed: 0, team: row.team || null };
