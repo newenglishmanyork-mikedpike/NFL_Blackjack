@@ -17,14 +17,16 @@ same idea, same architecture, different sport.
   by hand and committed — squads are locked in once, so this doesn't need
   a login or a database.
 - `data/scores.json` — generated automatically. Don't edit it by hand.
+- `data/espn-cache.json` — generated automatically. A permanent record of
+  finished games' box scores, so the workflow doesn't have to re-fetch a
+  game's stats over and over once it's over. Don't edit it by hand.
 - `.github/workflows/refresh-stats.yml` — a GitHub Actions workflow that
-  downloads the free public CSV data published by
-  [nflverse-data](https://github.com/nflverse/nflverse-data) (player weekly
-  stats + schedules) and commits the result to `data/scores.json`. It can
-  always be run manually, and otherwise runs on a schedule matched to when
-  games actually happen:
-  - **Sundays, 1pm-11pm EST**: every 5 minutes, to catch the bulk of each
-    week's games as they happen.
+  pulls live game data from ESPN's public scoreboard and box-score
+  endpoints and commits the result to `data/scores.json`. It can always be
+  run manually, and otherwise runs on a schedule matched to when games
+  actually happen:
+  - **Sundays, 1pm-11pm EST**: every 5 minutes, to track games as they
+    happen live.
   - **The rest of the week** (Monday-Saturday, covering Thursday Night
     Football, Monday Night Football, and any other game days): every 6
     hours.
@@ -33,15 +35,17 @@ same idea, same architecture, different sport.
   for daylight saving. For most of the season (before the November DST
   change), Eastern clocks are on EDT (UTC-4), so the window actually lands
   1 hour later on local clocks (2pm-12am Eastern) until the fall-back,
-  after which it lines up with 1pm-11pm exactly. Since nflverse's stats
-  file itself only refreshes nightly anyway (see "A note on data freshness"
-  below), this doesn't meaningfully affect when new touchdowns actually
-  show up — it only changes which 5-minute checks are "wasted" polling for
-  data that isn't published yet.
+  after which it lines up with 1pm-11pm exactly.
 
-**No API key needed.** Unlike the Premier League tracker, nflverse-data
-publishes its stats and schedules as plain CSV files on public GitHub
-Releases — no registration, no token, no rate limit to worry about.
+**No API key needed** — ESPN's scoreboard/box-score endpoints are public
+and don't require registration. That said, they're **unofficial and
+undocumented** (there's no published API contract, unlike the Premier
+League tracker's football-data.org or the previous nflverse-based
+approach) — many hobby fantasy-sports projects rely on them, and they've
+been stable in practice, but ESPN could change the response shape or
+access rules without notice. If the workflow starts failing, that's the
+first thing to check (Actions tab → "Refresh stats" → look at the failed
+run's log).
 
 ## One-time setup
 
@@ -69,17 +73,17 @@ Run workflow. The page always shows whatever is currently committed.
 
 ### A note on data freshness
 
-Polling more often doesn't make new touchdowns show up any faster than
-nflverse itself publishes them. Per
-[nflverse's own update schedule](https://nflreadr.nflverse.com/articles/nflverse_data_schedule.html),
-player stats are computed **nightly after each game day** (with some
-extra runs at specific points during game days), not continuously — and
-the NFL issues official stat corrections through Monday-Wednesday, so a
-Thursday refresh is the "clean" version of the previous week's numbers.
-The 5-minute Sunday cadence exists so that whenever nflverse *does* push
-a same-day update, this site picks it up quickly rather than waiting up
-to 6 hours — but most Sunday afternoon polls will simply find nothing
-new until that night's batch runs.
+Unlike a season-aggregate stats file that only refreshes once a day, ESPN's
+box scores update **live, during the game** — the 5-minute Sunday cadence
+means a touchdown can show up on the leaderboard within a few minutes of
+it happening, not the next morning. `fetch-stats.mjs` fetches each
+in-progress or newly-finished game's box score directly and sums its
+touchdown-related stats per player; finished games get cached permanently
+in `data/espn-cache.json` so re-runs don't keep re-fetching games that are
+already over. Official stat corrections (the NFL sometimes revises a game's
+stats in the days after it's played) aren't re-checked once a game is
+cached as final — this mirrors the same tradeoff the Premier League
+tracker makes with its own goal counts.
 
 ## Adding entries
 
@@ -99,13 +103,13 @@ commit/push (or open a pull request):
 }
 ```
 
-**Player names should match nflverse's `player_display_name` spelling**
-(usually their full common name, e.g. "Christian McCaffrey") for
-touchdowns to match up. Matching ignores case, accents, and punctuation,
-but it still needs the same words in the same order. If a player shows 0
-when you know they've scored, check the spelling against
-`data/scores.json` after a refresh — its `players` object lists every
-name nflverse currently has stats for.
+**Player names should match ESPN's `displayName` spelling** (usually
+their full common name, e.g. "Christian McCaffrey") for touchdowns to
+match up. Matching ignores case, accents, and punctuation, but it still
+needs the same words in the same order. If a player shows 0 when you
+know they've scored, check the spelling against `data/scores.json` after
+a refresh — its `players` object lists every name ESPN currently has
+stats for.
 
 ## What counts as a touchdown
 
@@ -114,9 +118,9 @@ special-teams (kick/punt return), and defensive touchdowns. A quarterback
 racks up touchdowns from their passing stats just like a receiver does
 from catches — there's no exclusion here.
 
-Regular season only (`REG`) — playoff touchdowns aren't counted, matching
-the Premier League tracker's league-only scope. The season runs 17 games
-per team.
+Regular season only — playoff touchdowns aren't counted, matching the
+Premier League tracker's league-only scope. The season runs 17 games per
+team.
 
 ## Local preview
 
@@ -153,23 +157,22 @@ else.
 ## Latest touchdowns ticker
 
 Below the header, the page shows the most recent touchdowns scored by
-anyone in someone's squad: player name, opponent, home/away, and date.
-nflverse's public data has no play-by-play event feed built into this
-pipeline — only a running weekly stat line per player. `fetch-stats.mjs`
-works around that the same way the Premier League tracker's ticker does:
-by comparing each refresh's touchdown tallies against the previous ones
-committed to `data/scores.json`; whenever a drafted player's tally goes
-up, it logs that as an event against their team's most recent finished
-game (pulled from nflverse's `games.csv` schedule file) and keeps a
-rolling history in `scores.json`'s `recentTouchdowns` array (newest
-first, capped at 12).
+anyone in someone's squad: player name, opponent, home/away, and — when
+available — the real quarter and game clock the touchdown happened at.
+`fetch-stats.mjs` compares each refresh's touchdown tallies against the
+previous ones committed to `data/scores.json`; whenever a drafted
+player's tally goes up, it logs that as an event and tries to match it to
+a real scoring play from that game (ESPN's `scoringPlays` list) to pull
+the quarter/clock — falling back to just the game date if no confident
+match is found. Events are kept in `scores.json`'s `recentTouchdowns`
+array (newest first, capped at 12).
 
 Caveats worth knowing:
-- **Attribution is inferred, not guaranteed.** If a player's tally rises
-  between two refreshes, that touchdown is credited to their team's
-  latest finished game as of that refresh. This is normally right for a
-  once-a-week schedule, but is a good reason to keep the 6-hourly
-  automatic refresh running rather than letting it lapse.
+- **The quarter/clock match is best-effort**, done by matching the
+  scoring player's last name against ESPN's free-text play description
+  (ESPN doesn't give scoring plays a structured "scorer" field) — it can
+  occasionally miss, in which case the ticker line just shows the date
+  instead of a quarter/clock.
 - **History starts from when this feature shipped.** Touchdowns scored
   before `recentTouchdowns` existed aren't retroactively backfilled.
 - Multiple touchdowns by the same player between refreshes show as one
@@ -177,14 +180,12 @@ Caveats worth knowing:
 
 ## A note on season timing
 
-Stats for a given season only appear in nflverse's data once games have
-been played and the weekly stats file is published — as of this writing,
-the 2026 season's stats file doesn't exist yet, so `data/scores.json`
-correctly shows everyone at 0 touchdowns and all 32 teams with a full
-17 games remaining. The page and workflow already handle this
-gracefully (`statsPublished: false` in `scores.json`, with a note in the
-page header) — there's nothing to configure, it'll just start filling in
-once the season's games are played and nflverse publishes the file.
+Before the regular season starts (preseason, or the off-season),
+`data/scores.json` correctly shows everyone at 0 touchdowns and all 32
+teams with a full 17 games remaining. The page and workflow already
+handle this gracefully (`statsPublished: false` in `scores.json`, with a
+note in the page header) — there's nothing to configure, it'll just
+start filling in once the regular season kicks off.
 
 ## Limitations
 
@@ -195,3 +196,7 @@ once the season's games are played and nflverse publishes the file.
 - Traded players are tracked under whichever team they were with in
   their most recent game — fine for the "opponent" ticker line, but
   their `gamesRemaining` follows their new team's schedule.
+- ESPN's endpoint is unofficial — see the callout under "How it works"
+  above. If it ever breaks, `data/scores.json` just stops updating rather
+  than showing wrong data; the page always displays whatever was last
+  committed successfully.

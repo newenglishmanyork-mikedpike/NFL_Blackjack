@@ -275,7 +275,7 @@ body {
   <div id="nflbj-leaderboard-slot"></div>
   <div class="nflbj-section-heading">Full Details</div>
   <div id="nflbj-board"><div class="nflbj-loading">Loading entries&hellip;</div></div>
-  <div class="nflbj-foot-note">Each entry needs all 4 players to score a touchdown at least once to be Valid. 21 exactly wins the round; over 21 busts. Touchdowns update automatically every few hours from nflverse's public NFL data.</div>
+  <div class="nflbj-foot-note">Each entry needs all 4 players to score a touchdown at least once to be Valid. 21 exactly wins the round; over 21 busts. Touchdowns update automatically from ESPN's live NFL data — every 5 minutes during Sunday's main game window, every 6 hours the rest of the week.</div>
 </div>
 
 <script>
@@ -423,7 +423,7 @@ body {
               <span class="nflbj-ticker-player">${escapeHtml(g.player)}</span>
               ${g.delta > 1 ? `<span class="nflbj-ticker-multi">×${g.delta}</span>` : ''}
             </div>
-            <div class="nflbj-ticker-detail">${escapeHtml(g.opponent)} (${g.isHome ? 'H' : 'A'}) &middot; ${ordinalDate(g.gameDate)}</div>
+            <div class="nflbj-ticker-detail">${escapeHtml(g.opponent)} (${g.isHome ? 'H' : 'A'})${g.quarter ? ` &middot; Q${g.quarter}${g.clock ? ' ' + escapeHtml(g.clock) : ''}` : ` &middot; ${ordinalDate(g.gameDate)}`}</div>
           </div>
         `).join('')}
       </div>
@@ -475,7 +475,7 @@ body {
     const ago = timeAgo(scores.updatedAt);
     let statusTxt = ago ? `${countTxt} · stats refreshed ${ago}` : countTxt;
     if (scores.updatedAt && scores.statsPublished === false) {
-      statusTxt += ' · season stats not published yet — everyone starts at 0';
+      statusTxt += ' · season hasn\'t started yet — everyone starts at 0';
     }
     subtitle.textContent = statusTxt;
   }
