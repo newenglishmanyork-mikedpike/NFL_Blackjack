@@ -48,5 +48,15 @@
       { "name": "Garrett Wilson", "team": "New York Jets" },
       { "name": "Braelon Allen", "team": "New York Jets" }
     ]
+  },
+  {
+    "name": "Hyslop",
+    "owner": "Hyslop",
+    "players": [
+      { "name": "Sam LaPorta", "team": "Detroit Lions" },
+      { "name": "Khalil Shakir", "team": "Buffalo Bills" },
+      { "name": "Dalton Kincaid", "team": "Buffalo Bills" },
+      { "name": "Tyjae Spears", "team": "Tennessee Titans" }
+    ]
   }
 ]
