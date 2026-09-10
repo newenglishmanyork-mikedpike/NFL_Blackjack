@@ -5,7 +5,7 @@ const TEAM_ABBRS = ['ari','atl','bal','buf','car','chi','cin','cle','dal','den',
   'hou','ind','jax','kc','lac','lar','lv','mia','min','ne','no','nyg','nyj','phi','pit',
   'sea','sf','tb','ten','wsh'];
 
-const targets = ['Shaheed', 'White', 'Mitchell', 'Kolar', 'Cooper'];
+const targets = ['Rachaad White', 'Keaton Mitchell', 'Charlie Kolar', 'Omar Cooper'];
 
 for (const abbr of TEAM_ABBRS) {
   const res = await fetch(`https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/${abbr}/roster`);
