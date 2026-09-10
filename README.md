@@ -95,13 +95,17 @@ commit/push (or open a pull request):
   "name": "Dave's Squad",
   "owner": "Dave",
   "players": [
-    { "name": "Jonathan Taylor", "team": "Indianapolis Colts" },
-    { "name": "Jahmyr Gibbs", "team": "Detroit Lions" },
-    { "name": "Christian McCaffrey", "team": "San Francisco 49ers" },
-    { "name": "Davante Adams", "team": "Los Angeles Rams" }
+    { "name": "Jonathan Taylor", "team": "Indianapolis Colts", "projectedTds": 12 },
+    { "name": "Jahmyr Gibbs", "team": "Detroit Lions", "projectedTds": 10 },
+    { "name": "Christian McCaffrey", "team": "San Francisco 49ers", "projectedTds": 11 },
+    { "name": "Davante Adams", "team": "Los Angeles Rams", "projectedTds": 7 }
   ]
 }
 ```
+
+`projectedTds` is optional (see "Projected total" below for what happens
+without it) but recommended — a preseason touchdown projection for that
+player from wherever you're sourcing it (a fantasy football guide, etc.).
 
 **Player names should match ESPN's `displayName` spelling** (usually
 their full common name, e.g. "Christian McCaffrey") for touchdowns to
@@ -138,21 +142,37 @@ then open the printed `localhost` URL.
 ## Projected total
 
 The leaderboard's "Proj." column estimates each entry's end-of-season
-total: for each of the 4 players, (touchdowns so far ÷ their games
-played so far) × their team's remaining regular-season games, added to
-the entry's current actual touchdowns. The emoji is just a quick read on
-that number relative to 21 (😴 way under, 😬 needs work, 😊 good pace, 🎯
-right on target, 😅 getting risky, 🤯 way past).
+total, built from each player's **preseason projected touchdowns** —
+sourced manually (e.g. from a fantasy football guide) and stored as a
+`projectedTds` field per player in `data/entries.json`:
 
-This is a simple rate projection using each player's own actual scoring
-rate, not any kind of advanced model — it's noisy early in the season
-(small sample sizes) and doesn't account for matchups, injuries, or role
-changes. A player needs at least 3 games played before their rate counts
-toward the projection (`MIN_GAMES_FOR_PROJECTION` in `index.html`) —
-otherwise one early touchdown in week 1 would extrapolate to a
-ridiculous full-season total. Below that threshold, a player's projected
-contribution is just their actual touchdowns so far, same as everyone
-else.
+```json
+{ "name": "Amon-Ra St. Brown", "team": "Detroit Lions", "projectedTds": 9 }
+```
+
+For each player: `projectedTds ÷ 17` gives a per-game rate, multiplied
+by their team's remaining regular-season games to get their projected
+*additional* touchdowns. Summed across all 4 players and added to the
+entry's current actual touchdowns, then rounded **up** to a whole
+number for display. The emoji is just a quick read on that number
+relative to 21 (😴 way under, 😬 needs work, 😊 good pace, 🎯 right on
+target, 😅 getting risky, 🤯 way past).
+
+Before any games are played, this means the projected total is simply
+the sum of the 4 players' `projectedTds` — a useful sanity check.
+
+**If a player has no `projectedTds` figure in `data/entries.json`**, the
+site falls back to the old method instead of showing zero: their own
+actual touchdowns-per-game rate so far (once they've played at least 3
+games — `MIN_GAMES_FOR_PROJECTION` in `index.html` — since a smaller
+sample would extrapolate wildly from one early touchdown). Below that
+games-played threshold with no preseason figure, a player's projected
+contribution is just their actual touchdowns so far.
+
+This is still not a sophisticated model — a single preseason number
+per player, evenly spread across their remaining games, won't capture
+bye weeks, injuries, role changes, or matchup strength. Treat it as a
+rough pace indicator, not a forecast.
 
 ## Latest touchdowns ticker
 

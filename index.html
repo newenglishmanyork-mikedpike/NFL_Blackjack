@@ -381,19 +381,33 @@ body {
     const stat = statFor(player);
     return stat ? stat.touchdowns : 0;
   }
+  // Looks up a player's team stats (games played/remaining) even before
+  // they've recorded a single stat this season, by falling back to the
+  // team name typed into entries.json when there's no live stat row yet.
+  function teamInfoFor(player) {
+    const teams = scores.teams || {};
+    const stat = statFor(player);
+    if (stat && stat.team && teams[stat.team]) return teams[stat.team];
+    return Object.values(teams).find(t => t.name === player.team) || null;
+  }
   // Projects each player's REMAINING touchdowns this season as
-  // (touchdowns so far / their games played so far) * their team's games
-  // left. Players with no touchdowns yet (so no stat row at all) project 0
-  // additional, same as their current tally. Below
-  // MIN_GAMES_FOR_PROJECTION, the sample is too small to extrapolate (one
-  // early touchdown would otherwise imply a ridiculous full-season total)
-  // — those players just carry their actual tally with no projected extra.
+  // (their preseason projected TDs, e.g. from a fantasy guide, / 17) *
+  // their team's games remaining. Falls back to a rate based on their
+  // actual touchdowns-per-game so far for any player without a
+  // projectedTds figure in entries.json, same method as before — below
+  // MIN_GAMES_FOR_PROJECTION games played that sample is too small to
+  // extrapolate, so those players just carry their actual tally.
+  const FULL_SEASON_GAMES = 17;
   const MIN_GAMES_FOR_PROJECTION = 3;
   function projectedAdditionalFor(player) {
-    const stat = statFor(player);
-    if (!stat || !stat.team || stat.gamesPlayed < MIN_GAMES_FOR_PROJECTION) return 0;
-    const team = (scores.teams || {})[stat.team];
+    const team = teamInfoFor(player);
     if (!team) return 0;
+    if (typeof player.projectedTds === 'number') {
+      const perGame = player.projectedTds / FULL_SEASON_GAMES;
+      return perGame * team.gamesRemaining;
+    }
+    const stat = statFor(player);
+    if (!stat || stat.gamesPlayed < MIN_GAMES_FOR_PROJECTION) return 0;
     const perGame = stat.touchdowns / stat.gamesPlayed;
     return perGame * team.gamesRemaining;
   }
@@ -466,14 +480,14 @@ body {
       const validCount = r.entry.players.filter(p => touchdownsFor(p) >= 1).length;
       const rowCls = idx === 0 && r.stats.category === 0 && r.stats.total > 0 ? 'is-leader' : (r.stats.bust ? 'is-bust' : '');
       const validCls = validCount === r.entry.players.length ? 'all-valid' : '';
-      const projectedRounded = Math.round(r.stats.projected);
+      const projectedRounded = Math.ceil(r.stats.projected);
       return `
         <tr class="${rowCls}">
           <td class="nflbj-lb-rank">${idx + 1}</td>
           <td class="nflbj-lb-name"><span class="nflbj-lb-name-inner">${avatarHtml(r.entry.name)}<span class="nflbj-lb-name-txt">${escapeHtml(r.entry.name)}</span></span></td>
           <td class="nflbj-lb-num nflbj-lb-goals">${r.stats.total}</td>
           <td class="nflbj-lb-num nflbj-lb-valid ${validCls}">${validCount}/${r.entry.players.length}</td>
-          <td class="nflbj-lb-num nflbj-lb-projected" title="Projected season total, based on each player's current touchdowns-per-game rate and their team's remaining games">${projectedRounded} ${projectionEmoji(projectedRounded)}</td>
+          <td class="nflbj-lb-num nflbj-lb-projected" title="Projected season total: actual TDs so far, plus each player's preseason-projected TD rate applied to their team's remaining games">${projectedRounded} ${projectionEmoji(projectedRounded)}</td>
         </tr>
       `;
     }).join('');
