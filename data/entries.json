@@ -14,7 +14,7 @@
     "owner": "Matt",
     "players": [
       { "name": "Blake Corum", "team": "Los Angeles Rams" },
-      { "name": "Rachaad White", "team": "Tampa Bay Buccaneers" },
+      { "name": "Rachaad White", "team": "Washington Commanders" },
       { "name": "JK Dobbins", "team": "Denver Broncos" },
       { "name": "JJ McCarthy", "team": "Minnesota Vikings" }
     ]
@@ -25,8 +25,8 @@
     "players": [
       { "name": "Breece Hall", "team": "New York Jets" },
       { "name": "Xavier Worthy", "team": "Kansas City Chiefs" },
-      { "name": "Rashid Shaheed", "team": "New Orleans Saints" },
-      { "name": "Keaton Mitchell", "team": "Baltimore Ravens" }
+      { "name": "Rashid Shaheed", "team": "Seattle Seahawks" },
+      { "name": "Keaton Mitchell", "team": "Los Angeles Chargers" }
     ]
   },
   {
@@ -35,7 +35,7 @@
     "players": [
       { "name": "Ashton Jeanty", "team": "Las Vegas Raiders" },
       { "name": "Parker Washington", "team": "Jacksonville Jaguars" },
-      { "name": "Charlie Kolar", "team": "Baltimore Ravens" },
+      { "name": "Charlie Kolar", "team": "Los Angeles Chargers" },
       { "name": "Quinshon Judkins", "team": "Cleveland Browns" }
     ]
   },
@@ -44,7 +44,7 @@
     "owner": "Nick",
     "players": [
       { "name": "Mason Taylor", "team": "New York Jets" },
-      { "name": "Omar Cooper Jr.", "team": "Jacksonville Jaguars" },
+      { "name": "Omar Cooper Jr.", "team": "New York Jets" },
       { "name": "Garrett Wilson", "team": "New York Jets" },
       { "name": "Braelon Allen", "team": "New York Jets" }
     ]
