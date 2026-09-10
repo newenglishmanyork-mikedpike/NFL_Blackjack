@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Example Entry — edit or remove me",
+    "owner": "Your name here",
+    "players": [
+      { "name": "Jonathan Taylor", "team": "Indianapolis Colts" },
+      { "name": "Jahmyr Gibbs", "team": "Detroit Lions" },
+      { "name": "Christian McCaffrey", "team": "San Francisco 49ers" },
+      { "name": "Davante Adams", "team": "Los Angeles Rams" }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "updatedAt": "2026-09-10T01:21:05.450Z",
+  "season": "2026",
+  "statsPublished": false,
+  "playersReturned": 0,
+  "players": {},
+  "teams": {
+    "ARI": {
+      "name": "Arizona Cardinals",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "ATL": {
+      "name": "Atlanta Falcons",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "BAL": {
+      "name": "Baltimore Ravens",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "BUF": {
+      "name": "Buffalo Bills",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "CAR": {
+      "name": "Carolina Panthers",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "CHI": {
+      "name": "Chicago Bears",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "CIN": {
+      "name": "Cincinnati Bengals",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "CLE": {
+      "name": "Cleveland Browns",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "DAL": {
+      "name": "Dallas Cowboys",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "DEN": {
+      "name": "Denver Broncos",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "DET": {
+      "name": "Detroit Lions",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "GB": {
+      "name": "Green Bay Packers",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "HOU": {
+      "name": "Houston Texans",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "IND": {
+      "name": "Indianapolis Colts",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "JAX": {
+      "name": "Jacksonville Jaguars",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "KC": {
+      "name": "Kansas City Chiefs",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "LA": {
+      "name": "Los Angeles Rams",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "LAC": {
+      "name": "Los Angeles Chargers",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "LV": {
+      "name": "Las Vegas Raiders",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "MIA": {
+      "name": "Miami Dolphins",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "MIN": {
+      "name": "Minnesota Vikings",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "NE": {
+      "name": "New England Patriots",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "NO": {
+      "name": "New Orleans Saints",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "NYG": {
+      "name": "New York Giants",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "NYJ": {
+      "name": "New York Jets",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "PHI": {
+      "name": "Philadelphia Eagles",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "PIT": {
+      "name": "Pittsburgh Steelers",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "SEA": {
+      "name": "Seattle Seahawks",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "SF": {
+      "name": "San Francisco 49ers",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "TB": {
+      "name": "Tampa Bay Buccaneers",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "TEN": {
+      "name": "Tennessee Titans",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    },
+    "WAS": {
+      "name": "Washington Commanders",
+      "playedGames": 0,
+      "gamesRemaining": 17
+    }
+  },
+  "recentTouchdowns": []
+}
