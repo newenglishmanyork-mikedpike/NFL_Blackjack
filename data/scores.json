@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-11T00:24:28.070Z",
+  "updatedAt": "2026-09-11T06:21:24.793Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 60,
+  "playersReturned": 125,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -363,6 +363,396 @@
       "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
+    },
+    "brockpurdy": {
+      "name": "Brock Purdy",
+      "team": "SF",
+      "touchdowns": 3,
+      "gamesPlayed": 1
+    },
+    "christianmccaffrey": {
+      "name": "Christian McCaffrey",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kaelonblack": {
+      "name": "Kaelon Black",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "deebosamuelsr": {
+      "name": "Deebo Samuel Sr.",
+      "team": "SF",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "demarcusrobinson": {
+      "name": "Demarcus Robinson",
+      "team": "SF",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "mikeevans": {
+      "name": "Mike Evans",
+      "team": "SF",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "lukefarrell": {
+      "name": "Luke Farrell",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "georgekittle": {
+      "name": "George Kittle",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jakebrendel": {
+      "name": "Jake Brendel",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "keionwhite": {
+      "name": "Keion White",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "fredwarner": {
+      "name": "Fred Warner",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "marquessigle": {
+      "name": "Marques Sigle",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "deommodorelenoir": {
+      "name": "Deommodore Lenoir",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "dregreenlaw": {
+      "name": "Dre Greenlaw",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jadendugger": {
+      "name": "Jaden Dugger",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nickbosa": {
+      "name": "Nick Bosa",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jiayirbrown": {
+      "name": "Ji'Ayir Brown",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "renardogreen": {
+      "name": "Renardo Green",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "malikmustapha": {
+      "name": "Malik Mustapha",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "garretwallow": {
+      "name": "Garret Wallow",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "uptonstout": {
+      "name": "Upton Stout",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "khadarelhodge": {
+      "name": "KhaDarel Hodge",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "osaodighizuwa": {
+      "name": "Osa Odighizuwa",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "khalidkareem": {
+      "name": "Khalid Kareem",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "cjwest": {
+      "name": "C.J. West",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ashtyndavis": {
+      "name": "Ashtyn Davis",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jamesthompsonjr": {
+      "name": "James Thompson Jr.",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "siranneal": {
+      "name": "Siran Neal",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ogbookoronkwo": {
+      "name": "Ogbo Okoronkwo",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jackjones": {
+      "name": "Jack Jones",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jacobcowing": {
+      "name": "Jacob Cowing",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "eddypineiro": {
+      "name": "Eddy Pineiro",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "corlisswaitman": {
+      "name": "Corliss Waitman",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "matthewstafford": {
+      "name": "Matthew Stafford",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "stetsonbennettiv": {
+      "name": "Stetson Bennett IV",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "blakecorum": {
+      "name": "Blake Corum",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kyrenwilliams": {
+      "name": "Kyren Williams",
+      "team": "LAR",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "ronnierivers": {
+      "name": "Ronnie Rivers",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "pukanacua": {
+      "name": "Puka Nacua",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "davanteadams": {
+      "name": "Davante Adams",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "davisallen": {
+      "name": "Davis Allen",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tylerhigbee": {
+      "name": "Tyler Higbee",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jordanwhittington": {
+      "name": "Jordan Whittington",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "colbyparkinson": {
+      "name": "Colby Parkinson",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "terranceferguson": {
+      "name": "Terrance Ferguson",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "konatamumpfield": {
+      "name": "Konata Mumpfield",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "quentinlake": {
+      "name": "Quentin Lake",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kamrenkinchens": {
+      "name": "Kamren Kinchens",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "natelandman": {
+      "name": "Nate Landman",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kobieturner": {
+      "name": "Kobie Turner",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tylerdavis": {
+      "name": "Tyler Davis",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jaylenmccollough": {
+      "name": "Jaylen McCollough",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "shaundolac": {
+      "name": "Shaun Dolac",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "josaiahstewart": {
+      "name": "Josaiah Stewart",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "trentmcduffie": {
+      "name": "Trent McDuffie",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jaylenwatson": {
+      "name": "Jaylen Watson",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kamcurl": {
+      "name": "Kam Curl",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "bradenfiske": {
+      "name": "Braden Fiske",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "omarspeights": {
+      "name": "Omar Speights",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "desjuanjohnson": {
+      "name": "Desjuan Johnson",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tyhamilton": {
+      "name": "Ty Hamilton",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "byronyoung": {
+      "name": "Byron Young",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "xaviersmith": {
+      "name": "Xavier Smith",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "harrisonmevis": {
+      "name": "Harrison Mevis",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ethanevans": {
+      "name": "Ethan Evans",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
     }
   },
   "teams": {
@@ -453,8 +843,8 @@
     },
     "LAR": {
       "name": "Los Angeles Rams",
-      "playedGames": 0,
-      "gamesRemaining": 17
+      "playedGames": 1,
+      "gamesRemaining": 16
     },
     "LV": {
       "name": "Las Vegas Raiders",
@@ -508,8 +898,8 @@
     },
     "SF": {
       "name": "San Francisco 49ers",
-      "playedGames": 0,
-      "gamesRemaining": 17
+      "playedGames": 1,
+      "gamesRemaining": 16
     },
     "TB": {
       "name": "Tampa Bay Buccaneers",
