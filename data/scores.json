@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-13T22:05:56.804Z",
+  "updatedAt": "2026-09-13T22:21:24.460Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 862,
+  "playersReturned": 868,
   "players": {
     "malikwillis": {
       "name": "Malik Willis",
@@ -30,6 +30,12 @@
     },
     "gregdulcich": {
       "name": "Greg Dulcich",
+      "team": "MIA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "willkacmarek": {
+      "name": "Will Kacmarek",
       "team": "MIA",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -64,8 +70,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jasonmarshalljr": {
-      "name": "Jason Marshall Jr.",
+    "michaeltaaffe": {
+      "name": "Michael Taaffe",
       "team": "MIA",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -76,8 +82,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "michaeltaaffe": {
-      "name": "Michael Taaffe",
+    "jasonmarshalljr": {
+      "name": "Jason Marshall Jr.",
+      "team": "MIA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "rileypatterson": {
+      "name": "Riley Patterson",
+      "team": "MIA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "joshuche": {
+      "name": "Josh Uche",
       "team": "MIA",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -94,20 +112,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "rileypatterson": {
-      "name": "Riley Patterson",
-      "team": "MIA",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "robertbealjr": {
       "name": "Robert Beal Jr.",
-      "team": "MIA",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "joshuche": {
-      "name": "Josh Uche",
       "team": "MIA",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -133,13 +139,13 @@
     "kirkcousins": {
       "name": "Kirk Cousins",
       "team": "LV",
-      "touchdowns": 2,
+      "touchdowns": 3,
       "gamesPlayed": 1
     },
     "ashtonjeanty": {
       "name": "Ashton Jeanty",
       "team": "LV",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 1
     },
     "mikewashingtonjr": {
@@ -160,6 +166,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "tretucker": {
+      "name": "Tre Tucker",
+      "team": "LV",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "michaelmayer": {
       "name": "Michael Mayer",
       "team": "LV",
@@ -174,12 +186,6 @@
     },
     "jalennailor": {
       "name": "Jalen Nailor",
-      "team": "LV",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "tretucker": {
-      "name": "Tre Tucker",
       "team": "LV",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -232,12 +238,6 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "ericstokes": {
-      "name": "Eric Stokes",
-      "team": "LV",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "tonkahemingway": {
       "name": "Tonka Hemingway",
       "team": "LV",
@@ -246,6 +246,12 @@
     },
     "segunolubi": {
       "name": "Segun Olubi",
+      "team": "LV",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ericstokes": {
+      "name": "Eric Stokes",
       "team": "LV",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -280,14 +286,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "maxxcrosby": {
-      "name": "Maxx Crosby",
+    "dylanlaube": {
+      "name": "Dylan Laube",
       "team": "LV",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "dylanlaube": {
-      "name": "Dylan Laube",
+    "maxxcrosby": {
+      "name": "Maxx Crosby",
       "team": "LV",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -550,14 +556,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "jalenredmond": {
+      "name": "Jalen Redmond",
+      "team": "MIN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "isaiahrodgers": {
       "name": "Isaiah Rodgers",
       "team": "MIN",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jalenredmond": {
-      "name": "Jalen Redmond",
+    "theojackson": {
+      "name": "Theo Jackson",
       "team": "MIN",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -574,8 +586,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "theojackson": {
-      "name": "Theo Jackson",
+    "jacobthomas": {
+      "name": "Jacob Thomas",
       "team": "MIN",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -588,6 +600,12 @@
     },
     "ivanpacejr": {
       "name": "Ivan Pace Jr.",
+      "team": "MIN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "dallasturner": {
+      "name": "Dallas Turner",
       "team": "MIN",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -610,12 +628,6 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jacobthomas": {
-      "name": "Jacob Thomas",
-      "team": "MIN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "harrisonsmith": {
       "name": "Harrison Smith",
       "team": "MIN",
@@ -624,12 +636,6 @@
     },
     "andrewvanginkel": {
       "name": "Andrew Van Ginkel",
-      "team": "MIN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "dallasturner": {
-      "name": "Dallas Turner",
       "team": "MIN",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -718,14 +724,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "mikesainristil": {
+      "name": "Mike Sainristil",
+      "team": "WSH",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "frankieluvu": {
       "name": "Frankie Luvu",
       "team": "WSH",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "mikesainristil": {
-      "name": "Mike Sainristil",
+    "quanmartin": {
+      "name": "Quan Martin",
       "team": "WSH",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -742,14 +754,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "javonkinlaw": {
-      "name": "Javon Kinlaw",
+    "sonnystyles": {
+      "name": "Sonny Styles",
       "team": "WSH",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "quanmartin": {
-      "name": "Quan Martin",
+    "javonkinlaw": {
+      "name": "Javon Kinlaw",
       "team": "WSH",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -910,6 +922,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "moroojomo": {
+      "name": "Moro Ojomo",
+      "team": "PHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "nolansmithjr": {
       "name": "Nolan Smith Jr.",
       "team": "PHI",
@@ -928,6 +946,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "jeremiahtrotterjr": {
+      "name": "Jeremiah Trotter Jr.",
+      "team": "PHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "jalyxhunt": {
       "name": "Jalyx Hunt",
       "team": "PHI",
@@ -940,14 +964,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "ajepenesa": {
-      "name": "AJ Epenesa",
+    "johnnymundt": {
+      "name": "Johnny Mundt",
       "team": "PHI",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "moroojomo": {
-      "name": "Moro Ojomo",
+    "ajepenesa": {
+      "name": "AJ Epenesa",
       "team": "PHI",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -1048,6 +1072,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "roylopez": {
+      "name": "Roy Lopez",
+      "team": "ARI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "mackwilsonsr": {
       "name": "Mack Wilson Sr.",
       "team": "ARI",
@@ -1056,12 +1086,6 @@
     },
     "kitancrawford": {
       "name": "Kitan Crawford",
-      "team": "ARI",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "roylopez": {
-      "name": "Roy Lopez",
       "team": "ARI",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -1086,6 +1110,12 @@
     },
     "denzelburke": {
       "name": "Denzel Burke",
+      "team": "ARI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "dariusrobinson": {
+      "name": "Darius Robinson",
       "team": "ARI",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -1123,7 +1153,7 @@
     "justinherbert": {
       "name": "Justin Herbert",
       "team": "LAC",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 1
     },
     "omarionhampton": {
@@ -1141,7 +1171,7 @@
     "laddmcconkey": {
       "name": "Ladd McConkey",
       "team": "LAC",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 1
     },
     "orondegadsden": {
@@ -1174,20 +1204,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "daiyanhenley": {
-      "name": "Daiyan Henley",
-      "team": "LAC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "elijahmolden": {
       "name": "Elijah Molden",
       "team": "LAC",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "tulituipulotu": {
-      "name": "Tuli Tuipulotu",
+    "daiyanhenley": {
+      "name": "Daiyan Henley",
       "team": "LAC",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -1198,20 +1222,38 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "tulituipulotu": {
+      "name": "Tuli Tuipulotu",
+      "team": "LAC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "camhart": {
+      "name": "Cam Hart",
+      "team": "LAC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "troydye": {
       "name": "Troy Dye",
       "team": "LAC",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "dontejackson": {
-      "name": "Donte Jackson",
+    "jamareecaldwell": {
+      "name": "Jamaree Caldwell",
       "team": "LAC",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jamareecaldwell": {
-      "name": "Jamaree Caldwell",
+    "dalvintomlinson": {
+      "name": "Dalvin Tomlinson",
+      "team": "LAC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "dontejackson": {
+      "name": "Donte Jackson",
       "team": "LAC",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -1228,26 +1270,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "dalvintomlinson": {
-      "name": "Dalvin Tomlinson",
+    "tarheebstill": {
+      "name": "Tarheeb Still",
+      "team": "LAC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "khalilmack": {
+      "name": "Khalil Mack",
       "team": "LAC",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
     "buddupree": {
       "name": "Bud Dupree",
-      "team": "LAC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "camhart": {
-      "name": "Cam Hart",
-      "team": "LAC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "tarheebstill": {
-      "name": "Tarheeb Still",
       "team": "LAC",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -5340,6 +5376,18 @@
     }
   },
   "recentTouchdowns": [
+    {
+      "player": "Ashton Jeanty",
+      "team": "LV",
+      "delta": 1,
+      "touchdownsAfter": 2,
+      "opponent": "Miami Dolphins",
+      "isHome": true,
+      "gameDate": "2026-09-13T20:25Z",
+      "quarter": 3,
+      "clock": "9:58",
+      "detectedAt": "2026-09-13T22:21:24.460Z"
+    },
     {
       "player": "Ashton Jeanty",
       "team": "LV",
