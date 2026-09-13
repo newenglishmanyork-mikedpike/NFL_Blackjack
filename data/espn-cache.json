@@ -1676,6 +1676,359 @@
         }
       }
     },
+    "401872661": {
+      "final": true,
+      "week": 1,
+      "home": "CAR",
+      "away": "CHI",
+      "players": {
+        "calebwilliams": {
+          "name": "Caleb Williams",
+          "team": "CHI",
+          "touchdowns": 4
+        },
+        "dandreswift": {
+          "name": "D'Andre Swift",
+          "team": "CHI",
+          "touchdowns": 3
+        },
+        "kylemonangai": {
+          "name": "Kyle Monangai",
+          "team": "CHI",
+          "touchdowns": 1
+        },
+        "lutherburdeniii": {
+          "name": "Luther Burden III",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "kalifraymond": {
+          "name": "Kalif Raymond",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "romeodunze": {
+          "name": "Rome Odunze",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "colekmet": {
+          "name": "Cole Kmet",
+          "team": "CHI",
+          "touchdowns": 1
+        },
+        "jahdaewalker": {
+          "name": "Jahdae Walker",
+          "team": "CHI",
+          "touchdowns": 1
+        },
+        "colstonloveland": {
+          "name": "Colston Loveland",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "devinbush": {
+          "name": "Devin Bush",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "kadendavis": {
+          "name": "Kaden Davis",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "dillonthieneman": {
+          "name": "Dillon Thieneman",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "tyriquestevensonsr": {
+          "name": "Tyrique Stevenson Sr.",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "camlewis": {
+          "name": "Cam Lewis",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "roschonjohnson": {
+          "name": "Roschon Johnson",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "jameslynch": {
+          "name": "James Lynch",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "malikmuhammadii": {
+          "name": "Malik Muhammad II",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "jaylonjohnson": {
+          "name": "Jaylon Johnson",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "gradyjarrett": {
+          "name": "Grady Jarrett",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "kentaviusstreet": {
+          "name": "Kentavius Street",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "montezsweat": {
+          "name": "Montez Sweat",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "austinbooker": {
+          "name": "Austin Booker",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "dmarcojackson": {
+          "name": "D'Marco Jackson",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "joshblackwell": {
+          "name": "Josh Blackwell",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "dayoodeyingbo": {
+          "name": "Dayo Odeyingbo",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "tjedwards": {
+          "name": "T.J. Edwards",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "nevillegallimore": {
+          "name": "Neville Gallimore",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "elijahhicks": {
+          "name": "Elijah Hicks",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "danielhardy": {
+          "name": "Daniel Hardy",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "beaugardner": {
+          "name": "Beau Gardner",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "skylerthomas": {
+          "name": "Skyler Thomas",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "cairosantos": {
+          "name": "Cairo Santos",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "torytaylor": {
+          "name": "Tory Taylor",
+          "team": "CHI",
+          "touchdowns": 0
+        },
+        "bryceyoung": {
+          "name": "Bryce Young",
+          "team": "CAR",
+          "touchdowns": 4
+        },
+        "kennypickett": {
+          "name": "Kenny Pickett",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "chubahubbard": {
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "touchdowns": 2
+        },
+        "ajdillon": {
+          "name": "AJ Dillon",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jonathonbrooks": {
+          "name": "Jonathon Brooks",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jalencoker": {
+          "name": "Jalen Coker",
+          "team": "CAR",
+          "touchdowns": 2
+        },
+        "tetairoamcmillan": {
+          "name": "Tetairoa McMillan",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "darrenwaller": {
+          "name": "Darren Waller",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "tommytremble": {
+          "name": "Tommy Tremble",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "mitchellevans": {
+          "name": "Mitchell Evans",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "xavierlegette": {
+          "name": "Xavier Legette",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jimmyhornjr": {
+          "name": "Jimmy Horn Jr.",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "willleeiii": {
+          "name": "Will Lee III",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "devinlloyd": {
+          "name": "Devin Lloyd",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "nickscott": {
+          "name": "Nick Scott",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "leehunter": {
+          "name": "Lee Hunter",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "bobbyokereke": {
+          "name": "Bobby Okereke",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "derrickbrown": {
+          "name": "Derrick Brown",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jaelanphillips": {
+          "name": "Jaelan Phillips",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "princelyumanmielen": {
+          "name": "Princely Umanmielen",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jeremiahmoon": {
+          "name": "Jeremiah Moon",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jayceehorn": {
+          "name": "Jaycee Horn",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "lathanransom": {
+          "name": "Lathan Ransom",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "trevonmoehrig": {
+          "name": "Tre'von Moehrig",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "trevisgipson": {
+          "name": "Trevis Gipson",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "mikejackson": {
+          "name": "Mike Jackson",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "terahedwards": {
+          "name": "TeRah Edwards",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "thomasincoom": {
+          "name": "Thomas Incoom",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "bobbybrowniii": {
+          "name": "Bobby Brown III",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "brycentremayne": {
+          "name": "Brycen Tremayne",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "feleipefranks": {
+          "name": "Feleipe Franks",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "claudincherelus": {
+          "name": "Claudin Cherelus",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "aaronhall": {
+          "name": "Aaron Hall",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "chausmithwade": {
+          "name": "Chau Smith-Wade",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "ryanfitzgerald": {
+          "name": "Ryan Fitzgerald",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "sammartin": {
+          "name": "Sam Martin",
+          "team": "CAR",
+          "touchdowns": 0
+        }
+      }
+    },
     "401872922": {
       "final": true,
       "week": 1,
