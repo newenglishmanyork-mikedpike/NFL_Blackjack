@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T02:51:26.283Z",
+  "updatedAt": "2026-09-14T03:00:38.927Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 966,
@@ -76,8 +76,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "jalenthompson": {
+      "name": "Jalen Thompson",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "donovanezeiruaku": {
       "name": "Donovan Ezeiruaku",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "daronbland": {
+      "name": "DaRon Bland",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -94,8 +106,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jalenthompson": {
-      "name": "Jalen Thompson",
+    "jaishawnbarham": {
+      "name": "Jaishawn Barham",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -106,20 +118,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "daronbland": {
-      "name": "DaRon Bland",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "otitoogbonnia": {
       "name": "Otito Ogbonnia",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "jaishawnbarham": {
-      "name": "Jaishawn Barham",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -199,11 +199,17 @@
     "jaxsondart": {
       "name": "Jaxson Dart",
       "team": "NYG",
-      "touchdowns": 2,
+      "touchdowns": 3,
       "gamesPlayed": 1
     },
     "camskattebo": {
       "name": "Cam Skattebo",
+      "team": "NYG",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "devinsingletary": {
+      "name": "Devin Singletary",
       "team": "NYG",
       "touchdowns": 1,
       "gamesPlayed": 1
@@ -214,8 +220,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "devinsingletary": {
-      "name": "Devin Singletary",
+    "maliknabers": {
+      "name": "Malik Nabers",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -224,12 +230,6 @@
       "name": "Isaiah Likely",
       "team": "NYG",
       "touchdowns": 2,
-      "gamesPlayed": 1
-    },
-    "maliknabers": {
-      "name": "Malik Nabers",
-      "team": "NYG",
-      "touchdowns": 0,
       "gamesPlayed": 1
     },
     "darnellmooney": {
