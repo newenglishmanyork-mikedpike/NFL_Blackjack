@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-14T02:25:00.575Z",
+  "updatedAt": "2026-09-14T02:39:09.996Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 964,
+  "playersReturned": 965,
   "players": {
     "dakprescott": {
       "name": "Dak Prescott",
@@ -13,7 +13,7 @@
     "javontewilliams": {
       "name": "Javonte Williams",
       "team": "DAL",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 1
     },
     "hunterluepke": {
@@ -262,6 +262,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "arvellreese": {
+      "name": "Arvell Reese",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "chaunceygolston": {
       "name": "Chauncey Golston",
       "team": "NYG",
@@ -274,8 +280,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "arvellreese": {
-      "name": "Arvell Reese",
+    "tylernubin": {
+      "name": "Tyler Nubin",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "abdulcarter": {
+      "name": "Abdul Carter",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -288,12 +300,6 @@
     },
     "malikharrison": {
       "name": "Malik Harrison",
-      "team": "NYG",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "tylernubin": {
-      "name": "Tyler Nubin",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -322,8 +328,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "abdulcarter": {
-      "name": "Abdul Carter",
+    "paulsonadebo": {
+      "name": "Paulson Adebo",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -340,6 +346,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "jevonholland": {
+      "name": "Jevon Holland",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "ardariuswashington": {
       "name": "Ar'Darius Washington",
       "team": "NYG",
@@ -348,12 +360,6 @@
     },
     "cjokoye": {
       "name": "CJ Okoye",
-      "team": "NYG",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "jevonholland": {
-      "name": "Jevon Holland",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
