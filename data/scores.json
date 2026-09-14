@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-14T02:08:56.221Z",
+  "updatedAt": "2026-09-14T02:25:00.575Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 961,
+  "playersReturned": 964,
   "players": {
     "dakprescott": {
       "name": "Dak Prescott",
@@ -76,8 +76,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "deewinters": {
-      "name": "Dee Winters",
+    "donovanezeiruaku": {
+      "name": "Donovan Ezeiruaku",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -88,14 +88,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "daronbland": {
-      "name": "DaRon Bland",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "otitoogbonnia": {
-      "name": "Otito Ogbonnia",
+    "jalenthompson": {
+      "name": "Jalen Thompson",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -106,20 +100,32 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "donovanezeiruaku": {
-      "name": "Donovan Ezeiruaku",
+    "deewinters": {
+      "name": "Dee Winters",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jalenthompson": {
-      "name": "Jalen Thompson",
+    "otitoogbonnia": {
+      "name": "Otito Ogbonnia",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "daronbland": {
+      "name": "DaRon Bland",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
     "kennyclark": {
       "name": "Kenny Clark",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "quinnenwilliams": {
+      "name": "Quinnen Williams",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -136,8 +142,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "quinnenwilliams": {
-      "name": "Quinnen Williams",
+    "markquesebell": {
+      "name": "Markquese Bell",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -154,6 +160,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "cobiedurant": {
+      "name": "Cobie Durant",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "malachilawrence": {
       "name": "Malachi Lawrence",
       "team": "DAL",
@@ -162,12 +174,6 @@
     },
     "ltoverton": {
       "name": "LT Overton",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "cobiedurant": {
-      "name": "Cobie Durant",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -187,7 +193,7 @@
     "jaxsondart": {
       "name": "Jaxson Dart",
       "team": "NYG",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 1
     },
     "camskattebo": {
@@ -211,11 +217,17 @@
     "isaiahlikely": {
       "name": "Isaiah Likely",
       "team": "NYG",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 1
     },
     "maliknabers": {
       "name": "Malik Nabers",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "darnellmooney": {
+      "name": "Darnell Mooney",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -226,8 +238,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "darnellmooney": {
-      "name": "Darnell Mooney",
+    "theojohnson": {
+      "name": "Theo Johnson",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -250,14 +262,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "arvellreese": {
-      "name": "Arvell Reese",
+    "chaunceygolston": {
+      "name": "Chauncey Golston",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "chaunceygolston": {
-      "name": "Chauncey Golston",
+    "deontebanks": {
+      "name": "Deonte Banks",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "arvellreese": {
+      "name": "Arvell Reese",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -270,12 +288,6 @@
     },
     "malikharrison": {
       "name": "Malik Harrison",
-      "team": "NYG",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "deontebanks": {
-      "name": "Deonte Banks",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -324,6 +336,12 @@
     },
     "zairebarnes": {
       "name": "Zaire Barnes",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ardariuswashington": {
+      "name": "Ar'Darius Washington",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
