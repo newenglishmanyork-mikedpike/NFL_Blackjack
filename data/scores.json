@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-14T00:33:49.584Z",
+  "updatedAt": "2026-09-14T00:50:55.356Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 922,
+  "playersReturned": 936,
   "players": {
     "dakprescott": {
       "name": "Dak Prescott",
@@ -16,32 +16,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "georgepickens": {
-      "name": "George Pickens",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "ceedeelamb": {
       "name": "CeeDee Lamb",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "kennyclark": {
-      "name": "Kenny Clark",
+    "georgepickens": {
+      "name": "George Pickens",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "daronbland": {
-      "name": "DaRon Bland",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "donovanezeiruaku": {
-      "name": "Donovan Ezeiruaku",
+    "brevynspannford": {
+      "name": "Brevyn Spann-Ford",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -52,8 +40,50 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "daronbland": {
+      "name": "DaRon Bland",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "malikhooker": {
+      "name": "Malik Hooker",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kennyclark": {
+      "name": "Kenny Clark",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "donovanezeiruaku": {
+      "name": "Donovan Ezeiruaku",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jalenthompson": {
+      "name": "Jalen Thompson",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "otitoogbonnia": {
       "name": "Otito Ogbonnia",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "malachilawrence": {
+      "name": "Malachi Lawrence",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ltoverton": {
+      "name": "LT Overton",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -79,7 +109,7 @@
     "camskattebo": {
       "name": "Cam Skattebo",
       "team": "NYG",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 1
     },
     "devinsingletary": {
@@ -88,8 +118,50 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "isaiahlikely": {
+      "name": "Isaiah Likely",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "maliknabers": {
       "name": "Malik Nabers",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "patrickricard": {
+      "name": "Patrick Ricard",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "druphillips": {
+      "name": "Dru Phillips",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "arvellreese": {
+      "name": "Arvell Reese",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "abdulcarter": {
+      "name": "Abdul Carter",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tremaineedmunds": {
+      "name": "Tremaine Edmunds",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "chaunceygolston": {
+      "name": "Chauncey Golston",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -112,8 +184,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "abdulcarter": {
-      "name": "Abdul Carter",
+    "elijahcampbell": {
+      "name": "Elijah Campbell",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "malikharrison": {
+      "name": "Malik Harrison",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "dominiczvada": {
+      "name": "Dominic Zvada",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
