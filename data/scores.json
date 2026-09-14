@@ -1,9 +1,123 @@
 {
-  "updatedAt": "2026-09-14T00:24:42.816Z",
+  "updatedAt": "2026-09-14T00:33:49.584Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 903,
+  "playersReturned": 922,
   "players": {
+    "dakprescott": {
+      "name": "Dak Prescott",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "javontewilliams": {
+      "name": "Javonte Williams",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "georgepickens": {
+      "name": "George Pickens",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ceedeelamb": {
+      "name": "CeeDee Lamb",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kennyclark": {
+      "name": "Kenny Clark",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "daronbland": {
+      "name": "DaRon Bland",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "donovanezeiruaku": {
+      "name": "Donovan Ezeiruaku",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "demarvionovershown": {
+      "name": "DeMarvion Overshown",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "otitoogbonnia": {
+      "name": "Otito Ogbonnia",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kavontaeturpin": {
+      "name": "KaVontae Turpin",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "bryananger": {
+      "name": "Bryan Anger",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jaxsondart": {
+      "name": "Jaxson Dart",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "camskattebo": {
+      "name": "Cam Skattebo",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "devinsingletary": {
+      "name": "Devin Singletary",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "maliknabers": {
+      "name": "Malik Nabers",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "gregnewsomeii": {
+      "name": "Greg Newsome II",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "zairebarnes": {
+      "name": "Zaire Barnes",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "djreader": {
+      "name": "DJ Reader",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "abdulcarter": {
+      "name": "Abdul Carter",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "bakermayfield": {
       "name": "Baker Mayfield",
       "team": "TB",
