@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-14T00:50:55.356Z",
+  "updatedAt": "2026-09-14T01:00:47.139Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 936,
+  "playersReturned": 940,
   "players": {
     "dakprescott": {
       "name": "Dak Prescott",
@@ -40,8 +40,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "jalenthompson": {
+      "name": "Jalen Thompson",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "daronbland": {
       "name": "DaRon Bland",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "donovanezeiruaku": {
+      "name": "Donovan Ezeiruaku",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -58,14 +70,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "donovanezeiruaku": {
-      "name": "Donovan Ezeiruaku",
+    "jonathanbullard": {
+      "name": "Jonathan Bullard",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jalenthompson": {
-      "name": "Jalen Thompson",
+    "rashangary": {
+      "name": "Rashan Gary",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -84,6 +96,12 @@
     },
     "ltoverton": {
       "name": "LT Overton",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "cobiedurant": {
+      "name": "Cobie Durant",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -114,6 +132,12 @@
     },
     "devinsingletary": {
       "name": "Devin Singletary",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tyronetracyjr": {
+      "name": "Tyrone Tracy Jr.",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -166,6 +190,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "malikharrison": {
+      "name": "Malik Harrison",
+      "team": "NYG",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "gregnewsomeii": {
       "name": "Greg Newsome II",
       "team": "NYG",
@@ -184,14 +214,8 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "elijahcampbell": {
-      "name": "Elijah Campbell",
-      "team": "NYG",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "malikharrison": {
-      "name": "Malik Harrison",
+    "kayvonthibodeaux": {
+      "name": "Kayvon Thibodeaux",
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
