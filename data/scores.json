@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-14T02:39:09.996Z",
+  "updatedAt": "2026-09-14T02:51:26.283Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 965,
+  "playersReturned": 966,
   "players": {
     "dakprescott": {
       "name": "Dak Prescott",
@@ -82,6 +82,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "demarvionovershown": {
+      "name": "DeMarvion Overshown",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "calebdowns": {
       "name": "Caleb Downs",
       "team": "DAL",
@@ -94,14 +100,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "demarvionovershown": {
-      "name": "DeMarvion Overshown",
+    "deewinters": {
+      "name": "Dee Winters",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "deewinters": {
-      "name": "Dee Winters",
+    "daronbland": {
+      "name": "DaRon Bland",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -112,8 +118,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "daronbland": {
-      "name": "DaRon Bland",
+    "jaishawnbarham": {
+      "name": "Jaishawn Barham",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "malachilawrence": {
+      "name": "Malachi Lawrence",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -126,6 +138,12 @@
     },
     "quinnenwilliams": {
       "name": "Quinnen Williams",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "cobiedurant": {
+      "name": "Cobie Durant",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -148,26 +166,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jaishawnbarham": {
-      "name": "Jaishawn Barham",
+    "pjlocke": {
+      "name": "P.J. Locke",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
     "rashangary": {
       "name": "Rashan Gary",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "cobiedurant": {
-      "name": "Cobie Durant",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "malachilawrence": {
-      "name": "Malachi Lawrence",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
