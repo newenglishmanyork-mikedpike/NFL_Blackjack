@@ -1,105 +1,9 @@
 {
-  "updatedAt": "2026-09-15T00:24:33.956Z",
+  "updatedAt": "2026-09-15T06:23:27.259Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 986,
+  "playersReturned": 1042,
   "players": {
-    "bonix": {
-      "name": "Bo Nix",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "jkdobbins": {
-      "name": "J.K. Dobbins",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "courtlandsutton": {
-      "name": "Courtland Sutton",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "alexsingleton": {
-      "name": "Alex Singleton",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "talanoahufanga": {
-      "name": "Talanoa Hufanga",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "eyiomauwazurike": {
-      "name": "Eyioma Uwazurike",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "rileymoss": {
-      "name": "Riley Moss",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "zachallen": {
-      "name": "Zach Allen",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "nikbonitto": {
-      "name": "Nik Bonitto",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "patrickmahomes": {
-      "name": "Patrick Mahomes",
-      "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "kennethwalkeriii": {
-      "name": "Kenneth Walker III",
-      "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "xavierworthy": {
-      "name": "Xavier Worthy",
-      "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "traviskelce": {
-      "name": "Travis Kelce",
-      "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "nohlwilliams": {
-      "name": "Nohl Williams",
-      "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "chrisjones": {
-      "name": "Chris Jones",
-      "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "mansoordelane": {
-      "name": "Mansoor Delane",
-      "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "drakemaye": {
       "name": "Drake Maye",
       "team": "NE",
@@ -1884,9 +1788,9 @@
     },
     "marcusharris": {
       "name": "Marcus Harris",
-      "team": "TEN",
+      "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "alontaetaylor": {
       "name": "Alontae Taylor",
@@ -5919,6 +5823,438 @@
       "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
+    },
+    "bonix": {
+      "name": "Bo Nix",
+      "team": "DEN",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "jkdobbins": {
+      "name": "J.K. Dobbins",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "rjharvey": {
+      "name": "RJ Harvey",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "troyfranklin": {
+      "name": "Troy Franklin",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "evanengram": {
+      "name": "Evan Engram",
+      "team": "DEN",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "patbryant": {
+      "name": "Pat Bryant",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "courtlandsutton": {
+      "name": "Courtland Sutton",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "adamtrautman": {
+      "name": "Adam Trautman",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jaylenwaddle": {
+      "name": "Jaylen Waddle",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "alexsingleton": {
+      "name": "Alex Singleton",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "dondreatillman": {
+      "name": "Dondrea Tillman",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "rileymoss": {
+      "name": "Riley Moss",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "talanoahufanga": {
+      "name": "Talanoa Hufanga",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "zachallen": {
+      "name": "Zach Allen",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "brandonjones": {
+      "name": "Brandon Jones",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jahdaebarron": {
+      "name": "Jahdae Barron",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "querobinson": {
+      "name": "Que Robinson",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "justinstrnad": {
+      "name": "Justin Strnad",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "eyiomauwazurike": {
+      "name": "Eyioma Uwazurike",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "patsurtainii": {
+      "name": "Pat Surtain II",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "malcolmroach": {
+      "name": "Malcolm Roach",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nikbonitto": {
+      "name": "Nik Bonitto",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nateadkins": {
+      "name": "Nate Adkins",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jaquanmcmillian": {
+      "name": "Ja'Quan McMillian",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jordanturner": {
+      "name": "Jordan Turner",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "mitchellfraboni": {
+      "name": "Mitchell Fraboni",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "djjones": {
+      "name": "D.J. Jones",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "devonkey": {
+      "name": "Devon Key",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tycenanderson": {
+      "name": "Tycen Anderson",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jlskinner": {
+      "name": "JL Skinner",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jonahelliss": {
+      "name": "Jonah Elliss",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "karenereid": {
+      "name": "Karene Reid",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jonahcoleman": {
+      "name": "Jonah Coleman",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "marvinmimsjr": {
+      "name": "Marvin Mims Jr.",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "willutz": {
+      "name": "Wil Lutz",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jeremycrawshaw": {
+      "name": "Jeremy Crawshaw",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "patrickmahomes": {
+      "name": "Patrick Mahomes",
+      "team": "KC",
+      "touchdowns": 3,
+      "gamesPlayed": 1
+    },
+    "kennethwalkeriii": {
+      "name": "Kenneth Walker III",
+      "team": "KC",
+      "touchdowns": 2,
+      "gamesPlayed": 1
+    },
+    "emmettjohnson": {
+      "name": "Emmett Johnson",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "traviskelce": {
+      "name": "Travis Kelce",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "rasheerice": {
+      "name": "Rashee Rice",
+      "team": "KC",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "xavierworthy": {
+      "name": "Xavier Worthy",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jakebriningstool": {
+      "name": "Jake Briningstool",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "noahgray": {
+      "name": "Noah Gray",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tyquanthornton": {
+      "name": "Tyquan Thornton",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "cyrusallen": {
+      "name": "Cyrus Allen",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "creedhumphrey": {
+      "name": "Creed Humphrey",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "chrisjones": {
+      "name": "Chris Jones",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ljariussneed": {
+      "name": "L'Jarius Sneed",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "druetranquill": {
+      "name": "Drue Tranquill",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nickbolton": {
+      "name": "Nick Bolton",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jadenhicks": {
+      "name": "Jaden Hicks",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nohlwilliams": {
+      "name": "Nohl Williams",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "alohigilman": {
+      "name": "Alohi Gilman",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "georgekarlaftis": {
+      "name": "George Karlaftis",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "rmasonthomas": {
+      "name": "R Mason Thomas",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "benvansumeren": {
+      "name": "Ben VanSumeren",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "xaviernwankpa": {
+      "name": "Xavier Nwankpa",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "peterwoods": {
+      "name": "Peter Woods",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "felixanudikeuzomah": {
+      "name": "Felix Anudike-Uzomah",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kristianfulton": {
+      "name": "Kristian Fulton",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jaylonmoore": {
+      "name": "Jaylon Moore",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jalenroyals": {
+      "name": "Jalen Royals",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jackcochrane": {
+      "name": "Jack Cochrane",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "khyiristonga": {
+      "name": "Khyiris Tonga",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "coopermcdonald": {
+      "name": "Cooper McDonald",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jeffreybassa": {
+      "name": "Jeffrey Bassa",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ashtongillotte": {
+      "name": "Ashton Gillotte",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "mansoordelane": {
+      "name": "Mansoor Delane",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nikkoremigio": {
+      "name": "Nikko Remigio",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "harrisonbutker": {
+      "name": "Harrison Butker",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "mattaraiza": {
+      "name": "Matt Araiza",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
     }
   },
   "teams": {
@@ -5969,8 +6305,8 @@
     },
     "DEN": {
       "name": "Denver Broncos",
-      "playedGames": 0,
-      "gamesRemaining": 17
+      "playedGames": 1,
+      "gamesRemaining": 16
     },
     "DET": {
       "name": "Detroit Lions",
@@ -5999,8 +6335,8 @@
     },
     "KC": {
       "name": "Kansas City Chiefs",
-      "playedGames": 0,
-      "gamesRemaining": 17
+      "playedGames": 1,
+      "gamesRemaining": 16
     },
     "LAC": {
       "name": "Los Angeles Chargers",
