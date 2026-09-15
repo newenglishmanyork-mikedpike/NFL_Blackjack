@@ -1,9 +1,105 @@
 {
-  "updatedAt": "2026-09-14T18:19:31.248Z",
+  "updatedAt": "2026-09-15T00:24:33.956Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 970,
+  "playersReturned": 986,
   "players": {
+    "bonix": {
+      "name": "Bo Nix",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jkdobbins": {
+      "name": "J.K. Dobbins",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "courtlandsutton": {
+      "name": "Courtland Sutton",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "alexsingleton": {
+      "name": "Alex Singleton",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "talanoahufanga": {
+      "name": "Talanoa Hufanga",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "eyiomauwazurike": {
+      "name": "Eyioma Uwazurike",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "rileymoss": {
+      "name": "Riley Moss",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "zachallen": {
+      "name": "Zach Allen",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nikbonitto": {
+      "name": "Nik Bonitto",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "patrickmahomes": {
+      "name": "Patrick Mahomes",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kennethwalkeriii": {
+      "name": "Kenneth Walker III",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "xavierworthy": {
+      "name": "Xavier Worthy",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "traviskelce": {
+      "name": "Travis Kelce",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nohlwilliams": {
+      "name": "Nohl Williams",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "chrisjones": {
+      "name": "Chris Jones",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "mansoordelane": {
+      "name": "Mansoor Delane",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "drakemaye": {
       "name": "Drake Maye",
       "team": "NE",
