@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-17T18:19:48.474Z",
+  "updatedAt": "2026-09-18T00:23:04.991Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1042,
+  "playersReturned": 1043,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -1400,7 +1400,7 @@
       "name": "Jack Campbell",
       "team": "DET",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "avontemaddox": {
       "name": "Avonte Maddox",
@@ -1418,7 +1418,7 @@
       "name": "Aidan Hutchinson",
       "team": "DET",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "rogermccreary": {
       "name": "Roger McCreary",
@@ -1448,25 +1448,25 @@
       "name": "Chuck Clark",
       "team": "DET",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "ericoneill": {
       "name": "Eric O'Neill",
       "team": "DET",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "devinwhite": {
       "name": "Devin White",
       "team": "DET",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "tyleikwilliams": {
       "name": "Tyleik Williams",
       "team": "DET",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "skylergillhoward": {
       "name": "Skyler Gill-Howard",
@@ -3488,13 +3488,13 @@
       "name": "Josh Allen",
       "team": "BUF",
       "touchdowns": 4,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jamescookiii": {
       "name": "James Cook III",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "raydavis": {
       "name": "Ray Davis",
@@ -3524,7 +3524,7 @@
       "name": "Khalil Shakir",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "joshuapalmer": {
       "name": "Joshua Palmer",
@@ -3692,7 +3692,7 @@
       "name": "Greg Dortch",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "tylerbass": {
       "name": "Tyler Bass",
@@ -6253,6 +6253,12 @@
     "mattaraiza": {
       "name": "Matt Araiza",
       "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "spencerbrown": {
+      "name": "Spencer Brown",
+      "team": "BUF",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
