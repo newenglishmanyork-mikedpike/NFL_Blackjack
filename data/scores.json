@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T18:51:01.302Z",
+  "updatedAt": "2026-09-20T19:00:45.774Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1103,
+  "playersReturned": 1109,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -854,7 +854,7 @@
       "name": "Kevin Knowles",
       "team": "TB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jacobparrish": {
       "name": "Jacob Parrish",
@@ -878,7 +878,7 @@
       "name": "SirVocea Dennis",
       "team": "TB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "yayadiaby": {
       "name": "Yaya Diaby",
@@ -992,7 +992,7 @@
       "name": "Andrei Iosivas",
       "team": "CIN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "tannerhudson": {
       "name": "Tanner Hudson",
@@ -1250,7 +1250,7 @@
       "name": "Quincy Riley",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "nathanshepherd": {
       "name": "Nathan Shepherd",
@@ -1280,7 +1280,7 @@
       "name": "Colby Wooden",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 1
     },
     "tyreewilson": {
       "name": "Tyree Wilson",
@@ -1298,13 +1298,13 @@
       "name": "Anfernee Jennings",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "chrisrumphii": {
       "name": "Chris Rumph II",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "decamerionrichardson": {
       "name": "Decamerion Richardson",
@@ -1682,7 +1682,7 @@
       "name": "Harrison Phillips",
       "team": "NYJ",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "tvondresweat": {
       "name": "T'Vondre Sweat",
@@ -1742,7 +1742,7 @@
       "name": "Wan'Dale Robinson",
       "team": "TEN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "gunnarhelm": {
       "name": "Gunnar Helm",
@@ -2726,7 +2726,7 @@
       "name": "Jahdae Walker",
       "team": "CHI",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 1
     },
     "colstonloveland": {
       "name": "Colston Loveland",
@@ -4538,7 +4538,7 @@
       "name": "DeeJay Dallas",
       "team": "MIN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jauanjennings": {
       "name": "Jauan Jennings",
@@ -4976,13 +4976,13 @@
       "name": "Darius Cooper",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "moroojomo": {
       "name": "Moro Ojomo",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jalyxhunt": {
       "name": "Jalyx Hunt",
@@ -6346,6 +6346,18 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "nicholassingleton": {
+      "name": "Nicholas Singleton",
+      "team": "TEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "calvinridley": {
+      "name": "Calvin Ridley",
+      "team": "TEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "cedricgray": {
       "name": "Cedric Gray",
       "team": "TEN",
@@ -6478,6 +6490,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "isaiahbond": {
+      "name": "Isaiah Bond",
+      "team": "CLE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "derekbarnett": {
       "name": "Derek Barnett",
       "team": "CLE",
@@ -6526,14 +6544,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "devontezwalker": {
-      "name": "Devontez Walker",
-      "team": "BAL",
+    "jaydenprice": {
+      "name": "Jayden Price",
+      "team": "NO",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "chandlerrivers": {
-      "name": "Chandler Rivers",
+    "devontezwalker": {
+      "name": "Devontez Walker",
       "team": "BAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6546,6 +6564,12 @@
     },
     "mikegreen": {
       "name": "Mike Green",
+      "team": "BAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "chandlerrivers": {
+      "name": "Chandler Rivers",
       "team": "BAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6568,8 +6592,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "erickalljr": {
+      "name": "Erick All Jr.",
+      "team": "CIN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "djivey": {
       "name": "DJ Ivey",
+      "team": "CIN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kyledugger": {
+      "name": "Kyle Dugger",
       "team": "CIN",
       "touchdowns": 0,
       "gamesPlayed": 1
