@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T22:59:42.355Z",
+  "updatedAt": "2026-09-20T23:15:55.455Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1183,
+  "playersReturned": 1187,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -542,7 +542,7 @@
       "name": "Jack Jones",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jacobcowing": {
       "name": "Jacob Cowing",
@@ -3913,7 +3913,7 @@
     "malikwillis": {
       "name": "Malik Willis",
       "team": "MIA",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "devonachane": {
@@ -4717,7 +4717,7 @@
     "stefondiggs": {
       "name": "Stefon Diggs",
       "team": "WSH",
-      "touchdowns": 2,
+      "touchdowns": 3,
       "gamesPlayed": 2
     },
     "chigokonkwo": {
@@ -4868,7 +4868,7 @@
       "name": "Javontae Jean-Baptiste",
       "team": "WSH",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "charlesomenihu": {
       "name": "Charles Omenihu",
@@ -5552,7 +5552,7 @@
       "name": "Otito Ogbonnia",
       "team": "DAL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "kennyclark": {
       "name": "Kenny Clark",
@@ -6256,48 +6256,6 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "lequintallenjr": {
-      "name": "LeQuint Allen Jr.",
-      "team": "JAX",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "jarrianjones": {
-      "name": "Jarrian Jones",
-      "team": "JAX",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "rayuanlaneiii": {
-      "name": "Rayuan Lane III",
-      "team": "JAX",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "tylerbadie": {
-      "name": "Tyler Badie",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "adamprentice": {
-      "name": "Adam Prentice",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "liljordanhumphrey": {
-      "name": "Lil'Jordan Humphrey",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "krisabramsdraine": {
-      "name": "Kris Abrams-Draine",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "darekeyoung": {
       "name": "Dareke Young",
       "team": "LV",
@@ -6373,7 +6331,7 @@
     "marcusmariota": {
       "name": "Marcus Mariota",
       "team": "WSH",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 1
     },
     "bensinnott": {
@@ -6490,14 +6448,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "djherman": {
-      "name": "DJ Herman",
+    "ryanmiller": {
+      "name": "Ryan Miller",
       "team": "MIA",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 1
     },
-    "reesetaylor": {
-      "name": "Reese Taylor",
+    "djherman": {
+      "name": "DJ Herman",
       "team": "MIA",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6508,8 +6466,32 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "liamanderson": {
+      "name": "Liam Anderson",
+      "team": "MIA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "reesetaylor": {
+      "name": "Reese Taylor",
+      "team": "MIA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "juliuswood": {
+      "name": "Julius Wood",
+      "team": "MIA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "jordanjames": {
       "name": "Jordan James",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "macjones": {
+      "name": "Mac Jones",
       "team": "SF",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -7078,6 +7060,48 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "lequintallenjr": {
+      "name": "LeQuint Allen Jr.",
+      "team": "JAX",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jarrianjones": {
+      "name": "Jarrian Jones",
+      "team": "JAX",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "rayuanlaneiii": {
+      "name": "Rayuan Lane III",
+      "team": "JAX",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tylerbadie": {
+      "name": "Tyler Badie",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "adamprentice": {
+      "name": "Adam Prentice",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "liljordanhumphrey": {
+      "name": "Lil'Jordan Humphrey",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "krisabramsdraine": {
+      "name": "Kris Abrams-Draine",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "christianizien": {
       "name": "Christian Izien",
       "team": "DET",
@@ -7151,8 +7175,8 @@
     },
     "DEN": {
       "name": "Denver Broncos",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "DET": {
       "name": "Detroit Lions",
@@ -7176,8 +7200,8 @@
     },
     "JAX": {
       "name": "Jacksonville Jaguars",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "KC": {
       "name": "Kansas City Chiefs",
@@ -7186,8 +7210,8 @@
     },
     "LAC": {
       "name": "Los Angeles Chargers",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "LAR": {
       "name": "Los Angeles Rams",
@@ -7196,13 +7220,13 @@
     },
     "LV": {
       "name": "Las Vegas Raiders",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "MIA": {
       "name": "Miami Dolphins",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "MIN": {
       "name": "Minnesota Vikings",
@@ -7246,8 +7270,8 @@
     },
     "SF": {
       "name": "San Francisco 49ers",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "TB": {
       "name": "Tampa Bay Buccaneers",
