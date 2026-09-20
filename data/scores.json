@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T18:26:43.327Z",
+  "updatedAt": "2026-09-20T18:40:44.496Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1092,
+  "playersReturned": 1098,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -1094,7 +1094,7 @@
       "name": "Joe Giles-Harris",
       "team": "CIN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "cedricjohnson": {
       "name": "Cedric Johnson",
@@ -1788,9 +1788,9 @@
     },
     "marcusharris": {
       "name": "Marcus Harris",
-      "team": "KC",
+      "team": "TEN",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "alontaetaylor": {
       "name": "Alontae Taylor",
@@ -1880,7 +1880,7 @@
       "name": "Jacob Martin",
       "team": "TEN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "joeyslye": {
       "name": "Joey Slye",
@@ -2330,7 +2330,7 @@
       "name": "Sydney Brown",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jessiebatesiii": {
       "name": "Jessie Bates III",
@@ -2456,7 +2456,7 @@
       "name": "Cameron Thomas",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "chrisblair": {
       "name": "Chris Blair",
@@ -2480,7 +2480,7 @@
       "name": "Nick Folk",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jakebailey": {
       "name": "Jake Bailey",
@@ -2881,7 +2881,7 @@
     "bryceyoung": {
       "name": "Bryce Young",
       "team": "CAR",
-      "touchdowns": 5,
+      "touchdowns": 6,
       "gamesPlayed": 2
     },
     "kennypickett": {
@@ -2923,7 +2923,7 @@
     "darrenwaller": {
       "name": "Darren Waller",
       "team": "CAR",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "tommytremble": {
@@ -2954,7 +2954,7 @@
       "name": "Will Lee III",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "devinlloyd": {
       "name": "Devin Lloyd",
@@ -4406,7 +4406,7 @@
       "name": "Barryn Sorrell",
       "team": "GB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "isaiahmcduffie": {
       "name": "Isaiah McDuffie",
@@ -4460,7 +4460,7 @@
       "name": "Nick Niemann",
       "team": "GB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "danidennissutton": {
       "name": "Dani Dennis-Sutton",
@@ -4628,7 +4628,7 @@
       "name": "Theo Jackson",
       "team": "MIN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "domoniqueorange": {
       "name": "Domonique Orange",
@@ -5066,7 +5066,7 @@
       "name": "Braden Mann",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jacobybrissett": {
       "name": "Jacoby Brissett",
@@ -6262,8 +6262,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "akaylebevans": {
+      "name": "Akayleb Evans",
+      "team": "CAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "camjackson": {
       "name": "Cam Jackson",
+      "team": "CAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "johnmetchieiii": {
+      "name": "John Metchie III",
       "team": "CAR",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6304,6 +6316,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "samroush": {
+      "name": "Sam Roush",
+      "team": "CHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "jacksanborn": {
       "name": "Jack Sanborn",
       "team": "CHI",
@@ -6318,6 +6336,12 @@
     },
     "hollywoodbrown": {
       "name": "Hollywood Brown",
+      "team": "PHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "johnnymundt": {
+      "name": "Johnny Mundt",
       "team": "PHI",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6418,6 +6442,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "anthonycampbell": {
+      "name": "Anthony Campbell",
+      "team": "GB",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "tyronhopper": {
       "name": "Ty'Ron Hopper",
       "team": "GB",
@@ -6498,6 +6528,12 @@
     },
     "mikegreen": {
       "name": "Mike Green",
+      "team": "BAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "keondrejackson": {
+      "name": "Keondre Jackson",
       "team": "BAL",
       "touchdowns": 0,
       "gamesPlayed": 1
