@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T19:37:00.615Z",
+  "updatedAt": "2026-09-20T19:46:39.902Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1126,
+  "playersReturned": 1130,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -908,7 +908,7 @@
       "name": "Rakeem Nunez-Roches",
       "team": "TB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "vitavea": {
       "name": "Vita Vea",
@@ -1682,7 +1682,7 @@
       "name": "Harrison Phillips",
       "team": "NYJ",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "tvondresweat": {
       "name": "T'Vondre Sweat",
@@ -2402,7 +2402,7 @@
       "name": "Josh Woods",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "cjhenderson": {
       "name": "C.J. Henderson",
@@ -2900,7 +2900,7 @@
       "name": "AJ Dillon",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jonathonbrooks": {
       "name": "Jonathon Brooks",
@@ -2936,7 +2936,7 @@
       "name": "Mitchell Evans",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "xavierlegette": {
       "name": "Xavier Legette",
@@ -3044,7 +3044,7 @@
       "name": "Thomas Incoom",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "bobbybrowniii": {
       "name": "Bobby Brown III",
@@ -4994,7 +4994,7 @@
       "name": "Jalen Carter",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jeremiahtrotterjr": {
       "name": "Jeremiah Trotter Jr.",
@@ -6262,14 +6262,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "akaylebevans": {
-      "name": "Akayleb Evans",
+    "camjackson": {
+      "name": "Cam Jackson",
       "team": "CAR",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "camjackson": {
-      "name": "Cam Jackson",
+    "akaylebevans": {
+      "name": "Akayleb Evans",
       "team": "CAR",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6282,6 +6282,12 @@
     },
     "jackstrand": {
       "name": "Jack Strand",
+      "team": "ATL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "austinhooper": {
+      "name": "Austin Hooper",
       "team": "ATL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6556,6 +6562,18 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "isaiahdavis": {
+      "name": "Isaiah Davis",
+      "team": "NYJ",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jaleelmclaughlin": {
+      "name": "Jaleel McLaughlin",
+      "team": "CLE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "isaiahbond": {
       "name": "Isaiah Bond",
       "team": "CLE",
@@ -6634,14 +6652,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "mikegreen": {
-      "name": "Mike Green",
+    "zionyoung": {
+      "name": "Zion Young",
       "team": "BAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "zionyoung": {
-      "name": "Zion Young",
+    "mikegreen": {
+      "name": "Mike Green",
       "team": "BAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6732,6 +6750,12 @@
     },
     "jamalhill": {
       "name": "Jamal Hill",
+      "team": "HOU",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "austinbrinkman": {
+      "name": "Austin Brinkman",
       "team": "HOU",
       "touchdowns": 0,
       "gamesPlayed": 1
