@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T22:12:58.702Z",
+  "updatedAt": "2026-09-20T22:26:12.931Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1170,
+  "playersReturned": 1176,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -302,7 +302,7 @@
       "name": "DeMarcus Lawrence",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "ryliemills": {
       "name": "Rylie Mills",
@@ -373,7 +373,7 @@
     "christianmccaffrey": {
       "name": "Christian McCaffrey",
       "team": "SF",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "kaelonblack": {
@@ -3314,7 +3314,7 @@
       "name": "Jakobi Meyers",
       "team": "JAX",
       "touchdowns": 1,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "nickmullens": {
       "name": "Nick Mullens",
@@ -3422,7 +3422,7 @@
       "name": "Eric Murray",
       "team": "JAX",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "arikarmstead": {
       "name": "Arik Armstead",
@@ -5138,7 +5138,7 @@
       "name": "Denzel Burke",
       "team": "ARI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "andrewwingard": {
       "name": "Andrew Wingard",
@@ -5204,13 +5204,13 @@
       "name": "Darius Robinson",
       "team": "ARI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "walternoleniii": {
       "name": "Walter Nolen III",
       "team": "ARI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "maxmelton": {
       "name": "Max Melton",
@@ -5228,7 +5228,7 @@
       "name": "Kei'Trel Clark",
       "team": "ARI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "devinduvernay": {
       "name": "Devin Duvernay",
@@ -5336,7 +5336,7 @@
       "name": "Troy Dye",
       "team": "LAC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "elijahmolden": {
       "name": "Elijah Molden",
@@ -5827,7 +5827,7 @@
     "bonix": {
       "name": "Bo Nix",
       "team": "DEN",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "jkdobbins": {
@@ -5959,7 +5959,7 @@
     "nateadkins": {
       "name": "Nate Adkins",
       "team": "DEN",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "jaquanmcmillian": {
@@ -5972,7 +5972,7 @@
       "name": "Jordan Turner",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "mitchellfraboni": {
       "name": "Mitchell Fraboni",
@@ -5996,7 +5996,7 @@
       "name": "Tycen Anderson",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jlskinner": {
       "name": "JL Skinner",
@@ -6256,60 +6256,6 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jaleelmclaughlin": {
-      "name": "Jaleel McLaughlin",
-      "team": "CLE",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "isaiahbond": {
-      "name": "Isaiah Bond",
-      "team": "CLE",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "derekbarnett": {
-      "name": "Derek Barnett",
-      "team": "CLE",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "noahigbinoghene": {
-      "name": "Noah Igbinoghene",
-      "team": "CLE",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "mekhiblackmon": {
-      "name": "Mekhi Blackmon",
-      "team": "CLE",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "winstonreid": {
-      "name": "Winston Reid",
-      "team": "CLE",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "nathanielwatson": {
-      "name": "Nathaniel Watson",
-      "team": "CLE",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "elijahroberts": {
-      "name": "Elijah Roberts",
-      "team": "TB",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "rileydixon": {
-      "name": "Riley Dixon",
-      "team": "TB",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "lequintallenjr": {
       "name": "LeQuint Allen Jr.",
       "team": "JAX",
@@ -6382,6 +6328,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "jakeslaughter": {
+      "name": "Jake Slaughter",
+      "team": "LAC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "rjmickens": {
       "name": "RJ Mickens",
       "team": "LAC",
@@ -6406,6 +6358,18 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "nickbarrett": {
+      "name": "Nick Barrett",
+      "team": "LAC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "marcusmariota": {
+      "name": "Marcus Mariota",
+      "team": "WSH",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "bensinnott": {
       "name": "Ben Sinnott",
       "team": "WSH",
@@ -6418,14 +6382,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "dorancearmstrong": {
+      "name": "Dorance Armstrong",
+      "team": "WSH",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "alekaho": {
       "name": "Ale Kaho",
       "team": "WSH",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "dorancearmstrong": {
-      "name": "Dorance Armstrong",
+    "fabianmoreau": {
+      "name": "Fabian Moreau",
       "team": "WSH",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6439,6 +6409,18 @@
     "tyruswheat": {
       "name": "Tyrus Wheat",
       "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "elijaharroyo": {
+      "name": "Elijah Arroyo",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ericsaubert": {
+      "name": "Eric Saubert",
+      "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -6502,14 +6484,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "romelloheight": {
-      "name": "Romello Height",
+    "lukegifford": {
+      "name": "Luke Gifford",
       "team": "SF",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "lukegifford": {
-      "name": "Luke Gifford",
+    "romelloheight": {
+      "name": "Romello Height",
       "team": "SF",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6862,6 +6844,60 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "jaleelmclaughlin": {
+      "name": "Jaleel McLaughlin",
+      "team": "CLE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "isaiahbond": {
+      "name": "Isaiah Bond",
+      "team": "CLE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "derekbarnett": {
+      "name": "Derek Barnett",
+      "team": "CLE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "noahigbinoghene": {
+      "name": "Noah Igbinoghene",
+      "team": "CLE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "mekhiblackmon": {
+      "name": "Mekhi Blackmon",
+      "team": "CLE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "winstonreid": {
+      "name": "Winston Reid",
+      "team": "CLE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nathanielwatson": {
+      "name": "Nathaniel Watson",
+      "team": "CLE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "elijahroberts": {
+      "name": "Elijah Roberts",
+      "team": "TB",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "rileydixon": {
+      "name": "Riley Dixon",
+      "team": "TB",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "alvinkamara": {
       "name": "Alvin Kamara",
       "team": "NO",
@@ -7063,8 +7099,8 @@
     },
     "CLE": {
       "name": "Cleveland Browns",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "DAL": {
       "name": "Dallas Cowboys",
@@ -7173,8 +7209,8 @@
     },
     "TB": {
       "name": "Tampa Bay Buccaneers",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "TEN": {
       "name": "Tennessee Titans",
