@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T22:26:12.931Z",
+  "updatedAt": "2026-09-20T22:38:43.478Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1176,
+  "playersReturned": 1179,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -266,7 +266,7 @@
       "name": "Nehemiah Pritchett",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "julianlove": {
       "name": "Julian Love",
@@ -548,7 +548,7 @@
       "name": "Jacob Cowing",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "eddypineiro": {
       "name": "Eddy Pineiro",
@@ -4784,7 +4784,7 @@
       "name": "Sonny Styles",
       "team": "WSH",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "frankieluvu": {
       "name": "Frankie Luvu",
@@ -5425,7 +5425,7 @@
     "dakprescott": {
       "name": "Dak Prescott",
       "team": "DAL",
-      "touchdowns": 4,
+      "touchdowns": 5,
       "gamesPlayed": 2
     },
     "javontewilliams": {
@@ -5491,14 +5491,14 @@
     "jakeferguson": {
       "name": "Jake Ferguson",
       "team": "DAL",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "shavonreveljr": {
       "name": "Shavon Revel Jr.",
       "team": "DAL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "donovanezeiruaku": {
       "name": "Donovan Ezeiruaku",
@@ -5852,7 +5852,7 @@
       "name": "Evan Engram",
       "team": "DEN",
       "touchdowns": 1,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "patbryant": {
       "name": "Pat Bryant",
@@ -6019,7 +6019,7 @@
     "jonahcoleman": {
       "name": "Jonah Coleman",
       "team": "DEN",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "marvinmimsjr": {
@@ -6286,6 +6286,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "liljordanhumphrey": {
+      "name": "Lil'Jordan Humphrey",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "krisabramsdraine": {
       "name": "Kris Abrams-Draine",
       "team": "DEN",
@@ -6420,6 +6426,18 @@
     },
     "ericsaubert": {
       "name": "Eric Saubert",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "ajfinley": {
+      "name": "AJ Finley",
+      "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "nickemmanwori": {
+      "name": "Nick Emmanwori",
       "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
