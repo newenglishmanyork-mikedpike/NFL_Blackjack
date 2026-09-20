@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T18:10:10.252Z",
+  "updatedAt": "2026-09-20T18:26:43.327Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1087,
+  "playersReturned": 1092,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -812,7 +812,7 @@
       "name": "Zyon McCollum",
       "team": "TB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "antoinewinfieldjr": {
       "name": "Antoine Winfield Jr.",
@@ -1076,7 +1076,7 @@
       "name": "Kris Jenkins Jr.",
       "team": "CIN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "evanmcpherson": {
       "name": "Evan McPherson",
@@ -1154,7 +1154,7 @@
       "name": "Barion Brown",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "chrisolave": {
       "name": "Chris Olave",
@@ -1543,7 +1543,7 @@
     "braelonallen": {
       "name": "Braelon Allen",
       "team": "NYJ",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "kenyonsadiq": {
@@ -1580,7 +1580,7 @@
       "name": "Jeremy Ruckert",
       "team": "NYJ",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "ariansmith": {
       "name": "Arian Smith",
@@ -1676,7 +1676,7 @@
       "name": "Malachi Moore",
       "team": "NYJ",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "harrisonphillips": {
       "name": "Harrison Phillips",
@@ -1706,7 +1706,7 @@
       "name": "Jason Sanders",
       "team": "NYJ",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "austinmcnamara": {
       "name": "Austin McNamara",
@@ -1897,7 +1897,7 @@
     "lamarjackson": {
       "name": "Lamar Jackson",
       "team": "BAL",
-      "touchdowns": 2,
+      "touchdowns": 3,
       "gamesPlayed": 2
     },
     "derrickhenry": {
@@ -1957,7 +1957,7 @@
     "rashodbateman": {
       "name": "Rashod Bateman",
       "team": "BAL",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "marlonhumphrey": {
@@ -2030,7 +2030,7 @@
       "name": "Calais Campbell",
       "team": "BAL",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 1
     },
     "ronniestanley": {
       "name": "Ronnie Stanley",
@@ -2042,7 +2042,7 @@
       "name": "Trey Hendrickson",
       "team": "BAL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "broderickwashingtonjr": {
       "name": "Broderick Washington Jr.",
@@ -2330,7 +2330,7 @@
       "name": "Sydney Brown",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 1
     },
     "jessiebatesiii": {
       "name": "Jessie Bates III",
@@ -2534,7 +2534,7 @@
       "name": "Roman Wilson",
       "team": "PIT",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "darnellwashington": {
       "name": "Darnell Washington",
@@ -2600,7 +2600,7 @@
       "name": "Keeanu Benton",
       "team": "PIT",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "derrickharmon": {
       "name": "Derrick Harmon",
@@ -2720,7 +2720,7 @@
       "name": "Cole Kmet",
       "team": "CHI",
       "touchdowns": 1,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jahdaewalker": {
       "name": "Jahdae Walker",
@@ -2780,7 +2780,7 @@
       "name": "Malik Muhammad II",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jaylonjohnson": {
       "name": "Jaylon Johnson",
@@ -2804,13 +2804,13 @@
       "name": "Montez Sweat",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "austinbooker": {
       "name": "Austin Booker",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "dmarcojackson": {
       "name": "D'Marco Jackson",
@@ -2996,7 +2996,7 @@
       "name": "Princely Umanmielen",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jeremiahmoon": {
       "name": "Jeremiah Moon",
@@ -3020,7 +3020,7 @@
       "name": "Tre'von Moehrig",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "trevisgipson": {
       "name": "Trevis Gipson",
@@ -3032,7 +3032,7 @@
       "name": "Mike Jackson",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "terahedwards": {
       "name": "TeRah Edwards",
@@ -3182,7 +3182,7 @@
       "name": "Jared Verse",
       "team": "CLE",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "samwilliams": {
       "name": "Sam Williams",
@@ -3218,7 +3218,7 @@
       "name": "Isaiah McGuire",
       "team": "CLE",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "adinhuntington": {
       "name": "Adin Huntington",
@@ -3854,7 +3854,7 @@
       "name": "Tremon Smith",
       "team": "HOU",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jaylinsmith": {
       "name": "Jaylin Smith",
@@ -4316,7 +4316,7 @@
       "name": "Tucker Kraft",
       "team": "GB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jonnusmith": {
       "name": "Jonnu Smith",
@@ -4334,7 +4334,7 @@
       "name": "Bo Melton",
       "team": "GB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "skyymoore": {
       "name": "Skyy Moore",
@@ -4376,7 +4376,7 @@
       "name": "Brenton Cox Jr.",
       "team": "GB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jonathanford": {
       "name": "Jonathan Ford",
@@ -4664,7 +4664,7 @@
       "name": "Andrew DePaola",
       "team": "MIN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "mylesprice": {
       "name": "Myles Price",
@@ -5042,13 +5042,13 @@
       "name": "Arnold Ebiketie",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "andrewmukuba": {
       "name": "Andrew Mukuba",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "britaincovey": {
       "name": "Britain Covey",
@@ -6268,6 +6268,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "yasirabdullah": {
+      "name": "Yasir Abdullah",
+      "team": "ATL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "zachharrison": {
       "name": "Zach Harrison",
       "team": "ATL",
@@ -6400,6 +6406,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "quintayvioushutchins": {
+      "name": "Quintayvious Hutchins",
+      "team": "NE",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "erickhunter": {
       "name": "Erick Hunter",
       "team": "NE",
@@ -6448,6 +6460,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "elijahroberts": {
+      "name": "Elijah Roberts",
+      "team": "TB",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "rileydixon": {
       "name": "Riley Dixon",
       "team": "TB",
@@ -6490,6 +6508,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "djivey": {
+      "name": "DJ Ivey",
+      "team": "CIN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "cashiushowell": {
       "name": "Cashius Howell",
       "team": "CIN",
@@ -6498,6 +6522,12 @@
     },
     "loganhall": {
       "name": "Logan Hall",
+      "team": "HOU",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "aidenfisher": {
+      "name": "Aiden Fisher",
       "team": "HOU",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6690,6 +6720,18 @@
     }
   },
   "recentTouchdowns": [
+    {
+      "player": "Braelon Allen",
+      "team": "NYJ",
+      "delta": 1,
+      "touchdownsAfter": 1,
+      "opponent": "Green Bay Packers",
+      "isHome": true,
+      "gameDate": "2026-09-20T17:00Z",
+      "quarter": 2,
+      "clock": "6:04",
+      "detectedAt": "2026-09-20T18:26:43.327Z"
+    },
     {
       "player": "Amon-Ra St. Brown",
       "team": "DET",
