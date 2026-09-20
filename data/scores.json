@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T23:28:27.751Z",
+  "updatedAt": "2026-09-20T23:40:44.569Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1189,
@@ -6256,60 +6256,6 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "marcusmariota": {
-      "name": "Marcus Mariota",
-      "team": "WSH",
-      "touchdowns": 1,
-      "gamesPlayed": 1
-    },
-    "bensinnott": {
-      "name": "Ben Sinnott",
-      "team": "WSH",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "treylonburks": {
-      "name": "Treylon Burks",
-      "team": "WSH",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "dorancearmstrong": {
-      "name": "Dorance Armstrong",
-      "team": "WSH",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "alekaho": {
-      "name": "Ale Kaho",
-      "team": "WSH",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "fabianmoreau": {
-      "name": "Fabian Moreau",
-      "team": "WSH",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "shemarjames": {
-      "name": "Shemar James",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "tyruswheat": {
-      "name": "Tyrus Wheat",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "vonmiller": {
-      "name": "Von Miller",
-      "team": "DAL",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "zakeewheatley": {
       "name": "Zakee Wheatley",
       "team": "CAR",
@@ -6958,6 +6904,60 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "marcusmariota": {
+      "name": "Marcus Mariota",
+      "team": "WSH",
+      "touchdowns": 1,
+      "gamesPlayed": 1
+    },
+    "bensinnott": {
+      "name": "Ben Sinnott",
+      "team": "WSH",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "treylonburks": {
+      "name": "Treylon Burks",
+      "team": "WSH",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "dorancearmstrong": {
+      "name": "Dorance Armstrong",
+      "team": "WSH",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "alekaho": {
+      "name": "Ale Kaho",
+      "team": "WSH",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "fabianmoreau": {
+      "name": "Fabian Moreau",
+      "team": "WSH",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "shemarjames": {
+      "name": "Shemar James",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tyruswheat": {
+      "name": "Tyrus Wheat",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "vonmiller": {
+      "name": "Von Miller",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "elijaharroyo": {
       "name": "Elijah Arroyo",
       "team": "SEA",
@@ -7182,8 +7182,8 @@
     },
     "DAL": {
       "name": "Dallas Cowboys",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "DEN": {
       "name": "Denver Broncos",
@@ -7297,8 +7297,8 @@
     },
     "WSH": {
       "name": "Washington Commanders",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     }
   },
   "recentTouchdowns": [
