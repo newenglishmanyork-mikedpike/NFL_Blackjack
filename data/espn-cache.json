@@ -6055,6 +6055,324 @@
         }
       }
     },
+    "401872934": {
+      "final": true,
+      "week": 2,
+      "home": "HOU",
+      "away": "CIN",
+      "players": {
+        "joeburrow": {
+          "name": "Joe Burrow",
+          "team": "CIN",
+          "touchdowns": 2
+        },
+        "chasebrown": {
+          "name": "Chase Brown",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "samajeperine": {
+          "name": "Samaje Perine",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "teehiggins": {
+          "name": "Tee Higgins",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "jamarrchase": {
+          "name": "Ja'Marr Chase",
+          "team": "CIN",
+          "touchdowns": 2
+        },
+        "andreiiosivas": {
+          "name": "Andrei Iosivas",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "colbieyoung": {
+          "name": "Colbie Young",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "erickalljr": {
+          "name": "Erick All Jr.",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "dohntemeyers": {
+          "name": "Dohnte Meyers",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "demetriusknightjr": {
+          "name": "Demetrius Knight Jr.",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "daxhill": {
+          "name": "Dax Hill",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "jordanbattle": {
+          "name": "Jordan Battle",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "djturnerii": {
+          "name": "DJ Turner II",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "barrettcarter": {
+          "name": "Barrett Carter",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "cedricjohnson": {
+          "name": "Cedric Johnson",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "bryancook": {
+          "name": "Bryan Cook",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "jonathanallen": {
+          "name": "Jonathan Allen",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "jalendavis": {
+          "name": "Jalen Davis",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "dexterlawrenceii": {
+          "name": "Dexter Lawrence II",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "shemarstewart": {
+          "name": "Shemar Stewart",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "tjslatonjr": {
+          "name": "T.J. Slaton Jr.",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "boyemafe": {
+          "name": "Boye Mafe",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "djivey": {
+          "name": "DJ Ivey",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "kyledugger": {
+          "name": "Kyle Dugger",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "tacariodavis": {
+          "name": "Tacario Davis",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "pjjules": {
+          "name": "PJ Jules",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "orenburks": {
+          "name": "Oren Burks",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "mylesmurphy": {
+          "name": "Myles Murphy",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "krisjenkinsjr": {
+          "name": "Kris Jenkins Jr.",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "joegilesharris": {
+          "name": "Joe Giles-Harris",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "cashiushowell": {
+          "name": "Cashius Howell",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "evanmcpherson": {
+          "name": "Evan McPherson",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "ryanrehkow": {
+          "name": "Ryan Rehkow",
+          "team": "CIN",
+          "touchdowns": 0
+        },
+        "cjstroud": {
+          "name": "C.J. Stroud",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "kaikroeger": {
+          "name": "Kai Kroeger",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "jaylinnoel": {
+          "name": "Jaylin Noel",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "davidmontgomery": {
+          "name": "David Montgomery",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "woodymarks": {
+          "name": "Woody Marks",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "daltonschultz": {
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "kayshonboutte": {
+          "name": "Kayshon Boutte",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "xavierhutchinson": {
+          "name": "Xavier Hutchinson",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "fostermoreau": {
+          "name": "Foster Moreau",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "jaredwayne": {
+          "name": "Jared Wayne",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "azeezalshaair": {
+          "name": "Azeez Al-Shaair",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "willandersonjr": {
+          "name": "Will Anderson Jr.",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "tommytogiai": {
+          "name": "Tommy Togiai",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "kamarilassiter": {
+          "name": "Kamari Lassiter",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "reedblankenship": {
+          "name": "Reed Blankenship",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "jakehansen": {
+          "name": "Jake Hansen",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "jalenpitre": {
+          "name": "Jalen Pitre",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "marioedwardsjr": {
+          "name": "Mario Edwards Jr.",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "sheldonrankins": {
+          "name": "Sheldon Rankins",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "loganhall": {
+          "name": "Logan Hall",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "derekstingleyjr": {
+          "name": "Derek Stingley Jr.",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "sabastianharsh": {
+          "name": "Sabastian Harsh",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "daniellehunter": {
+          "name": "Danielle Hunter",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "kaimifairbairn": {
+          "name": "Ka'imi Fairbairn",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "jaylinsmith": {
+          "name": "Jaylin Smith",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "aidenfisher": {
+          "name": "Aiden Fisher",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "britishbrooks": {
+          "name": "British Brooks",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "jamalhill": {
+          "name": "Jamal Hill",
+          "team": "HOU",
+          "touchdowns": 0
+        },
+        "tremonsmith": {
+          "name": "Tremon Smith",
+          "team": "HOU",
+          "touchdowns": 0
+        }
+      }
+    },
     "401872937": {
       "final": true,
       "week": 2,
