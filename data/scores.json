@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T21:47:55.201Z",
+  "updatedAt": "2026-09-20T21:57:33.119Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1162,
+  "playersReturned": 1164,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -367,7 +367,7 @@
     "brockpurdy": {
       "name": "Brock Purdy",
       "team": "SF",
-      "touchdowns": 4,
+      "touchdowns": 5,
       "gamesPlayed": 2
     },
     "christianmccaffrey": {
@@ -409,8 +409,8 @@
     "georgekittle": {
       "name": "George Kittle",
       "team": "SF",
-      "touchdowns": 0,
-      "gamesPlayed": 1
+      "touchdowns": 1,
+      "gamesPlayed": 2
     },
     "jakebrendel": {
       "name": "Jake Brendel",
@@ -482,7 +482,7 @@
       "name": "Garret Wallow",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "uptonstout": {
       "name": "Upton Stout",
@@ -3980,13 +3980,13 @@
       "name": "Jordyn Brooks",
       "team": "MIA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "zayneanderson": {
       "name": "Zayne Anderson",
       "team": "MIA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jujubrents": {
       "name": "JuJu Brents",
@@ -5251,7 +5251,7 @@
     "justinherbert": {
       "name": "Justin Herbert",
       "team": "LAC",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "omarionhampton": {
@@ -5281,8 +5281,8 @@
     "orondegadsden": {
       "name": "Oronde Gadsden",
       "team": "LAC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
+      "touchdowns": 1,
+      "gamesPlayed": 2
     },
     "treharris": {
       "name": "Tre' Harris",
@@ -5588,7 +5588,7 @@
       "name": "Jonathan Bullard",
       "team": "DAL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "malikhooker": {
       "name": "Malik Hooker",
@@ -6406,14 +6406,14 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "tyruswheat": {
-      "name": "Tyrus Wheat",
+    "shemarjames": {
+      "name": "Shemar James",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "shemarjames": {
-      "name": "Shemar James",
+    "tyruswheat": {
+      "name": "Tyrus Wheat",
       "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6426,6 +6426,12 @@
     },
     "baronbrowning": {
       "name": "Baron Browning",
+      "team": "ARI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "hunterlong": {
+      "name": "Hunter Long",
       "team": "ARI",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6468,6 +6474,12 @@
     },
     "lukegifford": {
       "name": "Luke Gifford",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "braydenwillis": {
+      "name": "Brayden Willis",
       "team": "SF",
       "touchdowns": 0,
       "gamesPlayed": 1
