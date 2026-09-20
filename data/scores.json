@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T22:38:43.478Z",
+  "updatedAt": "2026-09-20T22:49:54.308Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1179,
+  "playersReturned": 1180,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -187,7 +187,7 @@
     "drewlock": {
       "name": "Drew Lock",
       "team": "SEA",
-      "touchdowns": 3,
+      "touchdowns": 4,
       "gamesPlayed": 2
     },
     "samdarnold": {
@@ -217,7 +217,7 @@
     "jaxonsmithnjigba": {
       "name": "Jaxon Smith-Njigba",
       "team": "SEA",
-      "touchdowns": 3,
+      "touchdowns": 4,
       "gamesPlayed": 2
     },
     "cooperkupp": {
@@ -560,7 +560,7 @@
       "name": "Corliss Waitman",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "matthewstafford": {
       "name": "Matthew Stafford",
@@ -4016,7 +4016,7 @@
       "name": "Jordan Phillips",
       "team": "MIA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "zachsieler": {
       "name": "Zach Sieler",
@@ -4196,7 +4196,7 @@
       "name": "Thomas Booker IV",
       "team": "LV",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "segunolubi": {
       "name": "Segun Olubi",
@@ -4712,7 +4712,7 @@
       "name": "Antonio Williams",
       "team": "WSH",
       "touchdowns": 1,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "stefondiggs": {
       "name": "Stefon Diggs",
@@ -5192,7 +5192,7 @@
       "name": "L.J. Collier",
       "team": "ARI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "simifehoko": {
       "name": "Simi Fehoko",
@@ -6418,6 +6418,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "vonmiller": {
+      "name": "Von Miller",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "elijaharroyo": {
       "name": "Elijah Arroyo",
       "team": "SEA",
@@ -6502,6 +6508,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "braydenwillis": {
+      "name": "Brayden Willis",
+      "team": "SF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "lukegifford": {
       "name": "Luke Gifford",
       "team": "SF",
@@ -6510,12 +6522,6 @@
     },
     "romelloheight": {
       "name": "Romello Height",
-      "team": "SF",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "braydenwillis": {
-      "name": "Brayden Willis",
       "team": "SF",
       "touchdowns": 0,
       "gamesPlayed": 1
