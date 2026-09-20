@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T21:25:42.128Z",
+  "updatedAt": "2026-09-20T21:38:00.202Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1155,
+  "playersReturned": 1159,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -440,7 +440,7 @@
       "name": "Deommodore Lenoir",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "dregreenlaw": {
       "name": "Dre Greenlaw",
@@ -458,7 +458,7 @@
       "name": "Nick Bosa",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jiayirbrown": {
       "name": "Ji'Ayir Brown",
@@ -3440,7 +3440,7 @@
       "name": "Danny Striggow",
       "team": "JAX",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "davonhamilton": {
       "name": "DaVon Hamilton",
@@ -3932,7 +3932,7 @@
       "name": "Caleb Douglas",
       "team": "MIA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "malikwashington": {
       "name": "Malik Washington",
@@ -4687,7 +4687,7 @@
     "jaydendaniels": {
       "name": "Jayden Daniels",
       "team": "WSH",
-      "touchdowns": 2,
+      "touchdowns": 3,
       "gamesPlayed": 2
     },
     "jacorycroskeymerritt": {
@@ -4717,8 +4717,8 @@
     "stefondiggs": {
       "name": "Stefon Diggs",
       "team": "WSH",
-      "touchdowns": 1,
-      "gamesPlayed": 1
+      "touchdowns": 2,
+      "gamesPlayed": 2
     },
     "chigokonkwo": {
       "name": "Chig Okonkwo",
@@ -4874,7 +4874,7 @@
       "name": "Charles Omenihu",
       "team": "WSH",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "klavonchaisson": {
       "name": "K'Lavon Chaisson",
@@ -5150,7 +5150,7 @@
       "name": "Roy Lopez",
       "team": "ARI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jordanburch": {
       "name": "Jordan Burch",
@@ -5468,7 +5468,7 @@
       "name": "Brevyn Spann-Ford",
       "team": "DAL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "lukeschoonmaker": {
       "name": "Luke Schoonmaker",
@@ -5510,7 +5510,7 @@
       "name": "Jalen Thompson",
       "team": "DAL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "calebdowns": {
       "name": "Caleb Downs",
@@ -5630,7 +5630,7 @@
       "name": "Bryan Anger",
       "team": "DAL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jaxsondart": {
       "name": "Jaxson Dart",
@@ -6358,8 +6358,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "rjmickens": {
+      "name": "RJ Mickens",
+      "team": "LAC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "bensinnott": {
       "name": "Ben Sinnott",
+      "team": "WSH",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "treylonburks": {
+      "name": "Treylon Burks",
       "team": "WSH",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6385,6 +6397,18 @@
     "averysmith": {
       "name": "Avery Smith",
       "team": "SEA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "baronbrowning": {
+      "name": "Baron Browning",
+      "team": "ARI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "codysimon": {
+      "name": "Cody Simon",
+      "team": "ARI",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
