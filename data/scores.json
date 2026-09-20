@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T19:14:55.489Z",
+  "updatedAt": "2026-09-20T19:26:26.764Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1119,
+  "playersReturned": 1121,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -145,7 +145,7 @@
     "elijahponder": {
       "name": "Elijah Ponder",
       "team": "NE",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "charleswoods": {
@@ -158,7 +158,7 @@
       "name": "Christian Barmore",
       "team": "NE",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jaredwilson": {
       "name": "Jared Wilson",
@@ -1129,7 +1129,7 @@
     "tylershough": {
       "name": "Tyler Shough",
       "team": "NO",
-      "touchdowns": 3,
+      "touchdowns": 4,
       "gamesPlayed": 2
     },
     "travisetiennejr": {
@@ -1159,7 +1159,7 @@
     "chrisolave": {
       "name": "Chris Olave",
       "team": "NO",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "devaughnvele": {
@@ -1531,7 +1531,7 @@
     "genosmith": {
       "name": "Geno Smith",
       "team": "NYJ",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "breecehall": {
@@ -1555,7 +1555,7 @@
     "garrettwilson": {
       "name": "Garrett Wilson",
       "team": "NYJ",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "adonaimitchell": {
@@ -1628,7 +1628,7 @@
       "name": "Jarvis Brownlee Jr.",
       "team": "NYJ",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jamiensherwood": {
       "name": "Jamien Sherwood",
@@ -2060,7 +2060,7 @@
       "name": "Jay Higgins IV",
       "team": "BAL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "tjtampa": {
       "name": "T.J. Tampa",
@@ -2792,7 +2792,7 @@
       "name": "Grady Jarrett",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "kentaviusstreet": {
       "name": "Kentavius Street",
@@ -2959,7 +2959,7 @@
     "devinlloyd": {
       "name": "Devin Lloyd",
       "team": "CAR",
-      "touchdowns": 0,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "nickscott": {
@@ -3097,7 +3097,7 @@
     "deshaunwatson": {
       "name": "Deshaun Watson",
       "team": "CLE",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "quinshonjudkins": {
@@ -3121,7 +3121,7 @@
     "denzelboston": {
       "name": "Denzel Boston",
       "team": "CLE",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "jerryjeudy": {
@@ -3140,7 +3140,7 @@
       "name": "Blake Whiteheart",
       "team": "CLE",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "carsonschwesinger": {
       "name": "Carson Schwesinger",
@@ -3254,7 +3254,7 @@
       "name": "Donovan McMillon",
       "team": "CLE",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "maliekcollins": {
       "name": "Maliek Collins",
@@ -6280,6 +6280,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "jackstrand": {
+      "name": "Jack Strand",
+      "team": "ATL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "yasirabdullah": {
       "name": "Yasir Abdullah",
       "team": "ATL",
@@ -6670,6 +6676,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "shemarstewart": {
+      "name": "Shemar Stewart",
+      "team": "CIN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "pjjules": {
       "name": "PJ Jules",
       "team": "CIN",
@@ -6882,6 +6894,18 @@
     }
   },
   "recentTouchdowns": [
+    {
+      "player": "Garrett Wilson",
+      "team": "NYJ",
+      "delta": 1,
+      "touchdownsAfter": 1,
+      "opponent": "Green Bay Packers",
+      "isHome": true,
+      "gameDate": "2026-09-20T17:00Z",
+      "quarter": 3,
+      "clock": "2:30",
+      "detectedAt": "2026-09-20T19:26:26.763Z"
+    },
     {
       "player": "Braelon Allen",
       "team": "NYJ",
