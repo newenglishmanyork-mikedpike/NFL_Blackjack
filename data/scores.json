@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T21:38:00.202Z",
+  "updatedAt": "2026-09-20T21:47:55.201Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1159,
+  "playersReturned": 1162,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -260,7 +260,7 @@
       "name": "Josh Jobe",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "nehemiahpritchett": {
       "name": "Nehemiah Pritchett",
@@ -332,7 +332,7 @@
       "name": "Jarran Reed",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "montoriefosterjr": {
       "name": "Montorie Foster Jr.",
@@ -3344,7 +3344,7 @@
       "name": "Josh Cameron",
       "team": "JAX",
       "touchdowns": 1,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "nateboerkircher": {
       "name": "Nate Boerkircher",
@@ -4130,7 +4130,7 @@
       "name": "Jalen Nailor",
       "team": "LV",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jackbech": {
       "name": "Jack Bech",
@@ -4220,7 +4220,7 @@
       "name": "Dylan Laube",
       "team": "LV",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "darienporter": {
       "name": "Darien Porter",
@@ -5108,7 +5108,7 @@
       "name": "Marvin Harrison Jr.",
       "team": "ARI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "willjohnson": {
       "name": "Will Johnson",
@@ -5330,7 +5330,7 @@
       "name": "Genesis Smith",
       "team": "LAC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "troydye": {
       "name": "Troy Dye",
@@ -5402,7 +5402,7 @@
       "name": "Teair Tart",
       "team": "LAC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "akheemmesidor": {
       "name": "Akheem Mesidor",
@@ -5582,7 +5582,7 @@
       "name": "Cobie Durant",
       "team": "DAL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jonathanbullard": {
       "name": "Jonathan Bullard",
@@ -5618,7 +5618,7 @@
       "name": "LT Overton",
       "team": "DAL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "brandonaubrey": {
       "name": "Brandon Aubrey",
@@ -6304,6 +6304,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "lequintallenjr": {
+      "name": "LeQuint Allen Jr.",
+      "team": "JAX",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "rayuanlaneiii": {
       "name": "Rayuan Lane III",
       "team": "JAX",
@@ -6324,6 +6330,12 @@
     },
     "krisabramsdraine": {
       "name": "Kris Abrams-Draine",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "adamprentice": {
+      "name": "Adam Prentice",
       "team": "DEN",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6354,6 +6366,12 @@
     },
     "kimanividal": {
       "name": "Kimani Vidal",
+      "team": "LAC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "rodneyshelley": {
+      "name": "Rodney Shelley",
       "team": "LAC",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -6394,6 +6412,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "shemarjames": {
+      "name": "Shemar James",
+      "team": "DAL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "averysmith": {
       "name": "Avery Smith",
       "team": "SEA",
@@ -6402,12 +6426,6 @@
     },
     "baronbrowning": {
       "name": "Baron Browning",
-      "team": "ARI",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "codysimon": {
-      "name": "Cody Simon",
       "team": "ARI",
       "touchdowns": 0,
       "gamesPlayed": 1
