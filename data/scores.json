@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T22:49:54.308Z",
+  "updatedAt": "2026-09-20T22:59:42.355Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1180,
+  "playersReturned": 1183,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -506,7 +506,7 @@
       "name": "Khalid Kareem",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "cjwest": {
       "name": "C.J. West",
@@ -3428,7 +3428,7 @@
       "name": "Arik Armstead",
       "team": "JAX",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "dennisgardeck": {
       "name": "Dennis Gardeck",
@@ -3470,7 +3470,7 @@
       "name": "Albert Regis",
       "team": "JAX",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "camlittle": {
       "name": "Cam Little",
@@ -3944,7 +3944,7 @@
       "name": "Chris Bell",
       "team": "MIA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "gregdulcich": {
       "name": "Greg Dulcich",
@@ -4087,7 +4087,7 @@
     "kirkcousins": {
       "name": "Kirk Cousins",
       "team": "LV",
-      "touchdowns": 5,
+      "touchdowns": 6,
       "gamesPlayed": 2
     },
     "ashtonjeanty": {
@@ -4141,7 +4141,7 @@
     "codywhite": {
       "name": "Cody White",
       "team": "LV",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "quaywalker": {
@@ -4796,7 +4796,7 @@
       "name": "Quan Martin",
       "team": "WSH",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "odafeoweh": {
       "name": "Odafe Oweh",
@@ -5300,7 +5300,7 @@
       "name": "Derius Davis",
       "team": "LAC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "derwinjamesjr": {
       "name": "Derwin James Jr.",
@@ -6466,6 +6466,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "codysimon": {
+      "name": "Cody Simon",
+      "team": "ARI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "hunterlong": {
       "name": "Hunter Long",
       "team": "ARI",
@@ -6490,9 +6496,21 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "reesetaylor": {
+      "name": "Reese Taylor",
+      "team": "MIA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "jacksonwoodard": {
       "name": "Jackson Woodard",
       "team": "MIA",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jordanjames": {
+      "name": "Jordan James",
+      "team": "SF",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
