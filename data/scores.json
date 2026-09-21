@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T00:31:44.047Z",
+  "updatedAt": "2026-09-21T00:48:55.302Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1190,
+  "playersReturned": 1191,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -2089,7 +2089,7 @@
     "danieljones": {
       "name": "Daniel Jones",
       "team": "IND",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "jonathantaylor": {
@@ -2114,12 +2114,12 @@
       "name": "Keenan Allen",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "tylerwarren": {
       "name": "Tyler Warren",
       "team": "IND",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 2
     },
     "laquontreadwell": {
@@ -2138,25 +2138,25 @@
       "name": "Seth McGowan",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "drewogletree": {
       "name": "Drew Ogletree",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "deforestbuckner": {
       "name": "DeForest Buckner",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "akeemdavisgaither": {
       "name": "Akeem Davis-Gaither",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "cambynum": {
       "name": "Cam Bynum",
@@ -2180,7 +2180,7 @@
       "name": "Justin Walley",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "laiatulatu": {
       "name": "Laiatu Latu",
@@ -2210,7 +2210,7 @@
       "name": "Charvarius Ward",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "timsmith": {
       "name": "Tim Smith",
@@ -2258,13 +2258,13 @@
       "name": "Grover Stewart",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "spencershrader": {
       "name": "Spencer Shrader",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "cadencurry": {
       "name": "Caden Curry",
@@ -6043,26 +6043,26 @@
     "patrickmahomes": {
       "name": "Patrick Mahomes",
       "team": "KC",
-      "touchdowns": 3,
-      "gamesPlayed": 1
+      "touchdowns": 4,
+      "gamesPlayed": 2
     },
     "kennethwalkeriii": {
       "name": "Kenneth Walker III",
       "team": "KC",
       "touchdowns": 2,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "emmettjohnson": {
       "name": "Emmett Johnson",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "traviskelce": {
       "name": "Travis Kelce",
       "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
+      "touchdowns": 1,
+      "gamesPlayed": 2
     },
     "rasheerice": {
       "name": "Rashee Rice",
@@ -6074,7 +6074,7 @@
       "name": "Xavier Worthy",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jakebriningstool": {
       "name": "Jake Briningstool",
@@ -6128,7 +6128,7 @@
       "name": "Nick Bolton",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jadenhicks": {
       "name": "Jaden Hicks",
@@ -6188,7 +6188,7 @@
       "name": "Kristian Fulton",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jaylonmoore": {
       "name": "Jaylon Moore",
@@ -6248,7 +6248,7 @@
       "name": "Harrison Butker",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "mattaraiza": {
       "name": "Matt Araiza",
@@ -6259,6 +6259,12 @@
     "deionburks": {
       "name": "Deion Burks",
       "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "brashardsmith": {
+      "name": "Brashard Smith",
+      "team": "KC",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
