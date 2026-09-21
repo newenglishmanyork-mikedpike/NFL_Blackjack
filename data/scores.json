@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T01:29:19.587Z",
+  "updatedAt": "2026-09-21T01:42:43.384Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1194,
+  "playersReturned": 1196,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -2095,7 +2095,7 @@
     "jonathantaylor": {
       "name": "Jonathan Taylor",
       "team": "IND",
-      "touchdowns": 2,
+      "touchdowns": 3,
       "gamesPlayed": 2
     },
     "alecpierce": {
@@ -6224,7 +6224,7 @@
       "name": "Jeffrey Bassa",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "ashtongillotte": {
       "name": "Ashton Gillotte",
@@ -6264,6 +6264,18 @@
     },
     "jayloncarlies": {
       "name": "Jaylon Carlies",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "cjallen": {
+      "name": "CJ Allen",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "anthonygould": {
+      "name": "Anthony Gould",
       "team": "IND",
       "touchdowns": 0,
       "gamesPlayed": 1
