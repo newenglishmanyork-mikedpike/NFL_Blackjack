@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T00:48:55.302Z",
+  "updatedAt": "2026-09-21T00:59:33.365Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1191,
+  "playersReturned": 1193,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -6206,7 +6206,7 @@
       "name": "Jack Cochrane",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "khyiristonga": {
       "name": "Khyiris Tonga",
@@ -6259,6 +6259,18 @@
     "deionburks": {
       "name": "Deion Burks",
       "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "chrisrolandwallace": {
+      "name": "Chris Roland-Wallace",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jadoncanady": {
+      "name": "Jadon Canady",
+      "team": "KC",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
