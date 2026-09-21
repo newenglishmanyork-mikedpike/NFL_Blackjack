@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T02:46:52.820Z",
+  "updatedAt": "2026-09-21T02:57:01.191Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1200,
@@ -2095,7 +2095,7 @@
     "jonathantaylor": {
       "name": "Jonathan Taylor",
       "team": "IND",
-      "touchdowns": 3,
+      "touchdowns": 4,
       "gamesPlayed": 2
     },
     "alecpierce": {
@@ -6158,7 +6158,7 @@
       "name": "R Mason Thomas",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "benvansumeren": {
       "name": "Ben VanSumeren",
