@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T00:23:49.027Z",
+  "updatedAt": "2026-09-21T00:31:44.047Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1189,
+  "playersReturned": 1190,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -2090,25 +2090,25 @@
       "name": "Daniel Jones",
       "team": "IND",
       "touchdowns": 1,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jonathantaylor": {
       "name": "Jonathan Taylor",
       "team": "IND",
       "touchdowns": 2,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "alecpierce": {
       "name": "Alec Pierce",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "joshdowns": {
       "name": "Josh Downs",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "keenanallen": {
       "name": "Keenan Allen",
@@ -2120,13 +2120,13 @@
       "name": "Tyler Warren",
       "team": "IND",
       "touchdowns": 1,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "laquontreadwell": {
       "name": "Laquon Treadwell",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "ashtondulin": {
       "name": "Ashton Dulin",
@@ -6110,19 +6110,19 @@
       "name": "Chris Jones",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "ljariussneed": {
       "name": "L'Jarius Sneed",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "druetranquill": {
       "name": "Drue Tranquill",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "nickbolton": {
       "name": "Nick Bolton",
@@ -6134,25 +6134,25 @@
       "name": "Jaden Hicks",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "nohlwilliams": {
       "name": "Nohl Williams",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "alohigilman": {
       "name": "Alohi Gilman",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "georgekarlaftis": {
       "name": "George Karlaftis",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "rmasonthomas": {
       "name": "R Mason Thomas",
@@ -6253,6 +6253,12 @@
     "mattaraiza": {
       "name": "Matt Araiza",
       "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "deionburks": {
+      "name": "Deion Burks",
+      "team": "IND",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
