@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T03:27:24.830Z",
+  "updatedAt": "2026-09-21T03:42:52.150Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1200,
@@ -6262,6 +6262,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "hunterwohler": {
+      "name": "Hunter Wohler",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "jayloncarlies": {
       "name": "Jaylon Carlies",
       "team": "IND",
@@ -6270,12 +6276,6 @@
     },
     "camtaylorbritt": {
       "name": "Cam Taylor-Britt",
-      "team": "IND",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "hunterwohler": {
-      "name": "Hunter Wohler",
       "team": "IND",
       "touchdowns": 0,
       "gamesPlayed": 1
