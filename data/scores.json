@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T03:42:52.150Z",
+  "updatedAt": "2026-09-21T03:56:50.934Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1200,
@@ -7273,8 +7273,8 @@
     },
     "IND": {
       "name": "Indianapolis Colts",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "JAX": {
       "name": "Jacksonville Jaguars",
@@ -7283,8 +7283,8 @@
     },
     "KC": {
       "name": "Kansas City Chiefs",
-      "playedGames": 1,
-      "gamesRemaining": 16
+      "playedGames": 2,
+      "gamesRemaining": 15
     },
     "LAC": {
       "name": "Los Angeles Chargers",

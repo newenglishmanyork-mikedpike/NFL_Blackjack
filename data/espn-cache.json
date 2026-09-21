@@ -9713,6 +9713,344 @@
         }
       }
     },
+    "401872945": {
+      "final": true,
+      "week": 2,
+      "home": "KC",
+      "away": "IND",
+      "players": {
+        "danieljones": {
+          "name": "Daniel Jones",
+          "team": "IND",
+          "touchdowns": 1
+        },
+        "jonathantaylor": {
+          "name": "Jonathan Taylor",
+          "team": "IND",
+          "touchdowns": 2
+        },
+        "deionburks": {
+          "name": "Deion Burks",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "tylerwarren": {
+          "name": "Tyler Warren",
+          "team": "IND",
+          "touchdowns": 1
+        },
+        "sethmcgowan": {
+          "name": "Seth McGowan",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "joshdowns": {
+          "name": "Josh Downs",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "laquontreadwell": {
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "alecpierce": {
+          "name": "Alec Pierce",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "keenanallen": {
+          "name": "Keenan Allen",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "drewogletree": {
+          "name": "Drew Ogletree",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "akeemdavisgaither": {
+          "name": "Akeem Davis-Gaither",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "cambynum": {
+          "name": "Cam Bynum",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "hunterwohler": {
+          "name": "Hunter Wohler",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "saucegardner": {
+          "name": "Sauce Gardner",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "jayloncarlies": {
+          "name": "Jaylon Carlies",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "deforestbuckner": {
+          "name": "DeForest Buckner",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "justinwalley": {
+          "name": "Justin Walley",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "bryceboettcher": {
+          "name": "Bryce Boettcher",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "camtaylorbritt": {
+          "name": "Cam Taylor-Britt",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "laiatulatu": {
+          "name": "Laiatu Latu",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "groverstewart": {
+          "name": "Grover Stewart",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "jerrytillery": {
+          "name": "Jerry Tillery",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "jaylahntuimoloau": {
+          "name": "Jaylahn Tuimoloau",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "charvariusward": {
+          "name": "Charvarius Ward",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "cadencurry": {
+          "name": "Caden Curry",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "ajhaulcy": {
+          "name": "A.J. Haulcy",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "kapenagushiken": {
+          "name": "Kapena Gushiken",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "jonathanowens": {
+          "name": "Jonathan Owens",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "tahjchambers": {
+          "name": "Tahj Chambers",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "ardenkey": {
+          "name": "Arden Key",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "cjallen": {
+          "name": "CJ Allen",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "anthonygould": {
+          "name": "Anthony Gould",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "spencershrader": {
+          "name": "Spencer Shrader",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "rigobertosanchez": {
+          "name": "Rigoberto Sanchez",
+          "team": "IND",
+          "touchdowns": 0
+        },
+        "patrickmahomes": {
+          "name": "Patrick Mahomes",
+          "team": "KC",
+          "touchdowns": 3
+        },
+        "kennethwalkeriii": {
+          "name": "Kenneth Walker III",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "emmettjohnson": {
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "khyiristonga": {
+          "name": "Khyiris Tonga",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "traviskelce": {
+          "name": "Travis Kelce",
+          "team": "KC",
+          "touchdowns": 1
+        },
+        "tyquanthornton": {
+          "name": "Tyquan Thornton",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "rasheerice": {
+          "name": "Rashee Rice",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "xavierworthy": {
+          "name": "Xavier Worthy",
+          "team": "KC",
+          "touchdowns": 1
+        },
+        "jalenroyals": {
+          "name": "Jalen Royals",
+          "team": "KC",
+          "touchdowns": 1
+        },
+        "noahgray": {
+          "name": "Noah Gray",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "nickbolton": {
+          "name": "Nick Bolton",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "jadenhicks": {
+          "name": "Jaden Hicks",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "druetranquill": {
+          "name": "Drue Tranquill",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "ljariussneed": {
+          "name": "L'Jarius Sneed",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "chrisjones": {
+          "name": "Chris Jones",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "nohlwilliams": {
+          "name": "Nohl Williams",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "georgekarlaftis": {
+          "name": "George Karlaftis",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "alohigilman": {
+          "name": "Alohi Gilman",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "peterwoods": {
+          "name": "Peter Woods",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "colechristiansen": {
+          "name": "Cole Christiansen",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "ashtongillotte": {
+          "name": "Ashton Gillotte",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "kristianfulton": {
+          "name": "Kristian Fulton",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "jackcochrane": {
+          "name": "Jack Cochrane",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "chrisrolandwallace": {
+          "name": "Chris Roland-Wallace",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "harrisonbutker": {
+          "name": "Harrison Butker",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "jeffreybassa": {
+          "name": "Jeffrey Bassa",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "jadoncanady": {
+          "name": "Jadon Canady",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "felixanudikeuzomah": {
+          "name": "Felix Anudike-Uzomah",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "rmasonthomas": {
+          "name": "R Mason Thomas",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "brashardsmith": {
+          "name": "Brashard Smith",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "nikkoremigio": {
+          "name": "Nikko Remigio",
+          "team": "KC",
+          "touchdowns": 0
+        },
+        "mattaraiza": {
+          "name": "Matt Araiza",
+          "team": "KC",
+          "touchdowns": 0
+        }
+      }
+    },
     "401872946": {
       "final": true,
       "week": 2,
