@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T02:03:58.605Z",
+  "updatedAt": "2026-09-21T02:20:40.382Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1196,
+  "playersReturned": 1199,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -6043,7 +6043,7 @@
     "patrickmahomes": {
       "name": "Patrick Mahomes",
       "team": "KC",
-      "touchdowns": 5,
+      "touchdowns": 6,
       "gamesPlayed": 2
     },
     "kennethwalkeriii": {
@@ -6199,7 +6199,7 @@
     "jalenroyals": {
       "name": "Jalen Royals",
       "team": "KC",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "jackcochrane": {
@@ -6212,7 +6212,7 @@
       "name": "Khyiris Tonga",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "coopermcdonald": {
       "name": "Cooper McDonald",
@@ -6268,6 +6268,18 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "hunterwohler": {
+      "name": "Hunter Wohler",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "camtaylorbritt": {
+      "name": "Cam Taylor-Britt",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "cjallen": {
       "name": "CJ Allen",
       "team": "IND",
@@ -6277,6 +6289,12 @@
     "anthonygould": {
       "name": "Anthony Gould",
       "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "colechristiansen": {
+      "name": "Cole Christiansen",
+      "team": "KC",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
