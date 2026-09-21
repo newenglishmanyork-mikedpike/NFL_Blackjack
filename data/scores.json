@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T04:05:57.379Z",
+  "updatedAt": "2026-09-21T04:22:40.544Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1200,
@@ -6256,69 +6256,27 @@
       "touchdowns": 0,
       "gamesPlayed": 2
     },
-    "deionburks": {
-      "name": "Deion Burks",
-      "team": "IND",
+    "christianizien": {
+      "name": "Christian Izien",
+      "team": "DET",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "hunterwohler": {
-      "name": "Hunter Wohler",
-      "team": "IND",
+    "spencerbrown": {
+      "name": "Spencer Brown",
+      "team": "BUF",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jayloncarlies": {
-      "name": "Jaylon Carlies",
-      "team": "IND",
+    "samfranklinjr": {
+      "name": "Sam Franklin Jr.",
+      "team": "BUF",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "camtaylorbritt": {
-      "name": "Cam Taylor-Britt",
-      "team": "IND",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "kapenagushiken": {
-      "name": "Kapena Gushiken",
-      "team": "IND",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "cjallen": {
-      "name": "CJ Allen",
-      "team": "IND",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "anthonygould": {
-      "name": "Anthony Gould",
-      "team": "IND",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "colechristiansen": {
-      "name": "Cole Christiansen",
-      "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "chrisrolandwallace": {
-      "name": "Chris Roland-Wallace",
-      "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "jadoncanady": {
-      "name": "Jadon Canady",
-      "team": "KC",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "brashardsmith": {
-      "name": "Brashard Smith",
-      "team": "KC",
+    "mikedanna": {
+      "name": "Mike Danna",
+      "team": "BUF",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -7180,27 +7138,69 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "christianizien": {
-      "name": "Christian Izien",
-      "team": "DET",
+    "deionburks": {
+      "name": "Deion Burks",
+      "team": "IND",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "spencerbrown": {
-      "name": "Spencer Brown",
-      "team": "BUF",
+    "hunterwohler": {
+      "name": "Hunter Wohler",
+      "team": "IND",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "samfranklinjr": {
-      "name": "Sam Franklin Jr.",
-      "team": "BUF",
+    "jayloncarlies": {
+      "name": "Jaylon Carlies",
+      "team": "IND",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "mikedanna": {
-      "name": "Mike Danna",
-      "team": "BUF",
+    "camtaylorbritt": {
+      "name": "Cam Taylor-Britt",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kapenagushiken": {
+      "name": "Kapena Gushiken",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "cjallen": {
+      "name": "CJ Allen",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "anthonygould": {
+      "name": "Anthony Gould",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "colechristiansen": {
+      "name": "Cole Christiansen",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "chrisrolandwallace": {
+      "name": "Chris Roland-Wallace",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jadoncanady": {
+      "name": "Jadon Canady",
+      "team": "KC",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "brashardsmith": {
+      "name": "Brashard Smith",
+      "team": "KC",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
