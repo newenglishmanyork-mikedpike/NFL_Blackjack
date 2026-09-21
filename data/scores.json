@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T01:15:10.443Z",
+  "updatedAt": "2026-09-21T01:29:19.587Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1193,
+  "playersReturned": 1194,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -2162,19 +2162,19 @@
       "name": "Cam Bynum",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "ajhaulcy": {
       "name": "A.J. Haulcy",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "bryceboettcher": {
       "name": "Bryce Boettcher",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "justinwalley": {
       "name": "Justin Walley",
@@ -2186,7 +2186,7 @@
       "name": "Laiatu Latu",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "ardenkey": {
       "name": "Arden Key",
@@ -2234,7 +2234,7 @@
       "name": "Jaylahn Tuimoloau",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "kennethharris": {
       "name": "Kenneth Harris",
@@ -2270,7 +2270,7 @@
       "name": "Caden Curry",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "rigobertosanchez": {
       "name": "Rigoberto Sanchez",
@@ -6043,7 +6043,7 @@
     "patrickmahomes": {
       "name": "Patrick Mahomes",
       "team": "KC",
-      "touchdowns": 4,
+      "touchdowns": 5,
       "gamesPlayed": 2
     },
     "kennethwalkeriii": {
@@ -6073,7 +6073,7 @@
     "xavierworthy": {
       "name": "Xavier Worthy",
       "team": "KC",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 2
     },
     "jakebriningstool": {
@@ -6092,7 +6092,7 @@
       "name": "Tyquan Thornton",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "cyrusallen": {
       "name": "Cyrus Allen",
@@ -6200,7 +6200,7 @@
       "name": "Jalen Royals",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jackcochrane": {
       "name": "Jack Cochrane",
@@ -6258,6 +6258,12 @@
     },
     "deionburks": {
       "name": "Deion Burks",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jayloncarlies": {
+      "name": "Jaylon Carlies",
       "team": "IND",
       "touchdowns": 0,
       "gamesPlayed": 1
@@ -7326,6 +7332,18 @@
     }
   },
   "recentTouchdowns": [
+    {
+      "player": "Xavier Worthy",
+      "team": "KC",
+      "delta": 1,
+      "touchdownsAfter": 1,
+      "opponent": "Indianapolis Colts",
+      "isHome": true,
+      "gameDate": "2026-09-21T00:20Z",
+      "quarter": 2,
+      "clock": "2:25",
+      "detectedAt": "2026-09-21T01:29:19.587Z"
+    },
     {
       "player": "Garrett Wilson",
       "team": "NYJ",
