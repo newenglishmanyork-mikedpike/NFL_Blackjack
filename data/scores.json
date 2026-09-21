@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T02:20:40.382Z",
+  "updatedAt": "2026-09-21T02:34:04.231Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1199,
+  "playersReturned": 1200,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -2276,7 +2276,7 @@
       "name": "Rigoberto Sanchez",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "cooperrush": {
       "name": "Cooper Rush",
@@ -6086,7 +6086,7 @@
       "name": "Noah Gray",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "tyquanthornton": {
       "name": "Tyquan Thornton",
@@ -6230,7 +6230,7 @@
       "name": "Ashton Gillotte",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "mansoordelane": {
       "name": "Mansoor Delane",
@@ -6242,7 +6242,7 @@
       "name": "Nikko Remigio",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "harrisonbutker": {
       "name": "Harrison Butker",
@@ -6268,14 +6268,20 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "camtaylorbritt": {
+      "name": "Cam Taylor-Britt",
+      "team": "IND",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "hunterwohler": {
       "name": "Hunter Wohler",
       "team": "IND",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "camtaylorbritt": {
-      "name": "Cam Taylor-Britt",
+    "kapenagushiken": {
+      "name": "Kapena Gushiken",
       "team": "IND",
       "touchdowns": 0,
       "gamesPlayed": 1
