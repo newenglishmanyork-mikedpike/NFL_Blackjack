@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T00:59:33.365Z",
+  "updatedAt": "2026-09-21T01:15:10.443Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1193,
@@ -2204,7 +2204,7 @@
       "name": "Jerry Tillery",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "charvariusward": {
       "name": "Charvarius Ward",
@@ -2228,7 +2228,7 @@
       "name": "Sauce Gardner",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jaylahntuimoloau": {
       "name": "Jaylahn Tuimoloau",
@@ -2246,7 +2246,7 @@
       "name": "Tahj Chambers",
       "team": "IND",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "lukerhodes": {
       "name": "Luke Rhodes",
@@ -6068,7 +6068,7 @@
       "name": "Rashee Rice",
       "team": "KC",
       "touchdowns": 1,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "xavierworthy": {
       "name": "Xavier Worthy",
@@ -6176,13 +6176,13 @@
       "name": "Peter Woods",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "felixanudikeuzomah": {
       "name": "Felix Anudike-Uzomah",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "kristianfulton": {
       "name": "Kristian Fulton",
