@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T18:18:57.145Z",
+  "updatedAt": "2026-09-22T00:22:31.323Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1200,
@@ -644,7 +644,7 @@
       "name": "Quentin Lake",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "kamrenkinchens": {
       "name": "Kamren Kinchens",
@@ -656,7 +656,7 @@
       "name": "Nate Landman",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "kobieturner": {
       "name": "Kobie Turner",
@@ -692,19 +692,19 @@
       "name": "Trent McDuffie",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jaylenwatson": {
       "name": "Jaylen Watson",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "kamcurl": {
       "name": "Kam Curl",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "bradenfiske": {
       "name": "Braden Fiske",
@@ -5636,13 +5636,13 @@
       "name": "Jaxson Dart",
       "team": "NYG",
       "touchdowns": 3,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "camskattebo": {
       "name": "Cam Skattebo",
       "team": "NYG",
       "touchdowns": 1,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "devinsingletary": {
       "name": "Devin Singletary",
@@ -5660,7 +5660,7 @@
       "name": "Isaiah Likely",
       "team": "NYG",
       "touchdowns": 2,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "maliknabers": {
       "name": "Malik Nabers",
@@ -5678,13 +5678,13 @@
       "name": "Malachi Fields",
       "team": "NYG",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "theojohnson": {
       "name": "Theo Johnson",
       "team": "NYG",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "patrickricard": {
       "name": "Patrick Ricard",
@@ -5810,7 +5810,7 @@
       "name": "Braxton Berrios",
       "team": "NYG",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "dominiczvada": {
       "name": "Dominic Zvada",
