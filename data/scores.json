@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-28T02:01:37.362Z",
+  "updatedAt": "2026-09-28T05:02:45.664Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1304,
+  "playersReturned": 1308,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -565,7 +565,7 @@
     "matthewstafford": {
       "name": "Matthew Stafford",
       "team": "LAR",
-      "touchdowns": 5,
+      "touchdowns": 6,
       "gamesPlayed": 3
     },
     "stetsonbennettiv": {
@@ -637,7 +637,7 @@
     "konatamumpfield": {
       "name": "Konata Mumpfield",
       "team": "LAR",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 3
     },
     "quentinlake": {
@@ -668,7 +668,7 @@
       "name": "Tyler Davis",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jaylenmccollough": {
       "name": "Jaylen McCollough",
@@ -5827,7 +5827,7 @@
     "bonix": {
       "name": "Bo Nix",
       "team": "DEN",
-      "touchdowns": 2,
+      "touchdowns": 5,
       "gamesPlayed": 3
     },
     "jkdobbins": {
@@ -5846,19 +5846,19 @@
       "name": "Troy Franklin",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "evanengram": {
       "name": "Evan Engram",
       "team": "DEN",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "patbryant": {
       "name": "Pat Bryant",
       "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 2
+      "touchdowns": 1,
+      "gamesPlayed": 3
     },
     "courtlandsutton": {
       "name": "Courtland Sutton",
@@ -5899,7 +5899,7 @@
     "talanoahufanga": {
       "name": "Talanoa Hufanga",
       "team": "DEN",
-      "touchdowns": 0,
+      "touchdowns": 2,
       "gamesPlayed": 3
     },
     "zachallen": {
@@ -5918,7 +5918,7 @@
       "name": "Jahdae Barron",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "querobinson": {
       "name": "Que Robinson",
@@ -5936,7 +5936,7 @@
       "name": "Eyioma Uwazurike",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "patsurtainii": {
       "name": "Pat Surtain II",
@@ -5959,8 +5959,8 @@
     "nateadkins": {
       "name": "Nate Adkins",
       "team": "DEN",
-      "touchdowns": 1,
-      "gamesPlayed": 2
+      "touchdowns": 2,
+      "gamesPlayed": 3
     },
     "jaquanmcmillian": {
       "name": "Ja'Quan McMillian",
@@ -5972,7 +5972,7 @@
       "name": "Jordan Turner",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "mitchellfraboni": {
       "name": "Mitchell Fraboni",
@@ -5984,13 +5984,13 @@
       "name": "D.J. Jones",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "devonkey": {
       "name": "Devon Key",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "tycenanderson": {
       "name": "Tycen Anderson",
@@ -6002,7 +6002,7 @@
       "name": "JL Skinner",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "jonahelliss": {
       "name": "Jonah Elliss",
@@ -6842,7 +6842,7 @@
       "name": "Adam Prentice",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "liljordanhumphrey": {
       "name": "Lil'Jordan Humphrey",
@@ -6854,7 +6854,7 @@
       "name": "Kris Abrams-Draine",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "darekeyoung": {
       "name": "Dareke Young",
@@ -7250,7 +7250,7 @@
       "name": "Poona Ford",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "joshwallace": {
       "name": "Josh Wallace",
@@ -7268,23 +7268,23 @@
       "name": "Wesley Bailey",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "emmanuelforbesjr": {
       "name": "Emmanuel Forbes Jr.",
       "team": "LAR",
       "touchdowns": 0,
+      "gamesPlayed": 2
+    },
+    "michaelpenixjr": {
+      "name": "Michael Penix Jr.",
+      "team": "ATL",
+      "touchdowns": 1,
       "gamesPlayed": 1
     },
-    "deanconnors": {
-      "name": "Dean Connors",
-      "team": "LAR",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "kolbekatsis": {
-      "name": "Kolbe Katsis",
-      "team": "DEN",
+    "billybowmanjr": {
+      "name": "Billy Bowman Jr.",
+      "team": "ATL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -7816,15 +7816,39 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "michaelpenixjr": {
-      "name": "Michael Penix Jr.",
-      "team": "ATL",
-      "touchdowns": 1,
+    "joecardona": {
+      "name": "Joe Cardona",
+      "team": "LAR",
+      "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "billybowmanjr": {
-      "name": "Billy Bowman Jr.",
-      "team": "ATL",
+    "grantstuard": {
+      "name": "Grant Stuard",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tanneringle": {
+      "name": "Tanner Ingle",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "deanconnors": {
+      "name": "Dean Connors",
+      "team": "LAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "lukewattenberg": {
+      "name": "Luke Wattenberg",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "kolbekatsis": {
+      "name": "Kolbe Katsis",
+      "team": "DEN",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
@@ -7877,8 +7901,8 @@
     },
     "DEN": {
       "name": "Denver Broncos",
-      "playedGames": 2,
-      "gamesRemaining": 15
+      "playedGames": 3,
+      "gamesRemaining": 14
     },
     "DET": {
       "name": "Detroit Lions",
@@ -7917,8 +7941,8 @@
     },
     "LAR": {
       "name": "Los Angeles Rams",
-      "playedGames": 2,
-      "gamesRemaining": 15
+      "playedGames": 3,
+      "gamesRemaining": 14
     },
     "LV": {
       "name": "Las Vegas Raiders",

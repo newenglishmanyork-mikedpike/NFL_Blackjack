@@ -15378,6 +15378,364 @@
           "touchdowns": 0
         }
       }
+    },
+    "401872962": {
+      "final": true,
+      "week": 3,
+      "home": "DEN",
+      "away": "LAR",
+      "players": {
+        "matthewstafford": {
+          "name": "Matthew Stafford",
+          "team": "LAR",
+          "touchdowns": 2
+        },
+        "kyrenwilliams": {
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "blakecorum": {
+          "name": "Blake Corum",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "davanteadams": {
+          "name": "Davante Adams",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "konatamumpfield": {
+          "name": "Konata Mumpfield",
+          "team": "LAR",
+          "touchdowns": 1
+        },
+        "tylerhigbee": {
+          "name": "Tyler Higbee",
+          "team": "LAR",
+          "touchdowns": 1
+        },
+        "davisallen": {
+          "name": "Davis Allen",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "terranceferguson": {
+          "name": "Terrance Ferguson",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "colbyparkinson": {
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "omarspeights": {
+          "name": "Omar Speights",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "quentinlake": {
+          "name": "Quentin Lake",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "kobieturner": {
+          "name": "Kobie Turner",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "trentmcduffie": {
+          "name": "Trent McDuffie",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "poonaford": {
+          "name": "Poona Ford",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "byronyoung": {
+          "name": "Byron Young",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "kamcurl": {
+          "name": "Kam Curl",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "joshwallace": {
+          "name": "Josh Wallace",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "shaundolac": {
+          "name": "Shaun Dolac",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "natelandman": {
+          "name": "Nate Landman",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "tyhamilton": {
+          "name": "Ty Hamilton",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "bradenfiske": {
+          "name": "Braden Fiske",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "jaylenwatson": {
+          "name": "Jaylen Watson",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "desjuanjohnson": {
+          "name": "Desjuan Johnson",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "jaylenmccollough": {
+          "name": "Jaylen McCollough",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "emmanuelforbesjr": {
+          "name": "Emmanuel Forbes Jr.",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "josaiahstewart": {
+          "name": "Josaiah Stewart",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "wesleybailey": {
+          "name": "Wesley Bailey",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "ethanevans": {
+          "name": "Ethan Evans",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "aarondonald": {
+          "name": "Aaron Donald",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "joecardona": {
+          "name": "Joe Cardona",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "grantstuard": {
+          "name": "Grant Stuard",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "tanneringle": {
+          "name": "Tanner Ingle",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "tylerdavis": {
+          "name": "Tyler Davis",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "xaviersmith": {
+          "name": "Xavier Smith",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "deanconnors": {
+          "name": "Dean Connors",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "harrisonmevis": {
+          "name": "Harrison Mevis",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "bonix": {
+          "name": "Bo Nix",
+          "team": "DEN",
+          "touchdowns": 3
+        },
+        "jkdobbins": {
+          "name": "J.K. Dobbins",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "jaylenwaddle": {
+          "name": "Jaylen Waddle",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "rjharvey": {
+          "name": "RJ Harvey",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "tylerbadie": {
+          "name": "Tyler Badie",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "courtlandsutton": {
+          "name": "Courtland Sutton",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "patbryant": {
+          "name": "Pat Bryant",
+          "team": "DEN",
+          "touchdowns": 1
+        },
+        "troyfranklin": {
+          "name": "Troy Franklin",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "nateadkins": {
+          "name": "Nate Adkins",
+          "team": "DEN",
+          "touchdowns": 1
+        },
+        "evanengram": {
+          "name": "Evan Engram",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "brandonjones": {
+          "name": "Brandon Jones",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "patsurtainii": {
+          "name": "Pat Surtain II",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "alexsingleton": {
+          "name": "Alex Singleton",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "rileymoss": {
+          "name": "Riley Moss",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "querobinson": {
+          "name": "Que Robinson",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "talanoahufanga": {
+          "name": "Talanoa Hufanga",
+          "team": "DEN",
+          "touchdowns": 2
+        },
+        "justinstrnad": {
+          "name": "Justin Strnad",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "malcolmroach": {
+          "name": "Malcolm Roach",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "jonahelliss": {
+          "name": "Jonah Elliss",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "devonkey": {
+          "name": "Devon Key",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "zachallen": {
+          "name": "Zach Allen",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "nikbonitto": {
+          "name": "Nik Bonitto",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "dondreatillman": {
+          "name": "Dondrea Tillman",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "eyiomauwazurike": {
+          "name": "Eyioma Uwazurike",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "lukewattenberg": {
+          "name": "Luke Wattenberg",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "jlskinner": {
+          "name": "JL Skinner",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "krisabramsdraine": {
+          "name": "Kris Abrams-Draine",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "jahdaebarron": {
+          "name": "Jahdae Barron",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "djjones": {
+          "name": "D.J. Jones",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "adamprentice": {
+          "name": "Adam Prentice",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "jordanturner": {
+          "name": "Jordan Turner",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "kolbekatsis": {
+          "name": "Kolbe Katsis",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "willutz": {
+          "name": "Wil Lutz",
+          "team": "DEN",
+          "touchdowns": 0
+        },
+        "jeremycrawshaw": {
+          "name": "Jeremy Crawshaw",
+          "team": "DEN",
+          "touchdowns": 0
+        }
+      }
     }
   }
 }
