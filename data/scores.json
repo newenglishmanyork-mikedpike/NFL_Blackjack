@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-28T23:10:05.272Z",
+  "updatedAt": "2026-09-29T05:27:28.825Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1308,
+  "playersReturned": 1315,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -732,9 +732,9 @@
     },
     "byronyoung": {
       "name": "Byron Young",
-      "team": "LAR",
+      "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "xaviersmith": {
       "name": "Xavier Smith",
@@ -2690,37 +2690,37 @@
       "name": "D'Andre Swift",
       "team": "CHI",
       "touchdowns": 3,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "kylemonangai": {
       "name": "Kyle Monangai",
       "team": "CHI",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "lutherburdeniii": {
       "name": "Luther Burden III",
       "team": "CHI",
-      "touchdowns": 0,
-      "gamesPlayed": 2
+      "touchdowns": 1,
+      "gamesPlayed": 3
     },
     "kalifraymond": {
       "name": "Kalif Raymond",
       "team": "CHI",
-      "touchdowns": 0,
-      "gamesPlayed": 2
+      "touchdowns": 1,
+      "gamesPlayed": 3
     },
     "romeodunze": {
       "name": "Rome Odunze",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "colekmet": {
       "name": "Cole Kmet",
       "team": "CHI",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "jahdaewalker": {
       "name": "Jahdae Walker",
@@ -2732,13 +2732,13 @@
       "name": "Colston Loveland",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "devinbush": {
       "name": "Devin Bush",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "kadendavis": {
       "name": "Kaden Davis",
@@ -2750,7 +2750,7 @@
       "name": "Dillon Thieneman",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "tyriquestevensonsr": {
       "name": "Tyrique Stevenson Sr.",
@@ -2762,7 +2762,7 @@
       "name": "Cam Lewis",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "roschonjohnson": {
       "name": "Roschon Johnson",
@@ -2774,25 +2774,25 @@
       "name": "James Lynch",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "malikmuhammadii": {
       "name": "Malik Muhammad II",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "jaylonjohnson": {
       "name": "Jaylon Johnson",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "gradyjarrett": {
       "name": "Grady Jarrett",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "kentaviusstreet": {
       "name": "Kentavius Street",
@@ -2804,19 +2804,19 @@
       "name": "Montez Sweat",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "austinbooker": {
       "name": "Austin Booker",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "dmarcojackson": {
       "name": "D'Marco Jackson",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "joshblackwell": {
       "name": "Josh Blackwell",
@@ -2828,25 +2828,25 @@
       "name": "Dayo Odeyingbo",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "tjedwards": {
       "name": "T.J. Edwards",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "nevillegallimore": {
       "name": "Neville Gallimore",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "elijahhicks": {
       "name": "Elijah Hicks",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "danielhardy": {
       "name": "Daniel Hardy",
@@ -2870,13 +2870,13 @@
       "name": "Cairo Santos",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "torytaylor": {
       "name": "Tory Taylor",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "bryceyoung": {
       "name": "Bryce Young",
@@ -4897,26 +4897,26 @@
     "jalenhurts": {
       "name": "Jalen Hurts",
       "team": "PHI",
-      "touchdowns": 5,
-      "gamesPlayed": 2
+      "touchdowns": 6,
+      "gamesPlayed": 3
     },
     "saquonbarkley": {
       "name": "Saquon Barkley",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "willshipley": {
       "name": "Will Shipley",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "tankbigsby": {
       "name": "Tank Bigsby",
       "team": "PHI",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "dallasgoedert": {
       "name": "Dallas Goedert",
@@ -4928,73 +4928,73 @@
       "name": "Dontayvion Wicks",
       "team": "PHI",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "devontasmith": {
       "name": "DeVonta Smith",
       "team": "PHI",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "makailemon": {
       "name": "Makai Lemon",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "zackbaun": {
       "name": "Zack Baun",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "jihaadcampbell": {
       "name": "Jihaad Campbell",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "cooperdejean": {
       "name": "Cooper DeJean",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "jordandavis": {
       "name": "Jordan Davis",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "marcusepps": {
       "name": "Marcus Epps",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "dariuscooper": {
       "name": "Darius Cooper",
       "team": "PHI",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "moroojomo": {
       "name": "Moro Ojomo",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "jalyxhunt": {
       "name": "Jalyx Hunt",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "jalencarter": {
       "name": "Jalen Carter",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "jeremiahtrotterjr": {
       "name": "Jeremiah Trotter Jr.",
@@ -5006,7 +5006,7 @@
       "name": "Quinyon Mitchell",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "ajepenesa": {
       "name": "AJ Epenesa",
@@ -5018,55 +5018,55 @@
       "name": "Nolan Smith Jr.",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "smaelmondonjr": {
       "name": "Smael Mondon Jr.",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "michaelcarterii": {
       "name": "Michael Carter II",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "riqwoolen": {
       "name": "Riq Woolen",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "arnoldebiketie": {
       "name": "Arnold Ebiketie",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "andrewmukuba": {
       "name": "Andrew Mukuba",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "britaincovey": {
       "name": "Britain Covey",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "jakeelliott": {
       "name": "Jake Elliott",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "bradenmann": {
       "name": "Braden Mann",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "jacobybrissett": {
       "name": "Jacoby Brissett",
@@ -6380,7 +6380,7 @@
       "name": "Sam Roush",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jacksanborn": {
       "name": "Jack Sanborn",
@@ -6392,7 +6392,7 @@
       "name": "Xavier Woods",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jordanvandenberg": {
       "name": "Jordan van den Berg",
@@ -6404,7 +6404,7 @@
       "name": "Zavion Thomas",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "hollywoodbrown": {
       "name": "Hollywood Brown",
@@ -6416,7 +6416,7 @@
       "name": "Johnny Mundt",
       "team": "PHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "nicholassingleton": {
       "name": "Nicholas Singleton",
@@ -7851,6 +7851,48 @@
       "team": "DEN",
       "touchdowns": 0,
       "gamesPlayed": 1
+    },
+    "andydalton": {
+      "name": "Andy Dalton",
+      "team": "PHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "zachertz": {
+      "name": "Zach Ertz",
+      "team": "PHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tyrobinson": {
+      "name": "Ty Robinson",
+      "team": "PHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jonathangreenard": {
+      "name": "Jonathan Greenard",
+      "team": "PHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "chancecampbell": {
+      "name": "Chance Campbell",
+      "team": "PHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "keleeringo": {
+      "name": "Kelee Ringo",
+      "team": "PHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "casekeenum": {
+      "name": "Case Keenum",
+      "team": "CHI",
+      "touchdowns": 3,
+      "gamesPlayed": 1
     }
   },
   "teams": {
@@ -7881,8 +7923,8 @@
     },
     "CHI": {
       "name": "Chicago Bears",
-      "playedGames": 2,
-      "gamesRemaining": 15
+      "playedGames": 3,
+      "gamesRemaining": 14
     },
     "CIN": {
       "name": "Cincinnati Bengals",
@@ -7981,8 +8023,8 @@
     },
     "PHI": {
       "name": "Philadelphia Eagles",
-      "playedGames": 2,
-      "gamesRemaining": 15
+      "playedGames": 3,
+      "gamesRemaining": 14
     },
     "PIT": {
       "name": "Pittsburgh Steelers",
@@ -8016,6 +8058,18 @@
     }
   },
   "recentTouchdowns": [
+    {
+      "player": "Kalif Raymond",
+      "team": "CHI",
+      "delta": 1,
+      "touchdownsAfter": 1,
+      "opponent": "Philadelphia Eagles",
+      "isHome": true,
+      "gameDate": "2026-09-29T00:15Z",
+      "quarter": 3,
+      "clock": "5:47",
+      "detectedAt": "2026-09-29T05:27:28.824Z"
+    },
     {
       "player": "Garrett Wilson",
       "team": "NYJ",
@@ -8147,18 +8201,6 @@
       "quarter": 2,
       "clock": "2:52",
       "detectedAt": "2026-09-18T06:21:22.032Z"
-    },
-    {
-      "player": "Ashton Jeanty",
-      "team": "LV",
-      "delta": 1,
-      "touchdownsAfter": 2,
-      "opponent": "Miami Dolphins",
-      "isHome": true,
-      "gameDate": "2026-09-13T20:25Z",
-      "quarter": 3,
-      "clock": "9:58",
-      "detectedAt": "2026-09-13T22:21:24.460Z"
     }
   ]
 }
