@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-05T02:24:21.324Z",
+  "updatedAt": "2026-10-05T03:39:12.413Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1379,
+  "playersReturned": 1381,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -1333,7 +1333,7 @@
     "jaredgoff": {
       "name": "Jared Goff",
       "team": "DET",
-      "touchdowns": 8,
+      "touchdowns": 9,
       "gamesPlayed": 4
     },
     "jahmyrgibbs": {
@@ -1357,7 +1357,7 @@
     "samlaporta": {
       "name": "Sam LaPorta",
       "team": "DET",
-      "touchdowns": 1,
+      "touchdowns": 2,
       "gamesPlayed": 4
     },
     "jamesonwilliams": {
@@ -1412,7 +1412,7 @@
       "name": "Derrick Barnes",
       "team": "DET",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "aidanhutchinson": {
       "name": "Aidan Hutchinson",
@@ -2893,7 +2893,7 @@
     "chubahubbard": {
       "name": "Chuba Hubbard",
       "team": "CAR",
-      "touchdowns": 4,
+      "touchdowns": 5,
       "gamesPlayed": 4
     },
     "ajdillon": {
@@ -2936,7 +2936,7 @@
       "name": "Mitchell Evans",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "xavierlegette": {
       "name": "Xavier Legette",
@@ -2996,7 +2996,7 @@
       "name": "Princely Umanmielen",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "jeremiahmoon": {
       "name": "Jeremiah Moon",
@@ -3044,13 +3044,13 @@
       "name": "Thomas Incoom",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "bobbybrowniii": {
       "name": "Bobby Brown III",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "brycentremayne": {
       "name": "Brycen Tremayne",
@@ -7334,7 +7334,7 @@
       "name": "Tyrel Dodson",
       "team": "CAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "patrickjonesii": {
       "name": "Patrick Jones II",
@@ -7900,6 +7900,12 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
+    "jalenmills": {
+      "name": "Jalen Mills",
+      "team": "DET",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
     "levionwuzurike": {
       "name": "Levi Onwuzurike",
       "team": "DET",
@@ -7909,6 +7915,12 @@
     "derrickmoore": {
       "name": "Derrick Moore",
       "team": "DET",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jaseemreed": {
+      "name": "Ja'seem Reed",
+      "team": "CAR",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -8443,6 +8455,18 @@
   },
   "recentTouchdowns": [
     {
+      "player": "Sam LaPorta",
+      "team": "DET",
+      "delta": 1,
+      "touchdownsAfter": 2,
+      "opponent": "Carolina Panthers",
+      "isHome": false,
+      "gameDate": "2026-10-05T00:20Z",
+      "quarter": 4,
+      "clock": "3:38",
+      "detectedAt": "2026-10-05T03:39:12.413Z"
+    },
+    {
       "player": "Rashid Shaheed",
       "team": "SEA",
       "delta": 1,
@@ -8573,18 +8597,6 @@
       "quarter": 3,
       "clock": "2:30",
       "detectedAt": "2026-09-20T19:26:26.763Z"
-    },
-    {
-      "player": "Braelon Allen",
-      "team": "NYJ",
-      "delta": 1,
-      "touchdownsAfter": 1,
-      "opponent": "Green Bay Packers",
-      "isHome": true,
-      "gameDate": "2026-09-20T17:00Z",
-      "quarter": 2,
-      "clock": "6:04",
-      "detectedAt": "2026-09-20T18:26:43.327Z"
     }
   ]
 }
