@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T03:39:12.413Z",
+  "updatedAt": "2026-10-05T05:16:39.644Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1381,
@@ -7894,42 +7894,6 @@
       "touchdowns": 3,
       "gamesPlayed": 1
     },
-    "amenogbongbemiga": {
-      "name": "Amen Ogbongbemiga",
-      "team": "DET",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "jalenmills": {
-      "name": "Jalen Mills",
-      "team": "DET",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "levionwuzurike": {
-      "name": "Levi Onwuzurike",
-      "team": "DET",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "derrickmoore": {
-      "name": "Derrick Moore",
-      "team": "DET",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "jaseemreed": {
-      "name": "Ja'seem Reed",
-      "team": "CAR",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "robertrochell": {
-      "name": "Robert Rochell",
-      "team": "CAR",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "nickwestbrookikhine": {
       "name": "Nick Westbrook-Ikhine",
       "team": "IND",
@@ -8289,6 +8253,42 @@
       "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
+    },
+    "amenogbongbemiga": {
+      "name": "Amen Ogbongbemiga",
+      "team": "DET",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jalenmills": {
+      "name": "Jalen Mills",
+      "team": "DET",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "levionwuzurike": {
+      "name": "Levi Onwuzurike",
+      "team": "DET",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "derrickmoore": {
+      "name": "Derrick Moore",
+      "team": "DET",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jaseemreed": {
+      "name": "Ja'seem Reed",
+      "team": "CAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "robertrochell": {
+      "name": "Robert Rochell",
+      "team": "CAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
     }
   },
   "teams": {
@@ -8314,8 +8314,8 @@
     },
     "CAR": {
       "name": "Carolina Panthers",
-      "playedGames": 3,
-      "gamesRemaining": 14
+      "playedGames": 4,
+      "gamesRemaining": 13
     },
     "CHI": {
       "name": "Chicago Bears",
@@ -8344,8 +8344,8 @@
     },
     "DET": {
       "name": "Detroit Lions",
-      "playedGames": 3,
-      "gamesRemaining": 14
+      "playedGames": 4,
+      "gamesRemaining": 13
     },
     "GB": {
       "name": "Green Bay Packers",

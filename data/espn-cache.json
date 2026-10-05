@@ -20686,6 +20686,359 @@
           "touchdowns": 0
         }
       }
+    },
+    "401872978": {
+      "final": true,
+      "week": 4,
+      "home": "CAR",
+      "away": "DET",
+      "players": {
+        "jaredgoff": {
+          "name": "Jared Goff",
+          "team": "DET",
+          "touchdowns": 1
+        },
+        "jahmyrgibbs": {
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "touchdowns": 1
+        },
+        "jamesonwilliams": {
+          "name": "Jameson Williams",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "isaacteslaa": {
+          "name": "Isaac TeSlaa",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "samlaporta": {
+          "name": "Sam LaPorta",
+          "team": "DET",
+          "touchdowns": 1
+        },
+        "amonrastbrown": {
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "sionevaki": {
+          "name": "Sione Vaki",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "brockwright": {
+          "name": "Brock Wright",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "jackcampbell": {
+          "name": "Jack Campbell",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "christianizien": {
+          "name": "Christian Izien",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "chuckclark": {
+          "name": "Chuck Clark",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "djreed": {
+          "name": "D.J. Reed",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "tyleikwilliams": {
+          "name": "Tyleik Williams",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "trevornowaske": {
+          "name": "Trevor Nowaske",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "ennisrakestrawjr": {
+          "name": "Ennis Rakestraw Jr.",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "jimmyrolder": {
+          "name": "Jimmy Rolder",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "alimmcneill": {
+          "name": "Alim McNeill",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "aidanhutchinson": {
+          "name": "Aidan Hutchinson",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "malcolmrodriguez": {
+          "name": "Malcolm Rodriguez",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "tylerlacy": {
+          "name": "Tyler Lacy",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "khalildorsey": {
+          "name": "Khalil Dorsey",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "amenogbongbemiga": {
+          "name": "Amen Ogbongbemiga",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "djwonnum": {
+          "name": "DJ Wonnum",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "jalenmills": {
+          "name": "Jalen Mills",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "derrickbarnes": {
+          "name": "Derrick Barnes",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "rogermccreary": {
+          "name": "Roger McCreary",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "levionwuzurike": {
+          "name": "Levi Onwuzurike",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "taymartin": {
+          "name": "Tay Martin",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "jacobsaylors": {
+          "name": "Jacob Saylors",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "skylergillhoward": {
+          "name": "Skyler Gill-Howard",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "derrickmoore": {
+          "name": "Derrick Moore",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "tomkennedy": {
+          "name": "Tom Kennedy",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "jakebates": {
+          "name": "Jake Bates",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "jackfox": {
+          "name": "Jack Fox",
+          "team": "DET",
+          "touchdowns": 0
+        },
+        "bryceyoung": {
+          "name": "Bryce Young",
+          "team": "CAR",
+          "touchdowns": 2
+        },
+        "chubahubbard": {
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "touchdowns": 2
+        },
+        "ajdillon": {
+          "name": "AJ Dillon",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "tetairoamcmillan": {
+          "name": "Tetairoa McMillan",
+          "team": "CAR",
+          "touchdowns": 2
+        },
+        "johnmetchieiii": {
+          "name": "John Metchie III",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "darrenwaller": {
+          "name": "Darren Waller",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "brycentremayne": {
+          "name": "Brycen Tremayne",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "tommytremble": {
+          "name": "Tommy Tremble",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "mitchellevans": {
+          "name": "Mitchell Evans",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jaseemreed": {
+          "name": "Ja'seem Reed",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "akaylebevans": {
+          "name": "Akayleb Evans",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "devinlloyd": {
+          "name": "Devin Lloyd",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "bobbyokereke": {
+          "name": "Bobby Okereke",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "trevonmoehrig": {
+          "name": "Tre'von Moehrig",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "willleeiii": {
+          "name": "Will Lee III",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "zakeewheatley": {
+          "name": "Zakee Wheatley",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "princelyumanmielen": {
+          "name": "Princely Umanmielen",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "nickscott": {
+          "name": "Nick Scott",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "lathanransom": {
+          "name": "Lathan Ransom",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "aaronhall": {
+          "name": "Aaron Hall",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "patrickjonesii": {
+          "name": "Patrick Jones II",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jacksonkuwatch": {
+          "name": "Jackson Kuwatch",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "robertrochell": {
+          "name": "Robert Rochell",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "tyreldodson": {
+          "name": "Tyrel Dodson",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "isaiahsimmons": {
+          "name": "Isaiah Simmons",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "derrickbrown": {
+          "name": "Derrick Brown",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jaelanphillips": {
+          "name": "Jaelan Phillips",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "leehunter": {
+          "name": "Lee Hunter",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "chausmithwade": {
+          "name": "Chau Smith-Wade",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "anthonytyusiii": {
+          "name": "Anthony Tyus III",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "thomasincoom": {
+          "name": "Thomas Incoom",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "bobbybrowniii": {
+          "name": "Bobby Brown III",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "davidmoore": {
+          "name": "David Moore",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "ryanfitzgerald": {
+          "name": "Ryan Fitzgerald",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "sammartin": {
+          "name": "Sam Martin",
+          "team": "CAR",
+          "touchdowns": 0
+        }
+      }
     }
   }
 }
