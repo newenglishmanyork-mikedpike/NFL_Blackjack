@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-05T23:57:16.126Z",
+  "updatedAt": "2026-10-06T06:08:51.982Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1381,
+  "playersReturned": 1384,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -1129,8 +1129,8 @@
     "tylershough": {
       "name": "Tyler Shough",
       "team": "NO",
-      "touchdowns": 9,
-      "gamesPlayed": 3
+      "touchdowns": 10,
+      "gamesPlayed": 4
     },
     "travisetiennejr": {
       "name": "Travis Etienne Jr.",
@@ -1142,43 +1142,43 @@
       "name": "Kendre Miller",
       "team": "NO",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "cjdonaldson": {
       "name": "CJ Donaldson",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "barionbrown": {
       "name": "Barion Brown",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "chrisolave": {
       "name": "Chris Olave",
       "team": "NO",
       "touchdowns": 1,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "devaughnvele": {
       "name": "Devaughn Vele",
       "team": "NO",
-      "touchdowns": 1,
-      "gamesPlayed": 3
+      "touchdowns": 2,
+      "gamesPlayed": 4
     },
     "juwanjohnson": {
       "name": "Juwan Johnson",
       "team": "NO",
       "touchdowns": 3,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "brycelance": {
       "name": "Bryce Lance",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "noahfant": {
       "name": "Noah Fant",
@@ -1190,13 +1190,13 @@
       "name": "Vernon Broughton",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "jonassanker": {
       "name": "Jonas Sanker",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "kadenelliss": {
       "name": "Kaden Elliss",
@@ -1208,55 +1208,55 @@
       "name": "Justin Reid",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "koolaidmckinstry": {
       "name": "Kool-Aid McKinstry",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "petewerner": {
       "name": "Pete Werner",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "dannystutsman": {
       "name": "Danny Stutsman",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "julianblackmon": {
       "name": "Julian Blackmon",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "davongodchaux": {
       "name": "Davon Godchaux",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "isaiahstalbird": {
       "name": "Isaiah Stalbird",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "quincyriley": {
       "name": "Quincy Riley",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "nathanshepherd": {
       "name": "Nathan Shepherd",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "carlgranderson": {
       "name": "Carl Granderson",
@@ -1280,19 +1280,19 @@
       "name": "Colby Wooden",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "tyreewilson": {
       "name": "Tyree Wilson",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "treytonwelch": {
       "name": "Treyton Welch",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "anferneejennings": {
       "name": "Anfernee Jennings",
@@ -1316,19 +1316,19 @@
       "name": "Chase Young",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "danielcarlson": {
       "name": "Daniel Carlson",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "ryanwright": {
       "name": "Ryan Wright",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "jaredgoff": {
       "name": "Jared Goff",
@@ -2287,56 +2287,56 @@
     "bijanrobinson": {
       "name": "Bijan Robinson",
       "team": "ATL",
-      "touchdowns": 3,
-      "gamesPlayed": 3
+      "touchdowns": 5,
+      "gamesPlayed": 4
     },
     "brianrobinsonjr": {
       "name": "Brian Robinson Jr.",
       "team": "ATL",
-      "touchdowns": 1,
-      "gamesPlayed": 3
+      "touchdowns": 4,
+      "gamesPlayed": 4
     },
     "drakelondon": {
       "name": "Drake London",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "jahandotson": {
       "name": "Jahan Dotson",
       "team": "ATL",
-      "touchdowns": 0,
-      "gamesPlayed": 3
+      "touchdowns": 1,
+      "gamesPlayed": 4
     },
     "olamidezaccheaus": {
       "name": "Olamide Zaccheaus",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "kylepittssr": {
       "name": "Kyle Pitts Sr.",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "divinedeablo": {
       "name": "Divine Deablo",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "sydneybrown": {
       "name": "Sydney Brown",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "jessiebatesiii": {
       "name": "Jessie Bates III",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "ajterrelljr": {
       "name": "A.J. Terrell Jr.",
@@ -2348,13 +2348,13 @@
       "name": "Xavier Watts",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "kendaldaniels": {
       "name": "Kendal Daniels",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "zadariussmith": {
       "name": "Za'Darius Smith",
@@ -2366,31 +2366,31 @@
       "name": "Mike Hughes",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "brandondorlus": {
       "name": "Brandon Dorlus",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "lacalelondon": {
       "name": "LaCale London",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "gervondextersr": {
       "name": "Gervon Dexter Sr.",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "mikefordjr": {
       "name": "Mike Ford Jr.",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jaredivey": {
       "name": "Jared Ivey",
@@ -2402,13 +2402,13 @@
       "name": "Josh Woods",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "cjhenderson": {
       "name": "C.J. Henderson",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "bralentrice": {
       "name": "Bralen Trice",
@@ -2420,7 +2420,7 @@
       "name": "DeMarcco Hellams",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "matthewbergeron": {
       "name": "Matthew Bergeron",
@@ -2432,7 +2432,7 @@
       "name": "Harold Perkins Jr.",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "avieonterrell": {
       "name": "Avieon Terrell",
@@ -2444,7 +2444,7 @@
       "name": "Samson Ebukam",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "nickmuse": {
       "name": "Nick Muse",
@@ -2456,37 +2456,37 @@
       "name": "Cameron Thomas",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "chrisblair": {
       "name": "Chris Blair",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "maasonsmith": {
       "name": "Maason Smith",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "zachariahbranch": {
       "name": "Zachariah Branch",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "nickfolk": {
       "name": "Nick Folk",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "jakebailey": {
       "name": "Jake Bailey",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "aaronrodgers": {
       "name": "Aaron Rodgers",
@@ -6314,25 +6314,25 @@
       "name": "Austin Hooper",
       "team": "ATL",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "charliewoerner": {
       "name": "Charlie Woerner",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "yasirabdullah": {
       "name": "Yasir Abdullah",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "zachharrison": {
       "name": "Zach Harrison",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "christianharris": {
       "name": "Christian Harris",
@@ -6679,14 +6679,14 @@
     "alvinkamara": {
       "name": "Alvin Kamara",
       "team": "NO",
-      "touchdowns": 0,
-      "gamesPlayed": 2
+      "touchdowns": 2,
+      "gamesPlayed": 3
     },
     "oscardelp": {
       "name": "Oscar Delp",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "kevinaustinjr": {
       "name": "Kevin Austin Jr.",
@@ -6698,13 +6698,13 @@
       "name": "Cameron Jordan",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jaydenprice": {
       "name": "Jayden Price",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "devontezwalker": {
       "name": "Devontez Walker",
@@ -7279,14 +7279,14 @@
     "michaelpenixjr": {
       "name": "Michael Penix Jr.",
       "team": "ATL",
-      "touchdowns": 1,
-      "gamesPlayed": 1
+      "touchdowns": 2,
+      "gamesPlayed": 2
     },
     "billybowmanjr": {
       "name": "Billy Bowman Jr.",
       "team": "ATL",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "marquezvaldesscantling": {
       "name": "Marquez Valdes-Scantling",
@@ -7802,7 +7802,7 @@
       "name": "Khristian Boyd",
       "team": "NO",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "mikereid": {
       "name": "Mike Reid",
@@ -8289,6 +8289,24 @@
       "team": "CAR",
       "touchdowns": 0,
       "gamesPlayed": 1
+    },
+    "jammierobinson": {
+      "name": "Jammie Robinson",
+      "team": "ATL",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "fadildiggs": {
+      "name": "Fadil Diggs",
+      "team": "NO",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "johnridgewayiii": {
+      "name": "John Ridgeway III",
+      "team": "NO",
+      "touchdowns": 0,
+      "gamesPlayed": 1
     }
   },
   "teams": {
@@ -8299,8 +8317,8 @@
     },
     "ATL": {
       "name": "Atlanta Falcons",
-      "playedGames": 3,
-      "gamesRemaining": 14
+      "playedGames": 4,
+      "gamesRemaining": 13
     },
     "BAL": {
       "name": "Baltimore Ravens",
@@ -8404,8 +8422,8 @@
     },
     "NO": {
       "name": "New Orleans Saints",
-      "playedGames": 3,
-      "gamesRemaining": 14
+      "playedGames": 4,
+      "gamesRemaining": 13
     },
     "NYG": {
       "name": "New York Giants",
