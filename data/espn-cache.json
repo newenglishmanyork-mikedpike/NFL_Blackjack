@@ -25736,6 +25736,359 @@
           "touchdowns": 0
         }
       }
+    },
+    "401872993": {
+      "final": true,
+      "week": 5,
+      "home": "ATL",
+      "away": "BAL",
+      "players": {
+        "tylerhuntley": {
+          "name": "Tyler Huntley",
+          "team": "BAL",
+          "touchdowns": 3
+        },
+        "zayflowers": {
+          "name": "Zay Flowers",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "derrickhenry": {
+          "name": "Derrick Henry",
+          "team": "BAL",
+          "touchdowns": 1
+        },
+        "justicehill": {
+          "name": "Justice Hill",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "rashodbateman": {
+          "name": "Rashod Bateman",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "markandrews": {
+          "name": "Mark Andrews",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "joshcuevas": {
+          "name": "Josh Cuevas",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "devontezwalker": {
+          "name": "Devontez Walker",
+          "team": "BAL",
+          "touchdowns": 1
+        },
+        "malakistarks": {
+          "name": "Malaki Starks",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "roquansmith": {
+          "name": "Roquan Smith",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "trentonsimpson": {
+          "name": "Trenton Simpson",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "kylehamilton": {
+          "name": "Kyle Hamilton",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "taviusrobinson": {
+          "name": "Tavius Robinson",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "marlonhumphrey": {
+          "name": "Marlon Humphrey",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "jaylinnhawkins": {
+          "name": "Jaylinn Hawkins",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "rasheenali": {
+          "name": "Rasheen Ali",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "ethanburke": {
+          "name": "Ethan Burke",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "mikegreen": {
+          "name": "Mike Green",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "calaiscampbell": {
+          "name": "Calais Campbell",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "natewiggins": {
+          "name": "Nate Wiggins",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "chandlerrivers": {
+          "name": "Chandler Rivers",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "nnamdimadubuike": {
+          "name": "Nnamdi Madubuike",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "travisjones": {
+          "name": "Travis Jones",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "teddyebuchanan": {
+          "name": "Teddye Buchanan",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "zionyoung": {
+          "name": "Zion Young",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "nickmoore": {
+          "name": "Nick Moore",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "broderickwashingtonjr": {
+          "name": "Broderick Washington Jr.",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "keondrejackson": {
+          "name": "Keondre Jackson",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "lajohntaywester": {
+          "name": "LaJohntay Wester",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "tylerloop": {
+          "name": "Tyler Loop",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "ryaneckley": {
+          "name": "Ryan Eckley",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "michaelpenixjr": {
+          "name": "Michael Penix Jr.",
+          "team": "ATL",
+          "touchdowns": 1
+        },
+        "tuatagovailoa": {
+          "name": "Tua Tagovailoa",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "bijanrobinson": {
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "brianrobinsonjr": {
+          "name": "Brian Robinson Jr.",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "drakelondon": {
+          "name": "Drake London",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "jahandotson": {
+          "name": "Jahan Dotson",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "kylepittssr": {
+          "name": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "touchdowns": 1
+        },
+        "zachariahbranch": {
+          "name": "Zachariah Branch",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "charliewoerner": {
+          "name": "Charlie Woerner",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "jakematthews": {
+          "name": "Jake Matthews",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "jessiebatesiii": {
+          "name": "Jessie Bates III",
+          "team": "ATL",
+          "touchdowns": 1
+        },
+        "ryanneuzil": {
+          "name": "Ryan Neuzil",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "divinedeablo": {
+          "name": "Divine Deablo",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "xavierwatts": {
+          "name": "Xavier Watts",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "kendaldaniels": {
+          "name": "Kendal Daniels",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "mikehughes": {
+          "name": "Mike Hughes",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "sydneybrown": {
+          "name": "Sydney Brown",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "lacalelondon": {
+          "name": "LaCale London",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "zachharrison": {
+          "name": "Zach Harrison",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "gervondextersr": {
+          "name": "Gervon Dexter Sr.",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "cameronthomas": {
+          "name": "Cameron Thomas",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "jaredivey": {
+          "name": "Jared Ivey",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "haroldperkinsjr": {
+          "name": "Harold Perkins Jr.",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "avieonterrell": {
+          "name": "Avieon Terrell",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "samsonebukam": {
+          "name": "Samson Ebukam",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "cjhenderson": {
+          "name": "C.J. Henderson",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "billybowmanjr": {
+          "name": "Billy Bowman Jr.",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "mikefordjr": {
+          "name": "Mike Ford Jr.",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "joshwoods": {
+          "name": "Josh Woods",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "nickmuse": {
+          "name": "Nick Muse",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "jammierobinson": {
+          "name": "Jammie Robinson",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "brandondorlus": {
+          "name": "Brandon Dorlus",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "bralentrice": {
+          "name": "Bralen Trice",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "demarccohellams": {
+          "name": "DeMarcco Hellams",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "maasonsmith": {
+          "name": "Maason Smith",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "olamidezaccheaus": {
+          "name": "Olamide Zaccheaus",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "nickfolk": {
+          "name": "Nick Folk",
+          "team": "ATL",
+          "touchdowns": 0
+        },
+        "jakebailey": {
+          "name": "Jake Bailey",
+          "team": "ATL",
+          "touchdowns": 0
+        }
+      }
     }
   }
 }
