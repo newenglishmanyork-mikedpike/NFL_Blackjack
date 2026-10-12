@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T03:55:27.354Z",
+  "updatedAt": "2026-10-12T05:37:50.162Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1449,
@@ -8308,21 +8308,21 @@
       "touchdowns": 0,
       "gamesPlayed": 2
     },
-    "tuatagovailoa": {
-      "name": "Tua Tagovailoa",
-      "team": "ATL",
+    "juanyehthomas": {
+      "name": "Juanyeh Thomas",
+      "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jakematthews": {
-      "name": "Jake Matthews",
-      "team": "ATL",
+    "cooperbeebe": {
+      "name": "Cooper Beebe",
+      "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "ryanneuzil": {
-      "name": "Ryan Neuzil",
-      "team": "ATL",
+    "tylerbooker": {
+      "name": "Tyler Booker",
+      "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -8680,21 +8680,21 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "juanyehthomas": {
-      "name": "Juanyeh Thomas",
-      "team": "DAL",
+    "tuatagovailoa": {
+      "name": "Tua Tagovailoa",
+      "team": "ATL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "cooperbeebe": {
-      "name": "Cooper Beebe",
-      "team": "DAL",
+    "jakematthews": {
+      "name": "Jake Matthews",
+      "team": "ATL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "tylerbooker": {
-      "name": "Tyler Booker",
-      "team": "DAL",
+    "ryanneuzil": {
+      "name": "Ryan Neuzil",
+      "team": "ATL",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
