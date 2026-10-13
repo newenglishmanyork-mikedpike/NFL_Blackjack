@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-12T15:07:59.316Z",
+  "updatedAt": "2026-10-13T00:29:24.942Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1449,
+  "playersReturned": 1450,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -566,7 +566,7 @@
       "name": "Matthew Stafford",
       "team": "LAR",
       "touchdowns": 6,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "stetsonbennettiv": {
       "name": "Stetson Bennett IV",
@@ -584,7 +584,7 @@
       "name": "Kyren Williams",
       "team": "LAR",
       "touchdowns": 4,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "ronnierivers": {
       "name": "Ronnie Rivers",
@@ -596,7 +596,7 @@
       "name": "Puka Nacua",
       "team": "LAR",
       "touchdowns": 1,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "davanteadams": {
       "name": "Davante Adams",
@@ -614,7 +614,7 @@
       "name": "Tyler Higbee",
       "team": "LAR",
       "touchdowns": 1,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "jordanwhittington": {
       "name": "Jordan Whittington",
@@ -626,7 +626,7 @@
       "name": "Colby Parkinson",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "terranceferguson": {
       "name": "Terrance Ferguson",
@@ -656,7 +656,7 @@
       "name": "Nate Landman",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "kobieturner": {
       "name": "Kobie Turner",
@@ -686,7 +686,7 @@
       "name": "Josaiah Stewart",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "trentmcduffie": {
       "name": "Trent McDuffie",
@@ -752,7 +752,7 @@
       "name": "Ethan Evans",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "bakermayfield": {
       "name": "Baker Mayfield",
@@ -3488,19 +3488,19 @@
       "name": "Josh Allen",
       "team": "BUF",
       "touchdowns": 13,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "jamescookiii": {
       "name": "James Cook III",
       "team": "BUF",
       "touchdowns": 3,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "raydavis": {
       "name": "Ray Davis",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "frankgorejr": {
       "name": "Frank Gore Jr.",
@@ -3536,7 +3536,7 @@
       "name": "Dawson Knox",
       "team": "BUF",
       "touchdowns": 1,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "keoncoleman": {
       "name": "Keon Coleman",
@@ -3554,7 +3554,7 @@
       "name": "Terrel Bernard",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "ocyrustorrence": {
       "name": "O'Cyrus Torrence",
@@ -3572,13 +3572,13 @@
       "name": "C.J. Gardner-Johnson",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "colebishop": {
       "name": "Cole Bishop",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "deonewalker": {
       "name": "Deone Walker",
@@ -3590,7 +3590,7 @@
       "name": "Christian Benford",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "michaelhoecht": {
       "name": "Michael Hoecht",
@@ -3626,7 +3626,7 @@
       "name": "Javon Solomon",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "greggaines": {
       "name": "Greg Gaines",
@@ -3650,7 +3650,7 @@
       "name": "Davison Igbinosun",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "damarhamlin": {
       "name": "Damar Hamlin",
@@ -3674,7 +3674,7 @@
       "name": "TJ Parker",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "landonjackson": {
       "name": "Landon Jackson",
@@ -3698,7 +3698,7 @@
       "name": "Tyler Bass",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "tommydomanjr": {
       "name": "Tommy Doman Jr.",
@@ -8042,7 +8042,7 @@
       "name": "Alex Bachman",
       "team": "LAR",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "markelbell": {
       "name": "Markel Bell",
@@ -8307,6 +8307,12 @@
       "team": "NO",
       "touchdowns": 0,
       "gamesPlayed": 2
+    },
+    "tjsanders": {
+      "name": "T.J. Sanders",
+      "team": "BUF",
+      "touchdowns": 0,
+      "gamesPlayed": 1
     },
     "juanyehthomas": {
       "name": "Juanyeh Thomas",
