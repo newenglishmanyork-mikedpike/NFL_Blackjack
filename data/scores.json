@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T02:54:36.166Z",
+  "updatedAt": "2026-10-19T04:19:55.051Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1499,
@@ -4442,7 +4442,7 @@
       "name": "Kamal Hadden",
       "team": "GB",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "javonbullard": {
       "name": "Javon Bullard",
@@ -4466,7 +4466,7 @@
       "name": "Dani Dennis-Sutton",
       "team": "GB",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "chrismcclellan": {
       "name": "Chris McClellan",
@@ -5425,7 +5425,7 @@
     "dakprescott": {
       "name": "Dak Prescott",
       "team": "DAL",
-      "touchdowns": 9,
+      "touchdowns": 10,
       "gamesPlayed": 6
     },
     "javontewilliams": {
@@ -5461,7 +5461,7 @@
     "ryanflournoy": {
       "name": "Ryan Flournoy",
       "team": "DAL",
-      "touchdowns": 0,
+      "touchdowns": 1,
       "gamesPlayed": 6
     },
     "brevynspannford": {
@@ -6578,7 +6578,7 @@
       "name": "Anthony Campbell",
       "team": "GB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jmichaelsturdivant": {
       "name": "J. Michael Sturdivant",
@@ -8078,7 +8078,7 @@
       "name": "Carrington Valentine",
       "team": "GB",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "seantucker": {
       "name": "Sean Tucker",
@@ -8728,27 +8728,33 @@
       "touchdowns": 0,
       "gamesPlayed": 2
     },
-    "joeyporterjr": {
-      "name": "Joey Porter Jr.",
-      "team": "DAL",
+    "irvcharles": {
+      "name": "Irv Charles",
+      "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "savionwilliams": {
-      "name": "Savion Williams",
-      "team": "GB",
+    "trevondiggs": {
+      "name": "Trevon Diggs",
+      "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "arronmosby": {
-      "name": "Arron Mosby",
-      "team": "GB",
+    "jimmyciarlo": {
+      "name": "Jimmy Ciarlo",
+      "team": "SEA",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "colemanowen": {
-      "name": "Coleman Owen",
-      "team": "GB",
+    "taylorrapp": {
+      "name": "Taylor Rapp",
+      "team": "DEN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "saivionjones": {
+      "name": "Sai'vion Jones",
+      "team": "DEN",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -8968,33 +8974,27 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "irvcharles": {
-      "name": "Irv Charles",
-      "team": "SEA",
+    "joeyporterjr": {
+      "name": "Joey Porter Jr.",
+      "team": "DAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "trevondiggs": {
-      "name": "Trevon Diggs",
-      "team": "SEA",
+    "savionwilliams": {
+      "name": "Savion Williams",
+      "team": "GB",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jimmyciarlo": {
-      "name": "Jimmy Ciarlo",
-      "team": "SEA",
+    "arronmosby": {
+      "name": "Arron Mosby",
+      "team": "GB",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "taylorrapp": {
-      "name": "Taylor Rapp",
-      "team": "DEN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "saivionjones": {
-      "name": "Sai'vion Jones",
-      "team": "DEN",
+    "colemanowen": {
+      "name": "Coleman Owen",
+      "team": "GB",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
@@ -9042,8 +9042,8 @@
     },
     "DAL": {
       "name": "Dallas Cowboys",
-      "playedGames": 5,
-      "gamesRemaining": 12
+      "playedGames": 6,
+      "gamesRemaining": 11
     },
     "DEN": {
       "name": "Denver Broncos",
@@ -9057,8 +9057,8 @@
     },
     "GB": {
       "name": "Green Bay Packers",
-      "playedGames": 5,
-      "gamesRemaining": 12
+      "playedGames": 6,
+      "gamesRemaining": 11
     },
     "HOU": {
       "name": "Houston Texans",
