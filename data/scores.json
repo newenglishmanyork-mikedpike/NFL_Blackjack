@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T00:43:45.382Z",
+  "updatedAt": "2026-10-26T02:49:40.554Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1533,
@@ -193,7 +193,7 @@
     "samdarnold": {
       "name": "Sam Darnold",
       "team": "SEA",
-      "touchdowns": 7,
+      "touchdowns": 8,
       "gamesPlayed": 6
     },
     "jadarianprice": {
@@ -217,20 +217,20 @@
     "jaxonsmithnjigba": {
       "name": "Jaxon Smith-Njigba",
       "team": "SEA",
-      "touchdowns": 7,
+      "touchdowns": 8,
       "gamesPlayed": 7
     },
     "cooperkupp": {
       "name": "Cooper Kupp",
       "team": "SEA",
       "touchdowns": 1,
-      "gamesPlayed": 6
+      "gamesPlayed": 7
     },
     "bradyrussell": {
       "name": "Brady Russell",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "ajbarner": {
       "name": "AJ Barner",
@@ -242,7 +242,7 @@
       "name": "Rashid Shaheed",
       "team": "SEA",
       "touchdowns": 1,
-      "gamesPlayed": 6
+      "gamesPlayed": 7
     },
     "ernestjonesiv": {
       "name": "Ernest Jones IV",
@@ -266,13 +266,13 @@
       "name": "Nehemiah Pritchett",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 6
+      "gamesPlayed": 7
     },
     "julianlove": {
       "name": "Julian Love",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "uchennanwosu": {
       "name": "Uchenna Nwosu",
@@ -320,7 +320,7 @@
       "name": "Derick Hall",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 6
+      "gamesPlayed": 7
     },
     "chazzsurratt": {
       "name": "Chazz Surratt",
@@ -344,7 +344,7 @@
       "name": "Patrick O'Connell",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "connorotoole": {
       "name": "Connor O'Toole",
@@ -356,7 +356,7 @@
       "name": "Jason Myers",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 6
+      "gamesPlayed": 7
     },
     "michaeldickson": {
       "name": "Michael Dickson",
@@ -6074,7 +6074,7 @@
       "name": "Xavier Worthy",
       "team": "KC",
       "touchdowns": 1,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "jakebriningstool": {
       "name": "Jake Briningstool",
@@ -6134,7 +6134,7 @@
       "name": "Jaden Hicks",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "nohlwilliams": {
       "name": "Nohl Williams",
@@ -6146,19 +6146,19 @@
       "name": "Alohi Gilman",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "georgekarlaftis": {
       "name": "George Karlaftis",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "rmasonthomas": {
       "name": "R Mason Thomas",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "benvansumeren": {
       "name": "Ben VanSumeren",
@@ -6200,7 +6200,7 @@
       "name": "Jalen Royals",
       "team": "KC",
       "touchdowns": 1,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "jackcochrane": {
       "name": "Jack Cochrane",
@@ -6212,7 +6212,7 @@
       "name": "Khyiris Tonga",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "coopermcdonald": {
       "name": "Cooper McDonald",
@@ -6224,7 +6224,7 @@
       "name": "Jeffrey Bassa",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "ashtongillotte": {
       "name": "Ashton Gillotte",
@@ -6242,13 +6242,13 @@
       "name": "Nikko Remigio",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "harrisonbutker": {
       "name": "Harrison Butker",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "mattaraiza": {
       "name": "Matt Araiza",
@@ -6992,7 +6992,7 @@
       "name": "Eric Saubert",
       "team": "SEA",
       "touchdowns": 1,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "ajfinley": {
       "name": "AJ Finley",
@@ -7472,7 +7472,7 @@
       "name": "Bryson Eason",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "aaronbrewer": {
       "name": "Aaron Brewer",
@@ -8246,13 +8246,13 @@
       "name": "Mike Morris",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "dantefowlerjr": {
       "name": "Dante Fowler Jr.",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "amenogbongbemiga": {
       "name": "Amen Ogbongbemiga",
@@ -8660,19 +8660,19 @@
       "name": "Velus Jones Jr.",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "charlescross": {
       "name": "Charles Cross",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "brandonpili": {
       "name": "Brandon Pili",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "tyriceknight": {
       "name": "Tyrice Knight",
@@ -8960,7 +8960,7 @@
       "name": "Andrew Armstrong",
       "team": "KC",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "jameswinchester": {
       "name": "James Winchester",
