@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T02:49:40.554Z",
+  "updatedAt": "2026-10-26T04:24:06.334Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1533,
@@ -211,7 +211,7 @@
     "emanuelwilson": {
       "name": "Emanuel Wilson",
       "team": "SEA",
-      "touchdowns": 3,
+      "touchdowns": 4,
       "gamesPlayed": 7
     },
     "jaxonsmithnjigba": {
@@ -7016,7 +7016,7 @@
       "name": "Avery Smith",
       "team": "SEA",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "bamknight": {
       "name": "Bam Knight",
@@ -9016,9 +9016,9 @@
       "touchdowns": 0,
       "gamesPlayed": 2
     },
-    "justinwatson": {
-      "name": "Justin Watson",
-      "team": "KC",
+    "jamreekromah": {
+      "name": "Jamree Kromah",
+      "team": "CHI",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -9196,9 +9196,9 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jamreekromah": {
-      "name": "Jamree Kromah",
-      "team": "CHI",
+    "justinwatson": {
+      "name": "Justin Watson",
+      "team": "KC",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
@@ -9281,8 +9281,8 @@
     },
     "KC": {
       "name": "Kansas City Chiefs",
-      "playedGames": 5,
-      "gamesRemaining": 12
+      "playedGames": 6,
+      "gamesRemaining": 11
     },
     "LAC": {
       "name": "Los Angeles Chargers",
@@ -9341,8 +9341,8 @@
     },
     "SEA": {
       "name": "Seattle Seahawks",
-      "playedGames": 6,
-      "gamesRemaining": 11
+      "playedGames": 7,
+      "gamesRemaining": 10
     },
     "SF": {
       "name": "San Francisco 49ers",
