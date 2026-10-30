@@ -35786,6 +35786,359 @@
           "touchdowns": 0
         }
       }
+    },
+    "401873023": {
+      "final": true,
+      "week": 8,
+      "home": "GB",
+      "away": "CAR",
+      "players": {
+        "bryceyoung": {
+          "name": "Bryce Young",
+          "team": "CAR",
+          "touchdowns": 1
+        },
+        "chubahubbard": {
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "touchdowns": 1
+        },
+        "trevoretienne": {
+          "name": "Trevor Etienne",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "tetairoamcmillan": {
+          "name": "Tetairoa McMillan",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jalencoker": {
+          "name": "Jalen Coker",
+          "team": "CAR",
+          "touchdowns": 1
+        },
+        "mitchellevans": {
+          "name": "Mitchell Evans",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "tommytremble": {
+          "name": "Tommy Tremble",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "johnmetchieiii": {
+          "name": "John Metchie III",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "darrenwaller": {
+          "name": "Darren Waller",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "brycentremayne": {
+          "name": "Brycen Tremayne",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "bobbyokereke": {
+          "name": "Bobby Okereke",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "nickhampton": {
+          "name": "Nick Hampton",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "marcowilson": {
+          "name": "Marco Wilson",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "zakeewheatley": {
+          "name": "Zakee Wheatley",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "devinlloyd": {
+          "name": "Devin Lloyd",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "trevonmoehrig": {
+          "name": "Tre'von Moehrig",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "nickscott": {
+          "name": "Nick Scott",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "willleeiii": {
+          "name": "Will Lee III",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "tershawnwharton": {
+          "name": "Tershawn Wharton",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "patrickjonesii": {
+          "name": "Patrick Jones II",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "chausmithwade": {
+          "name": "Chau Smith-Wade",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "derrickbrown": {
+          "name": "Derrick Brown",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "aaronhall": {
+          "name": "Aaron Hall",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jacksonkuwatch": {
+          "name": "Jackson Kuwatch",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "trevisgipson": {
+          "name": "Trevis Gipson",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "princelyumanmielen": {
+          "name": "Princely Umanmielen",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "leehunter": {
+          "name": "Lee Hunter",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "tyreldodson": {
+          "name": "Tyrel Dodson",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "terahedwards": {
+          "name": "TeRah Edwards",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "malcolmdewaltiv": {
+          "name": "Malcolm DeWalt IV",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "isaiahsimmons": {
+          "name": "Isaiah Simmons",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "lathanransom": {
+          "name": "Lathan Ransom",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "bammartinscott": {
+          "name": "Bam Martin-Scott",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "anthonytyusiii": {
+          "name": "Anthony Tyus III",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "ryanfitzgerald": {
+          "name": "Ryan Fitzgerald",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "sammartin": {
+          "name": "Sam Martin",
+          "team": "CAR",
+          "touchdowns": 0
+        },
+        "jordanlove": {
+          "name": "Jordan Love",
+          "team": "GB",
+          "touchdowns": 3
+        },
+        "joshjacobs": {
+          "name": "Josh Jacobs",
+          "team": "GB",
+          "touchdowns": 2
+        },
+        "savionwilliams": {
+          "name": "Savion Williams",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "marshawnlloyd": {
+          "name": "MarShawn Lloyd",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "pierrestrongjr": {
+          "name": "Pierre Strong Jr.",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "christianwatson": {
+          "name": "Christian Watson",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "matthewgolden": {
+          "name": "Matthew Golden",
+          "team": "GB",
+          "touchdowns": 1
+        },
+        "tuckerkraft": {
+          "name": "Tucker Kraft",
+          "team": "GB",
+          "touchdowns": 1
+        },
+        "jmichaelsturdivant": {
+          "name": "J. Michael Sturdivant",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "colemanowen": {
+          "name": "Coleman Owen",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "johnwilliams": {
+          "name": "John Williams",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "brentoncoxjr": {
+          "name": "Brenton Cox Jr.",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "evanwilliams": {
+          "name": "Evan Williams",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "isaiahmcduffie": {
+          "name": "Isaiah McDuffie",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "tyronhopper": {
+          "name": "Ty'Ron Hopper",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "lukasvanness": {
+          "name": "Lukas Van Ness",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "chrismcclellan": {
+          "name": "Chris McClellan",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "barrynsorrell": {
+          "name": "Barryn Sorrell",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "javonbullard": {
+          "name": "Javon Bullard",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "danidennissutton": {
+          "name": "Dani Dennis-Sutton",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "xaviermckinney": {
+          "name": "Xavier McKinney",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "devontewyatt": {
+          "name": "Devonte Wyatt",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "keiseannixon": {
+          "name": "Keisean Nixon",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "kamalhadden": {
+          "name": "Kamal Hadden",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "brandoncisse": {
+          "name": "Brandon Cisse",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "nickniemann": {
+          "name": "Nick Niemann",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "bomelton": {
+          "name": "Bo Melton",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "anthonycampbell": {
+          "name": "Anthony Campbell",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "kristianwelch": {
+          "name": "Kristian Welch",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "arronmosby": {
+          "name": "Arron Mosby",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "kitanoladapo": {
+          "name": "Kitan Oladapo",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "treysmack": {
+          "name": "Trey Smack",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "danielwhelan": {
+          "name": "Daniel Whelan",
+          "team": "GB",
+          "touchdowns": 0
+        }
+      }
     }
   }
 }
