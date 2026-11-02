@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T03:58:05.610Z",
+  "updatedAt": "2026-11-02T05:40:18.089Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1577,
@@ -732,7 +732,7 @@
     },
     "byronyoung": {
       "name": "Byron Young",
-      "team": "LAR",
+      "team": "PHI",
       "touchdowns": 0,
       "gamesPlayed": 14
     },
@@ -4699,7 +4699,7 @@
     "rachaadwhite": {
       "name": "Rachaad White",
       "team": "WSH",
-      "touchdowns": 2,
+      "touchdowns": 3,
       "gamesPlayed": 6
     },
     "kaytronallen": {
@@ -9214,21 +9214,27 @@
       "touchdowns": 0,
       "gamesPlayed": 2
     },
-    "roccounderwood": {
-      "name": "Rocco Underwood",
-      "team": "PHI",
+    "marcowilson": {
+      "name": "Marco Wilson",
+      "team": "CAR",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jaydonblue": {
-      "name": "Jaydon Blue",
-      "team": "PHI",
+    "malcolmdewaltiv": {
+      "name": "Malcolm DeWalt IV",
+      "team": "CAR",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "vanjefferson": {
-      "name": "Van Jefferson",
-      "team": "WSH",
+    "bammartinscott": {
+      "name": "Bam Martin-Scott",
+      "team": "CAR",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "johnwilliams": {
+      "name": "John Williams",
+      "team": "GB",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -9442,27 +9448,21 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "marcowilson": {
-      "name": "Marco Wilson",
-      "team": "CAR",
+    "jaydonblue": {
+      "name": "Jaydon Blue",
+      "team": "PHI",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "malcolmdewaltiv": {
-      "name": "Malcolm DeWalt IV",
-      "team": "CAR",
+    "roccounderwood": {
+      "name": "Rocco Underwood",
+      "team": "PHI",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "bammartinscott": {
-      "name": "Bam Martin-Scott",
-      "team": "CAR",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "johnwilliams": {
-      "name": "John Williams",
-      "team": "GB",
+    "vanjefferson": {
+      "name": "Van Jefferson",
+      "team": "WSH",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
@@ -9595,8 +9595,8 @@
     },
     "PHI": {
       "name": "Philadelphia Eagles",
-      "playedGames": 7,
-      "gamesRemaining": 10
+      "playedGames": 8,
+      "gamesRemaining": 9
     },
     "PIT": {
       "name": "Pittsburgh Steelers",
@@ -9625,11 +9625,23 @@
     },
     "WSH": {
       "name": "Washington Commanders",
-      "playedGames": 6,
-      "gamesRemaining": 11
+      "playedGames": 7,
+      "gamesRemaining": 10
     }
   },
   "recentTouchdowns": [
+    {
+      "player": "Rachaad White",
+      "team": "WSH",
+      "delta": 1,
+      "touchdownsAfter": 3,
+      "opponent": "Philadelphia Eagles",
+      "isHome": true,
+      "gameDate": "2026-11-02T01:20Z",
+      "quarter": 4,
+      "clock": "1:52",
+      "detectedAt": "2026-11-02T05:40:18.088Z"
+    },
     {
       "player": "Blake Corum",
       "team": "LAR",
@@ -9760,18 +9772,6 @@
       "gameDate": "2026-10-18T20:05Z",
       "quarter": 2,
       "clock": "8:23",
-      "detectedAt": "2026-10-18T22:23:23.755Z"
-    },
-    {
-      "player": "Tommy Tremble",
-      "team": "CAR",
-      "delta": 1,
-      "touchdownsAfter": 2,
-      "opponent": "Philadelphia Eagles",
-      "isHome": false,
-      "gameDate": "2026-10-18T17:00Z",
-      "quarter": 4,
-      "clock": "6:33",
       "detectedAt": "2026-10-18T22:23:23.755Z"
     }
   ]
