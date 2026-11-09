@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-09T04:14:02.616Z",
+  "updatedAt": "2026-11-09T05:53:55.150Z",
   "season": "2026",
   "statsPublished": true,
-  "playersReturned": 1617,
+  "playersReturned": 1618,
   "players": {
     "drakemaye": {
       "name": "Drake Maye",
@@ -763,7 +763,7 @@
     "buckyirving": {
       "name": "Bucky Irving",
       "team": "TB",
-      "touchdowns": 7,
+      "touchdowns": 8,
       "gamesPlayed": 9
     },
     "kennygainwell": {
@@ -7730,7 +7730,7 @@
       "name": "Miles Killebrew",
       "team": "TB",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "ifeatumelifonwu": {
       "name": "Ifeatu Melifonwu",
@@ -7742,7 +7742,7 @@
       "name": "Ko Kieft",
       "team": "TB",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "joshcuevas": {
       "name": "Josh Cuevas",
@@ -8804,7 +8804,7 @@
       "name": "Clark Phillips III",
       "team": "CHI",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "shemarturner": {
       "name": "Shemar Turner",
@@ -9484,15 +9484,9 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "salvonahmed": {
-      "name": "Salvon Ahmed",
-      "team": "CHI",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "garrettbradbury": {
-      "name": "Garrett Bradbury",
-      "team": "CHI",
+    "jakemoody": {
+      "name": "Jake Moody",
+      "team": "BAL",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -9700,9 +9694,21 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jakemoody": {
-      "name": "Jake Moody",
-      "team": "BAL",
+    "salvonahmed": {
+      "name": "Salvon Ahmed",
+      "team": "CHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "joethuney": {
+      "name": "Joe Thuney",
+      "team": "CHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "garrettbradbury": {
+      "name": "Garrett Bradbury",
+      "team": "CHI",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
@@ -9735,8 +9741,8 @@
     },
     "CHI": {
       "name": "Chicago Bears",
-      "playedGames": 8,
-      "gamesRemaining": 9
+      "playedGames": 9,
+      "gamesRemaining": 8
     },
     "CIN": {
       "name": "Cincinnati Bengals",
@@ -9855,8 +9861,8 @@
     },
     "TB": {
       "name": "Tampa Bay Buccaneers",
-      "playedGames": 8,
-      "gamesRemaining": 9
+      "playedGames": 9,
+      "gamesRemaining": 8
     },
     "TEN": {
       "name": "Tennessee Titans",
