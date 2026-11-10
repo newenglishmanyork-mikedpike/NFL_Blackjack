@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T15:55:41.538Z",
+  "updatedAt": "2026-11-10T01:24:47.427Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1618,
@@ -3488,13 +3488,13 @@
       "name": "Josh Allen",
       "team": "BUF",
       "touchdowns": 20,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "jamescookiii": {
       "name": "James Cook III",
       "team": "BUF",
       "touchdowns": 7,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "raydavis": {
       "name": "Ray Davis",
@@ -3548,13 +3548,13 @@
       "name": "Ed Oliver",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "terrelbernard": {
       "name": "Terrel Bernard",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "ocyrustorrence": {
       "name": "O'Cyrus Torrence",
@@ -3662,7 +3662,7 @@
       "name": "Dee Alford",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "kalebelarmsorr": {
       "name": "Kaleb Elarms-Orr",
@@ -3692,7 +3692,7 @@
       "name": "Greg Dortch",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "tylerbass": {
       "name": "Tyler Bass",
@@ -3704,7 +3704,7 @@
       "name": "Tommy Doman Jr.",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "cjstroud": {
       "name": "C.J. Stroud",
@@ -4496,7 +4496,7 @@
       "name": "Carson Wentz",
       "team": "MIN",
       "touchdowns": 3,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "kylermurray": {
       "name": "Kyler Murray",
@@ -4514,7 +4514,7 @@
       "name": "Aaron Jones Sr.",
       "team": "MIN",
       "touchdowns": 2,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "justinjefferson": {
       "name": "Justin Jefferson",
@@ -4526,7 +4526,7 @@
       "name": "T.J. Hockenson",
       "team": "MIN",
       "touchdowns": 3,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "josholiver": {
       "name": "Josh Oliver",
@@ -4538,7 +4538,7 @@
       "name": "DeeJay Dallas",
       "team": "MIN",
       "touchdowns": 0,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "jauanjennings": {
       "name": "Jauan Jennings",
@@ -4598,7 +4598,7 @@
       "name": "Ivan Pace Jr.",
       "team": "MIN",
       "touchdowns": 0,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "levidrakerodriguez": {
       "name": "Levi Drake Rodriguez",
@@ -4610,7 +4610,7 @@
       "name": "Eric Wilson",
       "team": "MIN",
       "touchdowns": 0,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "jacobthomas": {
       "name": "Jacob Thomas",
@@ -4622,7 +4622,7 @@
       "name": "Dallas Turner",
       "team": "MIN",
       "touchdowns": 0,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "theojackson": {
       "name": "Theo Jackson",
@@ -4682,7 +4682,7 @@
       "name": "Brett Thorson",
       "team": "MIN",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "jaydendaniels": {
       "name": "Jayden Daniels",
@@ -8708,7 +8708,7 @@
       "name": "T.J. Sanders",
       "team": "BUF",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "anthonykendall": {
       "name": "Anthony Kendall",
