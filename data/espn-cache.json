@@ -48645,6 +48645,1005 @@
           "touchdowns": 0
         }
       }
+    },
+    "401873061": {
+      "final": true,
+      "week": 10,
+      "home": "ARI",
+      "away": "LAR",
+      "players": {
+        "matthewstafford": {
+          "name": "Matthew Stafford",
+          "team": "LAR",
+          "touchdowns": 3
+        },
+        "blakecorum": {
+          "name": "Blake Corum",
+          "team": "LAR",
+          "touchdowns": 1
+        },
+        "ronnierivers": {
+          "name": "Ronnie Rivers",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "kyrenwilliams": {
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "konatamumpfield": {
+          "name": "Konata Mumpfield",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "xaviersmith": {
+          "name": "Xavier Smith",
+          "team": "LAR",
+          "touchdowns": 1
+        },
+        "tutuatwell": {
+          "name": "Tutu Atwell",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "cjdaniels": {
+          "name": "CJ Daniels",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "davisallen": {
+          "name": "Davis Allen",
+          "team": "LAR",
+          "touchdowns": 1
+        },
+        "tylerhigbee": {
+          "name": "Tyler Higbee",
+          "team": "LAR",
+          "touchdowns": 1
+        },
+        "colbyparkinson": {
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "shaundolac": {
+          "name": "Shaun Dolac",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "byronyoung": {
+          "name": "Byron Young",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "bradenfiske": {
+          "name": "Braden Fiske",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "omarspeights": {
+          "name": "Omar Speights",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "joshwallace": {
+          "name": "Josh Wallace",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "aarondonald": {
+          "name": "Aaron Donald",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "tylerdavis": {
+          "name": "Tyler Davis",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "kamcurl": {
+          "name": "Kam Curl",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "quentinlake": {
+          "name": "Quentin Lake",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "trentmcduffie": {
+          "name": "Trent McDuffie",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "tyhamilton": {
+          "name": "Ty Hamilton",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "natelandman": {
+          "name": "Nate Landman",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "emmanuelforbesjr": {
+          "name": "Emmanuel Forbes Jr.",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "damarionwilliams": {
+          "name": "Damarion Williams",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "larrellmurchison": {
+          "name": "Larrell Murchison",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "jaylenmccollough": {
+          "name": "Jaylen McCollough",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "wesleybailey": {
+          "name": "Wesley Bailey",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "kamrenkinchens": {
+          "name": "Kamren Kinchens",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "josaiahstewart": {
+          "name": "Josaiah Stewart",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "brennanpresley": {
+          "name": "Brennan Presley",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "brandonmcmanus": {
+          "name": "Brandon McManus",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "ethanevans": {
+          "name": "Ethan Evans",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "carsonbeck": {
+          "name": "Carson Beck",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "bamknight": {
+          "name": "Bam Knight",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "tylerallgeier": {
+          "name": "Tyler Allgeier",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "treymcbride": {
+          "name": "Trey McBride",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "devinduvernay": {
+          "name": "Devin Duvernay",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "simifehoko": {
+          "name": "Simi Fehoko",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "harrisonwallaceiii": {
+          "name": "Harrison Wallace III",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "hunterlong": {
+          "name": "Hunter Long",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "zayjones": {
+          "name": "Zay Jones",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "elijahwilkinson": {
+          "name": "Elijah Wilkinson",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "andrewwingard": {
+          "name": "Andrew Wingard",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "mackwilsonsr": {
+          "name": "Mack Wilson Sr.",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "codysimon": {
+          "name": "Cody Simon",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "baronbrowning": {
+          "name": "Baron Browning",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "buddabaker": {
+          "name": "Budda Baker",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "zavencollins": {
+          "name": "Zaven Collins",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "dantestills": {
+          "name": "Dante Stills",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "keitrelclark": {
+          "name": "Kei'Trel Clark",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "walternoleniii": {
+          "name": "Walter Nolen III",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "joshsweat": {
+          "name": "Josh Sweat",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "roylopez": {
+          "name": "Roy Lopez",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "ljcollier": {
+          "name": "L.J. Collier",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "kalenking": {
+          "name": "Kalen King",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "denzelburke": {
+          "name": "Denzel Burke",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "maxmelton": {
+          "name": "Max Melton",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "jackgibbens": {
+          "name": "Jack Gibbens",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "dariusrobinson": {
+          "name": "Darius Robinson",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "karsonsharar": {
+          "name": "Karson Sharar",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "garrettwilliams": {
+          "name": "Garrett Williams",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "kitancrawford": {
+          "name": "Kitan Crawford",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "chadryland": {
+          "name": "Chad Ryland",
+          "team": "ARI",
+          "touchdowns": 0
+        },
+        "blakegillikin": {
+          "name": "Blake Gillikin",
+          "team": "ARI",
+          "touchdowns": 0
+        }
+      }
+    },
+    "401873062": {
+      "final": true,
+      "week": 10,
+      "home": "LV",
+      "away": "SEA",
+      "players": {
+        "drewlock": {
+          "name": "Drew Lock",
+          "team": "SEA",
+          "touchdowns": 2
+        },
+        "zachcharbonnet": {
+          "name": "Zach Charbonnet",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "jadarianprice": {
+          "name": "Jadarian Price",
+          "team": "SEA",
+          "touchdowns": 1
+        },
+        "jaxonsmithnjigba": {
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "touchdowns": 1
+        },
+        "cooperkupp": {
+          "name": "Cooper Kupp",
+          "team": "SEA",
+          "touchdowns": 1
+        },
+        "ajbarner": {
+          "name": "AJ Barner",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "rashidshaheed": {
+          "name": "Rashid Shaheed",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "ernestjonesiv": {
+          "name": "Ernest Jones IV",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "nickemmanwori": {
+          "name": "Nick Emmanwori",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "drakethomas": {
+          "name": "Drake Thomas",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "demarcuslawrence": {
+          "name": "DeMarcus Lawrence",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "joshjobe": {
+          "name": "Josh Jobe",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "byronmurphyii": {
+          "name": "Byron Murphy II",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "devonwitherspoon": {
+          "name": "Devon Witherspoon",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "dantefowlerjr": {
+          "name": "Dante Fowler Jr.",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "derickhall": {
+          "name": "Derick Hall",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "julianlove": {
+          "name": "Julian Love",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "tyokada": {
+          "name": "Ty Okada",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "patrickoconnell": {
+          "name": "Patrick O'Connell",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "irvcharles": {
+          "name": "Irv Charles",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "uchennanwosu": {
+          "name": "Uchenna Nwosu",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "brandonpili": {
+          "name": "Brandon Pili",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "ryliemills": {
+          "name": "Rylie Mills",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "mikemorris": {
+          "name": "Mike Morris",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "connorotoole": {
+          "name": "Connor O'Toole",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "jarranreed": {
+          "name": "Jarran Reed",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "jasonmyers": {
+          "name": "Jason Myers",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "michaeldickson": {
+          "name": "Michael Dickson",
+          "team": "SEA",
+          "touchdowns": 0
+        },
+        "fernandomendoza": {
+          "name": "Fernando Mendoza",
+          "team": "LV",
+          "touchdowns": 1
+        },
+        "mikewashingtonjr": {
+          "name": "Mike Washington Jr.",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "ashtonjeanty": {
+          "name": "Ashton Jeanty",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "michaelmayer": {
+          "name": "Michael Mayer",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "codywhite": {
+          "name": "Cody White",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "brockbowers": {
+          "name": "Brock Bowers",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "ianthomas": {
+          "name": "Ian Thomas",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "jackbech": {
+          "name": "Jack Bech",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "tretucker": {
+          "name": "Tre Tucker",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "connorheyward": {
+          "name": "Connor Heyward",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "jalennailor": {
+          "name": "Jalen Nailor",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "dylanlaube": {
+          "name": "Dylan Laube",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "quaywalker": {
+          "name": "Quay Walker",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "nakobedean": {
+          "name": "Nakobe Dean",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "maxxcrosby": {
+          "name": "Maxx Crosby",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "jeremychinn": {
+          "name": "Jeremy Chinn",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "kwitypaye": {
+          "name": "Kwity Paye",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "treydanstukes": {
+          "name": "Treydan Stukes",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "taronjohnson": {
+          "name": "Taron Johnson",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "hezekiahmasses": {
+          "name": "Hezekiah Masses",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "ericstokes": {
+          "name": "Eric Stokes",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "malcolmkoonce": {
+          "name": "Malcolm Koonce",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "isaiahpolamao": {
+          "name": "Isaiah Pola-Mao",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "tonkahemingway": {
+          "name": "Tonka Hemingway",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "jermodmccoy": {
+          "name": "Jermod McCoy",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "segunolubi": {
+          "name": "Segun Olubi",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "darekeyoung": {
+          "name": "Dareke Young",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "darrellluterjr": {
+          "name": "Darrell Luter Jr.",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "adambutler": {
+          "name": "Adam Butler",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "folorunsofatukasi": {
+          "name": "Folorunso Fatukasi",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "mattgay": {
+          "name": "Matt Gay",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "jjpegues": {
+          "name": "JJ Pegues",
+          "team": "LV",
+          "touchdowns": 0
+        },
+        "ajcole": {
+          "name": "AJ Cole",
+          "team": "LV",
+          "touchdowns": 0
+        }
+      }
+    },
+    "401873063": {
+      "final": true,
+      "week": 10,
+      "home": "DAL",
+      "away": "SF",
+      "players": {
+        "brockpurdy": {
+          "name": "Brock Purdy",
+          "team": "SF",
+          "touchdowns": 3
+        },
+        "deebosamuelsr": {
+          "name": "Deebo Samuel Sr.",
+          "team": "SF",
+          "touchdowns": 2
+        },
+        "christianmccaffrey": {
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "touchdowns": 3
+        },
+        "kaelonblack": {
+          "name": "Kaelon Black",
+          "team": "SF",
+          "touchdowns": 1
+        },
+        "georgekittle": {
+          "name": "George Kittle",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "keenanallen": {
+          "name": "Keenan Allen",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "jordanwatkins": {
+          "name": "Jordan Watkins",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "marquessigle": {
+          "name": "Marques Sigle",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "fredwarner": {
+          "name": "Fred Warner",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "dregreenlaw": {
+          "name": "Dre Greenlaw",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "renardogreen": {
+          "name": "Renardo Green",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "deommodorelenoir": {
+          "name": "Deommodore Lenoir",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "osaodighizuwa": {
+          "name": "Osa Odighizuwa",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "ephesiansprysock": {
+          "name": "Ephesians Prysock",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "jiayirbrown": {
+          "name": "Ji'Ayir Brown",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "malikmustapha": {
+          "name": "Malik Mustapha",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "uptonstout": {
+          "name": "Upton Stout",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "deforestbuckner": {
+          "name": "DeForest Buckner",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "lukegifford": {
+          "name": "Luke Gifford",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "ashtyndavis": {
+          "name": "Ashtyn Davis",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "romelloheight": {
+          "name": "Romello Height",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "mykelwilliams": {
+          "name": "Mykel Williams",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "jamesthompsonjr": {
+          "name": "James Thompson Jr.",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "siranneal": {
+          "name": "Siran Neal",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "garretwallow": {
+          "name": "Garret Wallow",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "jadendugger": {
+          "name": "Jaden Dugger",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "khalidkareem": {
+          "name": "Khalid Kareem",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "braydenwillis": {
+          "name": "Brayden Willis",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "nickbosa": {
+          "name": "Nick Bosa",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "keionwhite": {
+          "name": "Keion White",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "sebastianvaldez": {
+          "name": "Sebastian Valdez",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "jordanjames": {
+          "name": "Jordan James",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "eddypineiro": {
+          "name": "Eddy Pineiro",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "corlisswaitman": {
+          "name": "Corliss Waitman",
+          "team": "SF",
+          "touchdowns": 0
+        },
+        "dakprescott": {
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "touchdowns": 5
+        },
+        "javontewilliams": {
+          "name": "Javonte Williams",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "kavontaeturpin": {
+          "name": "KaVontae Turpin",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "hunterluepke": {
+          "name": "Hunter Luepke",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "israelabanikanda": {
+          "name": "Israel Abanikanda",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "georgepickens": {
+          "name": "George Pickens",
+          "team": "DAL",
+          "touchdowns": 3
+        },
+        "ceedeelamb": {
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "touchdowns": 1
+        },
+        "ryanflournoy": {
+          "name": "Ryan Flournoy",
+          "team": "DAL",
+          "touchdowns": 1
+        },
+        "brevynspannford": {
+          "name": "Brevyn Spann-Ford",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "lukeschoonmaker": {
+          "name": "Luke Schoonmaker",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "tjbass": {
+          "name": "T.J. Bass",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "cooperbeebe": {
+          "name": "Cooper Beebe",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "terencesteele": {
+          "name": "Terence Steele",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "camdenbrown": {
+          "name": "Camden Brown",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "calebdowns": {
+          "name": "Caleb Downs",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "quinnenwilliams": {
+          "name": "Quinnen Williams",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "markquesebell": {
+          "name": "Markquese Bell",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "cobiedurant": {
+          "name": "Cobie Durant",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "deewinters": {
+          "name": "Dee Winters",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "elijahgarcia": {
+          "name": "Elijah Garcia",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "demarvionovershown": {
+          "name": "DeMarvion Overshown",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "shemarjames": {
+          "name": "Shemar James",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "jameshouston": {
+          "name": "James Houston",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "malikhooker": {
+          "name": "Malik Hooker",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "ltoverton": {
+          "name": "LT Overton",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "daronbland": {
+          "name": "DaRon Bland",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "kennyclark": {
+          "name": "Kenny Clark",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "maristliufau": {
+          "name": "Marist Liufau",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "jaishawnbarham": {
+          "name": "Jaishawn Barham",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "otitoogbonnia": {
+          "name": "Otito Ogbonnia",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "jonathanbullard": {
+          "name": "Jonathan Bullard",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "vonmiller": {
+          "name": "Von Miller",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "joeyporterjr": {
+          "name": "Joey Porter Jr.",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "brandonaubrey": {
+          "name": "Brandon Aubrey",
+          "team": "DAL",
+          "touchdowns": 0
+        },
+        "bryananger": {
+          "name": "Bryan Anger",
+          "team": "DAL",
+          "touchdowns": 0
+        }
+      }
     }
   }
 }
