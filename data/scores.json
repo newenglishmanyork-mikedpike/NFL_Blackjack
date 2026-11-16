@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T04:24:25.614Z",
+  "updatedAt": "2026-11-16T06:00:10.974Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1655,
@@ -9736,9 +9736,15 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "zachfrazier": {
-      "name": "Zach Frazier",
-      "team": "PIT",
+    "roberthenryjr": {
+      "name": "Robert Henry Jr.",
+      "team": "WSH",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "chandlermartin": {
+      "name": "Chandler Martin",
+      "team": "NYG",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -9922,15 +9928,9 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "roberthenryjr": {
-      "name": "Robert Henry Jr.",
-      "team": "WSH",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "chandlermartin": {
-      "name": "Chandler Martin",
-      "team": "NYG",
+    "zachfrazier": {
+      "name": "Zach Frazier",
+      "team": "PIT",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
@@ -9968,8 +9968,8 @@
     },
     "CIN": {
       "name": "Cincinnati Bengals",
-      "playedGames": 8,
-      "gamesRemaining": 9
+      "playedGames": 9,
+      "gamesRemaining": 8
     },
     "CLE": {
       "name": "Cleveland Browns",
@@ -10068,8 +10068,8 @@
     },
     "PIT": {
       "name": "Pittsburgh Steelers",
-      "playedGames": 8,
-      "gamesRemaining": 9
+      "playedGames": 9,
+      "gamesRemaining": 8
     },
     "SEA": {
       "name": "Seattle Seahawks",
