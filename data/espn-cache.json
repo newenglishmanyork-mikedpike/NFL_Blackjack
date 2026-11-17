@@ -49982,6 +49982,339 @@
           "touchdowns": 0
         }
       }
+    },
+    "401873065": {
+      "final": true,
+      "week": 10,
+      "home": "BAL",
+      "away": "LAC",
+      "players": {
+        "justinherbert": {
+          "name": "Justin Herbert",
+          "team": "LAC",
+          "touchdowns": 1
+        },
+        "omarionhampton": {
+          "name": "Omarion Hampton",
+          "team": "LAC",
+          "touchdowns": 1
+        },
+        "keatonmitchell": {
+          "name": "Keaton Mitchell",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "kimanividal": {
+          "name": "Kimani Vidal",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "treharris": {
+          "name": "Tre' Harris",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "charliekolar": {
+          "name": "Charlie Kolar",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "orondegadsden": {
+          "name": "Oronde Gadsden",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "quentinjohnston": {
+          "name": "Quentin Johnston",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "theoweasejr": {
+          "name": "Theo Wease Jr.",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "elijahmolden": {
+          "name": "Elijah Molden",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "daiyanhenley": {
+          "name": "Daiyan Henley",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "delshawnphillips": {
+          "name": "Del'Shawn Phillips",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "camhart": {
+          "name": "Cam Hart",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "dalvintomlinson": {
+          "name": "Dalvin Tomlinson",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "tonyjefferson": {
+          "name": "Tony Jefferson",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "tarheebstill": {
+          "name": "Tarheeb Still",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "denzelperryman": {
+          "name": "Denzel Perryman",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "calebmurphy": {
+          "name": "Caleb Murphy",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "genesissmith": {
+          "name": "Genesis Smith",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "khalilmack": {
+          "name": "Khalil Mack",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "dontejackson": {
+          "name": "Donte Jackson",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "teairtart": {
+          "name": "Teair Tart",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "rjmickens": {
+          "name": "RJ Mickens",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "akheemmesidor": {
+          "name": "Akheem Mesidor",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "nickbarrett": {
+          "name": "Nick Barrett",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "deaneleonard": {
+          "name": "Deane Leonard",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "rodneyshelley": {
+          "name": "Rodney Shelley",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "jamareecaldwell": {
+          "name": "Jamaree Caldwell",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "tulituipulotu": {
+          "name": "Tuli Tuipulotu",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "marlowewax": {
+          "name": "Marlowe Wax",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "deriusdavis": {
+          "name": "Derius Davis",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "camerondicker": {
+          "name": "Cameron Dicker",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "jkscott": {
+          "name": "JK Scott",
+          "team": "LAC",
+          "touchdowns": 0
+        },
+        "jacobybrissett": {
+          "name": "Jacoby Brissett",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "derrickhenry": {
+          "name": "Derrick Henry",
+          "team": "BAL",
+          "touchdowns": 2
+        },
+        "justicehill": {
+          "name": "Justice Hill",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "markandrews": {
+          "name": "Mark Andrews",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "zayflowers": {
+          "name": "Zay Flowers",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "jakobilane": {
+          "name": "Ja'Kobi Lane",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "rashodbateman": {
+          "name": "Rashod Bateman",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "joshcuevas": {
+          "name": "Josh Cuevas",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "chrismoore": {
+          "name": "Chris Moore",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "kylehamilton": {
+          "name": "Kyle Hamilton",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "roquansmith": {
+          "name": "Roquan Smith",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "marlonhumphrey": {
+          "name": "Marlon Humphrey",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "trentonsimpson": {
+          "name": "Trenton Simpson",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "mikegreen": {
+          "name": "Mike Green",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "keondrejackson": {
+          "name": "Keondre Jackson",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "malakistarks": {
+          "name": "Malaki Starks",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "calaiscampbell": {
+          "name": "Calais Campbell",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "travisjones": {
+          "name": "Travis Jones",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "natewiggins": {
+          "name": "Nate Wiggins",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "johnjenkins": {
+          "name": "John Jenkins",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "nnamdimadubuike": {
+          "name": "Nnamdi Madubuike",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "johnsimpson": {
+          "name": "John Simpson",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "tjtampa": {
+          "name": "T.J. Tampa",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "keyonmartin": {
+          "name": "Keyon Martin",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "ethanburke": {
+          "name": "Ethan Burke",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "ryaneckley": {
+          "name": "Ryan Eckley",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "treyhendrickson": {
+          "name": "Trey Hendrickson",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "broderickwashingtonjr": {
+          "name": "Broderick Washington Jr.",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "kvonwallace": {
+          "name": "K'Von Wallace",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "jayhigginsiv": {
+          "name": "Jay Higgins IV",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "lajohntaywester": {
+          "name": "LaJohntay Wester",
+          "team": "BAL",
+          "touchdowns": 0
+        },
+        "rileypatterson": {
+          "name": "Riley Patterson",
+          "team": "BAL",
+          "touchdowns": 0
+        }
+      }
     }
   }
 }
