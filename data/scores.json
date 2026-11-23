@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T03:44:13.028Z",
+  "updatedAt": "2026-11-23T05:20:07.222Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1685,
@@ -373,7 +373,7 @@
     "christianmccaffrey": {
       "name": "Christian McCaffrey",
       "team": "SF",
-      "touchdowns": 13,
+      "touchdowns": 14,
       "gamesPlayed": 10
     },
     "kaelonblack": {
@@ -404,7 +404,7 @@
       "name": "Luke Farrell",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "georgekittle": {
       "name": "George Kittle",
@@ -422,7 +422,7 @@
       "name": "Keion White",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 8
+      "gamesPlayed": 9
     },
     "fredwarner": {
       "name": "Fred Warner",
@@ -530,7 +530,7 @@
       "name": "Siran Neal",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 6
+      "gamesPlayed": 7
     },
     "ogbookoronkwo": {
       "name": "Ogbo Okoronkwo",
@@ -4496,7 +4496,7 @@
       "name": "Carson Wentz",
       "team": "MIN",
       "touchdowns": 3,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "kylermurray": {
       "name": "Kyler Murray",
@@ -4538,7 +4538,7 @@
       "name": "DeeJay Dallas",
       "team": "MIN",
       "touchdowns": 0,
-      "gamesPlayed": 8
+      "gamesPlayed": 9
     },
     "jauanjennings": {
       "name": "Jauan Jennings",
@@ -7100,13 +7100,13 @@
       "name": "Jordan James",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 6
+      "gamesPlayed": 7
     },
     "macjones": {
       "name": "Mac Jones",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "kylejuszczyk": {
       "name": "Kyle Juszczyk",
@@ -7124,7 +7124,7 @@
       "name": "Brayden Willis",
       "team": "SF",
       "touchdowns": 0,
-      "gamesPlayed": 6
+      "gamesPlayed": 7
     },
     "lukegifford": {
       "name": "Luke Gifford",
@@ -9812,7 +9812,7 @@
       "name": "Jakobe Thomas",
       "team": "MIN",
       "touchdowns": 0,
-      "gamesPlayed": 1
+      "gamesPlayed": 2
     },
     "dorianmausi": {
       "name": "Dorian Mausi",
@@ -9946,15 +9946,9 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "christiandarrisaw": {
-      "name": "Christian Darrisaw",
-      "team": "MIN",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
-    "tatumbethune": {
-      "name": "Tatum Bethune",
-      "team": "SF",
+    "quezwatkins": {
+      "name": "Quez Watkins",
+      "team": "IND",
       "touchdowns": 0,
       "gamesPlayed": 1
     },
@@ -10108,9 +10102,15 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "quezwatkins": {
-      "name": "Quez Watkins",
-      "team": "IND",
+    "christiandarrisaw": {
+      "name": "Christian Darrisaw",
+      "team": "MIN",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "tatumbethune": {
+      "name": "Tatum Bethune",
+      "team": "SF",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
@@ -10218,8 +10218,8 @@
     },
     "MIN": {
       "name": "Minnesota Vikings",
-      "playedGames": 9,
-      "gamesRemaining": 8
+      "playedGames": 10,
+      "gamesRemaining": 7
     },
     "NE": {
       "name": "New England Patriots",
@@ -10258,8 +10258,8 @@
     },
     "SF": {
       "name": "San Francisco 49ers",
-      "playedGames": 9,
-      "gamesRemaining": 8
+      "playedGames": 10,
+      "gamesRemaining": 7
     },
     "TB": {
       "name": "Tampa Bay Buccaneers",
