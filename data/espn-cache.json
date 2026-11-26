@@ -54674,6 +54674,319 @@
           "touchdowns": 0
         }
       }
+    },
+    "401873079": {
+      "final": true,
+      "week": 12,
+      "home": "LAR",
+      "away": "GB",
+      "players": {
+        "jordanlove": {
+          "name": "Jordan Love",
+          "team": "GB",
+          "touchdowns": 1
+        },
+        "savionwilliams": {
+          "name": "Savion Williams",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "kalebjohnson": {
+          "name": "Kaleb Johnson",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "marshawnlloyd": {
+          "name": "MarShawn Lloyd",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "chrisbrooks": {
+          "name": "Chris Brooks",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "bomelton": {
+          "name": "Bo Melton",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "christianwatson": {
+          "name": "Christian Watson",
+          "team": "GB",
+          "touchdowns": 1
+        },
+        "matthewgolden": {
+          "name": "Matthew Golden",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "tuckerkraft": {
+          "name": "Tucker Kraft",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "jmichaelsturdivant": {
+          "name": "J. Michael Sturdivant",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "keiseannixon": {
+          "name": "Keisean Nixon",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "evanwilliams": {
+          "name": "Evan Williams",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "isaiahmcduffie": {
+          "name": "Isaiah McDuffie",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "tyronhopper": {
+          "name": "Ty'Ron Hopper",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "chrismcclellan": {
+          "name": "Chris McClellan",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "xaviermckinney": {
+          "name": "Xavier McKinney",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "devontewyatt": {
+          "name": "Devonte Wyatt",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "jordonriley": {
+          "name": "Jordon Riley",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "barrynsorrell": {
+          "name": "Barryn Sorrell",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "karlbrooks": {
+          "name": "Karl Brooks",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "anthonycampbell": {
+          "name": "Anthony Campbell",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "lukasvanness": {
+          "name": "Lukas Van Ness",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "danidennissutton": {
+          "name": "Dani Dennis-Sutton",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "brandoncisse": {
+          "name": "Brandon Cisse",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "javonbullard": {
+          "name": "Javon Bullard",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "micahparsons": {
+          "name": "Micah Parsons",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "nickniemann": {
+          "name": "Nick Niemann",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "benjaminstjuste": {
+          "name": "Benjamin St-Juste",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "brentoncoxjr": {
+          "name": "Brenton Cox Jr.",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "skyymoore": {
+          "name": "Skyy Moore",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "treysmack": {
+          "name": "Trey Smack",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "danielwhelan": {
+          "name": "Daniel Whelan",
+          "team": "GB",
+          "touchdowns": 0
+        },
+        "matthewstafford": {
+          "name": "Matthew Stafford",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "blakecorum": {
+          "name": "Blake Corum",
+          "team": "LAR",
+          "touchdowns": 1
+        },
+        "kyrenwilliams": {
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "touchdowns": 1
+        },
+        "xaviersmith": {
+          "name": "Xavier Smith",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "konatamumpfield": {
+          "name": "Konata Mumpfield",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "tylerhigbee": {
+          "name": "Tyler Higbee",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "davisallen": {
+          "name": "Davis Allen",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "colbyparkinson": {
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "quentinlake": {
+          "name": "Quentin Lake",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "omarspeights": {
+          "name": "Omar Speights",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "natelandman": {
+          "name": "Nate Landman",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "mylesgarrett": {
+          "name": "Myles Garrett",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "byronyoung": {
+          "name": "Byron Young",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "emmanuelforbesjr": {
+          "name": "Emmanuel Forbes Jr.",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "josaiahstewart": {
+          "name": "Josaiah Stewart",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "kobieturner": {
+          "name": "Kobie Turner",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "grantstuard": {
+          "name": "Grant Stuard",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "kamcurl": {
+          "name": "Kam Curl",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "trentmcduffie": {
+          "name": "Trent McDuffie",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "joshwallace": {
+          "name": "Josh Wallace",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "aarondonald": {
+          "name": "Aaron Donald",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "tylerdavis": {
+          "name": "Tyler Davis",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "warrenmcclendonjr": {
+          "name": "Warren McClendon Jr.",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "jaylenmccollough": {
+          "name": "Jaylen McCollough",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "bradenfiske": {
+          "name": "Braden Fiske",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "kamrenkinchens": {
+          "name": "Kamren Kinchens",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "ronnierivers": {
+          "name": "Ronnie Rivers",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "brandonmcmanus": {
+          "name": "Brandon McManus",
+          "team": "LAR",
+          "touchdowns": 0
+        },
+        "ethanevans": {
+          "name": "Ethan Evans",
+          "team": "LAR",
+          "touchdowns": 0
+        }
+      }
     }
   }
 }
