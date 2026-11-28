@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:00:15.202Z",
+  "updatedAt": "2026-11-28T07:26:59.511Z",
   "season": "2026",
   "statsPublished": true,
   "playersReturned": 1692,
@@ -2516,13 +2516,13 @@
       "name": "Michael Pittman Jr.",
       "team": "PIT",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "patfreiermuth": {
       "name": "Pat Freiermuth",
       "team": "PIT",
       "touchdowns": 6,
-      "gamesPlayed": 10
+      "gamesPlayed": 11
     },
     "dkmetcalf": {
       "name": "DK Metcalf",
@@ -2534,7 +2534,7 @@
       "name": "Roman Wilson",
       "team": "PIT",
       "touchdowns": 2,
-      "gamesPlayed": 6
+      "gamesPlayed": 7
     },
     "darnellwashington": {
       "name": "Darnell Washington",
@@ -2575,8 +2575,8 @@
     "jalenramsey": {
       "name": "Jalen Ramsey",
       "team": "PIT",
-      "touchdowns": 0,
-      "gamesPlayed": 10
+      "touchdowns": 2,
+      "gamesPlayed": 11
     },
     "jacksawyer": {
       "name": "Jack Sawyer",
@@ -2594,7 +2594,7 @@
       "name": "Cameron Heyward",
       "team": "PIT",
       "touchdowns": 0,
-      "gamesPlayed": 10
+      "gamesPlayed": 11
     },
     "keeanubenton": {
       "name": "Keeanu Benton",
@@ -2642,7 +2642,7 @@
       "name": "Riley Nowakowski",
       "team": "PIT",
       "touchdowns": 0,
-      "gamesPlayed": 5
+      "gamesPlayed": 6
     },
     "asantesamueljr": {
       "name": "Asante Samuel Jr.",
@@ -5846,7 +5846,7 @@
       "name": "Troy Franklin",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 9
+      "gamesPlayed": 10
     },
     "evanengram": {
       "name": "Evan Engram",
@@ -5888,13 +5888,13 @@
       "name": "Dondrea Tillman",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 9
+      "gamesPlayed": 10
     },
     "rileymoss": {
       "name": "Riley Moss",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 9
+      "gamesPlayed": 10
     },
     "talanoahufanga": {
       "name": "Talanoa Hufanga",
@@ -5942,13 +5942,13 @@
       "name": "Pat Surtain II",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "malcolmroach": {
       "name": "Malcolm Roach",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 10
+      "gamesPlayed": 11
     },
     "nikbonitto": {
       "name": "Nik Bonitto",
@@ -5966,7 +5966,7 @@
       "name": "Ja'Quan McMillian",
       "team": "DEN",
       "touchdowns": 2,
-      "gamesPlayed": 9
+      "gamesPlayed": 10
     },
     "jordanturner": {
       "name": "Jordan Turner",
@@ -5990,7 +5990,7 @@
       "name": "Devon Key",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 10
+      "gamesPlayed": 11
     },
     "tycenanderson": {
       "name": "Tycen Anderson",
@@ -7526,7 +7526,7 @@
       "name": "Lew Nichols",
       "team": "PIT",
       "touchdowns": 0,
-      "gamesPlayed": 7
+      "gamesPlayed": 8
     },
     "roberttonyan": {
       "name": "Robert Tonyan",
@@ -7544,7 +7544,7 @@
       "name": "Brandin Echols",
       "team": "PIT",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "doneikoslaughter": {
       "name": "Doneiko Slaughter",
@@ -9140,7 +9140,7 @@
       "name": "Jonathon Cooper",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 4
+      "gamesPlayed": 5
     },
     "jaredharrisonhunte": {
       "name": "Jared Harrison-Hunte",
@@ -9344,7 +9344,7 @@
       "name": "Kevin Jobity Jr.",
       "team": "PIT",
       "touchdowns": 0,
-      "gamesPlayed": 2
+      "gamesPlayed": 3
     },
     "christiankuntz": {
       "name": "Christian Kuntz",
@@ -9434,7 +9434,7 @@
       "name": "Cody Schrader",
       "team": "DEN",
       "touchdowns": 0,
-      "gamesPlayed": 3
+      "gamesPlayed": 4
     },
     "julianashby": {
       "name": "Julian Ashby",
@@ -10114,12 +10114,6 @@
       "touchdowns": 0,
       "gamesPlayed": 1
     },
-    "jacobywindmon": {
-      "name": "Jacoby Windmon",
-      "team": "PIT",
-      "touchdowns": 0,
-      "gamesPlayed": 1
-    },
     "micahparsons": {
       "name": "Micah Parsons",
       "team": "GB",
@@ -10153,6 +10147,12 @@
     "masonreiger": {
       "name": "Mason Reiger",
       "team": "PHI",
+      "touchdowns": 0,
+      "gamesPlayed": 1
+    },
+    "jacobywindmon": {
+      "name": "Jacoby Windmon",
+      "team": "PIT",
       "touchdowns": 0,
       "gamesPlayed": 1
     }
@@ -10205,8 +10205,8 @@
     },
     "DEN": {
       "name": "Denver Broncos",
-      "playedGames": 10,
-      "gamesRemaining": 7
+      "playedGames": 11,
+      "gamesRemaining": 6
     },
     "DET": {
       "name": "Detroit Lions",
@@ -10290,8 +10290,8 @@
     },
     "PIT": {
       "name": "Pittsburgh Steelers",
-      "playedGames": 10,
-      "gamesRemaining": 7
+      "playedGames": 11,
+      "gamesRemaining": 6
     },
     "SEA": {
       "name": "Seattle Seahawks",
